@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dynamicmetaflow.com/about/</loc>
+    <loc>/dynamicmetaflow.com/about/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/blog/humble-beginnings/</loc>
+    <loc>/dynamicmetaflow.com/blog/humble-beginnings/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/tags/</loc>
-    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.com/</loc>
+    <loc>/dynamicmetaflow.com/tags/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/blog/</loc>
+    <loc>/dynamicmetaflow.com/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/categories/</loc>
+    <loc>/dynamicmetaflow.com/blog/</loc>
+    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/tags/</loc>
+    <loc>/dynamicmetaflow.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/categories/story-of-self/</loc>
+    <loc>/dynamicmetaflow.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/dynamicmetaflow.com/categories/story-of-self/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
