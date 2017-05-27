@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dynamicmetaflow.com/about/</loc>
+    <loc>http://dynamicmetaflow.com/about/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/blog/humble-beginnings/</loc>
+    <loc>http://dynamicmetaflow.com/blog/humble-beginnings/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/tags/</loc>
-    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.com/</loc>
+    <loc>http://dynamicmetaflow.com/tags/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/blog/</loc>
+    <loc>http://dynamicmetaflow.com/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.com/categories/story-of-self/</loc>
+    <loc>http://dynamicmetaflow.com/blog/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.com/tags/</loc>
+    <loc>http://dynamicmetaflow.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dynamicmetaflow.com/categories/story-of-self/</loc>
+    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dynamicmetaflow.com/tags/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

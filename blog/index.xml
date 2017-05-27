@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Alexander Soto | Bridging Social Justice and Technology</title>
-    <link>https://dynamicmetaflow.com/blog/</link>
+    <link>http://dynamicmetaflow.com/blog/</link>
     <description>Recent content in Blogs on Alexander Soto | Bridging Social Justice and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dynamicmetaflow.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dynamicmetaflow.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Humble Beginnings</title>
-      <link>https://dynamicmetaflow.com/blog/humble-beginnings/</link>
+      <link>http://dynamicmetaflow.com/blog/humble-beginnings/</link>
       <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://dynamicmetaflow.com/blog/humble-beginnings/</guid>
-      <description>In today&amp;rsquo;s world, major tech companies, educators and policymakers are pushing for STEM education. As a mentor at Resilient Coders and a Technology teacher at the Margarita Muñiz Academy, I strongly believe in the economic advancement and creating opportunities for youth for the betterment of society. My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson.</description>
+      <guid>http://dynamicmetaflow.com/blog/humble-beginnings/</guid>
+      <description>In today&amp;rsquo;s world, major tech companies, educators and policymakers are pushing for STEM education. As a mentor at Resilient Coders and a Technology teacher at the Margarita Muñiz Academy, I strongly believe in the economic advancement of youth for the betterment of society. My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from Dominican Republic, was my mentor and role-model.</description>
     </item>
     
   </channel>
