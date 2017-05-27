@@ -2,37 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Soto | Bridging Social Justice and Technology</title>
-    <link>http://dynamicmetaflow.com/index.xml</link>
+    <link>https://dynamicmetaflow.com/</link>
     <description>Recent content on Alexander Soto | Bridging Social Justice and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://dynamicmetaflow.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://dynamicmetaflow.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About</title>
-      <link>http://dynamicmetaflow.com/about/</link>
+      <link>https://dynamicmetaflow.com/about/</link>
       <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://dynamicmetaflow.com/about/</guid>
-      <description>&lt;p&gt;My name is Alexander Soto. I&amp;rsquo;m an activist, educator, technologist and agent of social change.
-My interests are in exploring issues in community-building, social justice,
-education and leveraging technology to address social problems. I&amp;rsquo;m a technology teacher at the Margarita Muñiz Academy and mentor at &lt;a href=&#34;http://www.resilientcoders.org&#34; title=&#34;Resilient Coders&#34;&gt;Resilient Coders&lt;/a&gt;, in the past I&amp;rsquo;ve worked as a community organizer and have volunteered at different organizations.&lt;/p&gt;
-</description>
+      <guid>https://dynamicmetaflow.com/about/</guid>
+      <description>My name is Alexander Soto. I&amp;rsquo;m an activist, educator, technologist and agent of social change. My interests are in exploring issues in community-building, social justice, education and leveraging technology to address social problems. I&amp;rsquo;m a technology teacher at the Margarita Muñiz Academy and mentor at Resilient Coders, in the past a community organizer and volunteer at different organizations. I&amp;rsquo;m a student at Northeastern University studying Computer Science.</description>
     </item>
     
     <item>
       <title>Humble Beginnings</title>
-      <link>http://dynamicmetaflow.com/blog/humble-beginnings/</link>
+      <link>https://dynamicmetaflow.com/blog/humble-beginnings/</link>
       <pubDate>Mon, 04 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://dynamicmetaflow.com/blog/humble-beginnings/</guid>
-      <description>&lt;p&gt;In today&amp;rsquo;s world, major tech companies, educators and policymakers are pushing for STEM education. As a mentor at &lt;a href=&#34;http://www.resilientcoders.org&#34;&gt;Resilient Coders&lt;/a&gt; and a Technology teacher at the Margarita Muñiz Academy, I strongly believe in the economic advancement of youth for the betterment of society. My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from Dominican Republic, was my mentor and role-model. When I visited during the weekend I would find my brother taking apart and repairing different devices. I looked forward to spending time with him and I would ask questions about technology, such as &amp;ldquo;What is RAM?&amp;rdquo;, &amp;ldquo;What are the differences between AMD and Intel?&amp;rdquo;. As a child, exposure to my brother&amp;rsquo;s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.&lt;/p&gt;
-
-&lt;p&gt;When I attended Middle School a science professor was discarding of a computer. I seized this opportunity and asked if I could have it, I became the proud owner of a Pentium II 233 MHz Desktop Computer. This was my first computer. I carried the large desktop up the hill and walked several blocks to my house. I troubleshooted the different parts and identified the power supply wasn&amp;rsquo;t working. I found an extra power supply from an abandoned computer and swapped the power supply. Through this computer and my 56K modem, I had the world&amp;rsquo;s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel on my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advance classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles book store. I seized this opportunity and chose the &amp;ldquo;C++ for Dummies&amp;rdquo; book (at the time they seemed to be popular and provided comic relief). As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.&lt;/p&gt;
-
-&lt;p&gt;From my experience, having access to technology or resources, advanced my learning potential. By the time I entered high school, the skills I gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors to shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities and I majored in Political Science with minors in Philosophy and Latin American Studies. I would like to highlight, that while these different points in my life are interconnected, the individuals were not aware of their valuable contributions. My brother, the science teacher, mentors and everyone in between all influenced my path to be a contributing member of society and my community. The push for STEM education, while it&amp;rsquo;s questionable that every student will attain &amp;ldquo;21st Century Skills&amp;rdquo;, the results are not noticeable in the immediate future and rather is an an investment that grows over time.&lt;/p&gt;
-</description>
+      <guid>https://dynamicmetaflow.com/blog/humble-beginnings/</guid>
+      <description>In today&amp;rsquo;s world, major tech companies, educators and policymakers are pushing for STEM education. As a mentor at Resilient Coders and a Technology teacher at the Margarita Muñiz Academy, I strongly believe in the economic advancement and creating opportunities for youth for the betterment of society. My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson.</description>
     </item>
     
   </channel>
