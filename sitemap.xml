@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://dynamicmetaflow.com/blog/ours-to-hack-and-to-own/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://dynamicmetaflow.com/about/</loc>
     <lastmod>2016-04-04T00:00:00+00:00</lastmod>
   </url>
@@ -19,31 +14,24 @@
   
   <url>
     <loc>http://dynamicmetaflow.com/tags/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://dynamicmetaflow.com/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://dynamicmetaflow.com/blog/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dynamicmetaflow.com/categories/books/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://dynamicmetaflow.com/categories/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +43,7 @@
   
   <url>
     <loc>http://dynamicmetaflow.com/tags/</loc>
-    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
