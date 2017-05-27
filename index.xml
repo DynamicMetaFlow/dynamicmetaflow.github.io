@@ -6,19 +6,10 @@
     <description>Recent content on Alexander Soto | Bridging Social Justice and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://dynamicmetaflow.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Org-mode Hugo Test</title>
-      <link>http://dynamicmetaflow.com/blog/orgmode-emacs/</link>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://dynamicmetaflow.com/blog/orgmode-emacs/</guid>
-      <description>Second test. This is a simple test to see how well this will work for me to be writing in the future different blog posts through emacs. I intend to use emacs org-mode in combination with hugo, emacs org-mode will publish the contents of the draft as a markdown file and then be able to upload the file</description>
-    </item>
     
     <item>
       <title>About</title>
