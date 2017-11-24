@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Alexander Soto | Bridging Social Justice and Technology</title>
-    <link>dynamicmetaflow.github.io/about/</link>
+    <link>https://dynamicmetaflow.github.io/about/</link>
     <description>Recent content in About on Alexander Soto | Bridging Social Justice and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate>
     
-	<atom:link href="dynamicmetaflow.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dynamicmetaflow.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
