@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#Blog on Alexander Soto | Bridging Social Justice and Technology</title>
+    <link>https://dynamicmetaflow.github.io/tags/#blog/</link>
+    <description>Recent content in #Blog on Alexander Soto | Bridging Social Justice and Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Aug 2017 10:35:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://dynamicmetaflow.github.io/tags/#blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Humble Beginnings</title>
+      <link>https://dynamicmetaflow.github.io/posts/humble-beginnings/</link>
+      <pubDate>Fri, 11 Aug 2017 10:35:00 -0400</pubDate>
+      
+      <guid>https://dynamicmetaflow.github.io/posts/humble-beginnings/</guid>
+      <description>beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from Dominican Republic, was my mentor and role-model. When I visited during the weekend I would find my brother taking apart and repairing different devices. I looked forward to spending time with him and I would ask questions about technology, such as &amp;ldquo;What is RAM?</description>
+    </item>
+    
+  </channel>
+</rss>

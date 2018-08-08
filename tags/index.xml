@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Alexander Soto | Bridging Social Justice and Technology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Fri, 11 Aug 2017 10:35:00 -0400</lastBuildDate>
     
 	<atom:link href="https://dynamicmetaflow.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#Blog</title>
+      <link>https://dynamicmetaflow.github.io/tags/#blog/</link>
+      <pubDate>Fri, 11 Aug 2017 10:35:00 -0400</pubDate>
+      
+      <guid>https://dynamicmetaflow.github.io/tags/#blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
