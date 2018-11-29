@@ -1,0 +1,11 @@
++++
+title = "About"
+author = ["alexander"]
+date = 2018-11-24T00:00:00-05:00
+draft = false
+[menu.About]
+  weight = 1001
+  identifier = "about"
++++
+
+My name is Alexander Soto. I'm an activist, educator, technologist and agent of social change. My interests are in exploring issues in community-building, social justice, education and leveraging technology to address social problems. In the past I've worked as a labor rights organizer, a technology teacher at the [Margarita Muñiz Academy](<http://munizacademy.org>) and a mentor at [Resilient Coders](<http://www.resilientcoders.org>). I'm currently a graduate student at Northeastern University pursuing my master's in Computer Science.
