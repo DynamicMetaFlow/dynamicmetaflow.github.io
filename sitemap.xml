@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/humble-beginnings/</loc>
+    <loc>https://dynamicmetaflow.github.io/blog/graduate-school/</loc>
     <lastmod>2018-11-28T19:50:00-05:00</lastmod>
   </url>
   
@@ -13,13 +13,13 @@
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/starting-graduate-school/</loc>
+    <loc>https://dynamicmetaflow.github.io/posts/starting-graduate-school/</loc>
     <lastmod>2018-11-28T19:50:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/posts/starting-graduate-school/</loc>
-    <lastmod>2018-11-28T19:50:00-05:00</lastmod>
+    <loc>https://dynamicmetaflow.github.io/blog/humble-beginnings/</loc>
+    <lastmod>2018-09-04T19:50:00-04:00</lastmod>
   </url>
   
   <url>
@@ -56,6 +56,18 @@
   
   <url>
     <loc>https://dynamicmetaflow.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dynamicmetaflow.github.io/tags/cs5002/</loc>
+    <lastmod>2018-11-28T19:50:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dynamicmetaflow.github.io/tags/personal/</loc>
+    <lastmod>2018-09-04T19:50:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
