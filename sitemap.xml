@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://dynamicmetaflow.github.io/posts/humble-beginnings/</loc>
+    <lastmod>2018-08-08T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dynamicmetaflow.github.io/posts/starting-graduate-school/</loc>
+    <lastmod>2017-11-24T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dynamicmetaflow.github.io/about/</loc>
     <lastmod>2015-08-22T06:42:21-07:00</lastmod>
   </url>
@@ -28,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/tags/#blog/</loc>
+    <loc>https://dynamicmetaflow.github.io/tags/blog/</loc>
     <lastmod>2018-08-08T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
