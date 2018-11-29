@@ -1,0 +1,286 @@
+/*
+ * Author: Ankit Sultana
+ * Original Repo: https://github.com/bk2dcradle/jade-resume
+ * LICENSE: GNU GPL v3
+ */
+$heading-color: #9F9F9F;
+$text-size: 13px;
+
+$font-stack-one: 'Lato';
+$font-stack-two: 'Raleway', 'Helvetica Neue';
+$container-width: 750px;
+
+* {
+    margin: 0;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family: $font-stack-two;
+}
+ol {
+    padding: 0;
+    padding-left: 20px;
+    font-size: $text-size;
+    li span {
+        font-size: $text-size;
+    }
+}
+sup {
+    padding: 0;
+    margin-left: -3px;
+}
+br {
+    display: block;
+    margin: 4px 0;
+    content: " ";
+}
+br.two {
+    @extend br;
+    margin: 6px 0;
+}
+br.three {
+    @extend br;
+    margin: 8px 0;
+}
+li {
+    font-family: $font-stack-one;
+    font-weight: 300;
+    color: #000;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 400;
+}
+#update-status {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: $text-size * 0.7;
+    font-weight: 300;
+}
+.clearfix {
+    clear: both;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: 600;
+}
+.right {
+    text-align: right;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.no-overlap {
+    margin-bottom: 5px;
+}
+
+.heading {
+    max-width: $container-width;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    h1 {
+        font-size: 50px;
+        font-family: $font-stack-one;
+        font-weight: 300;
+        span {
+            font-weight: 100;
+        }
+    }
+    h3 {
+        font-family: $font-stack-two;
+        font-size: 14px;
+        color: #6A6A6A;
+        font-weight: 200;
+    }
+}
+.content {
+    width: $container-width;
+    margin: auto;
+    h1 {
+        text-transform: uppercase;
+        margin-top: 8px;
+        font-size: 20px;
+        font-weight: 300;
+        color: darken($heading-color, 30);
+        font-family: $font-stack-one;
+    }
+    h2 {
+        font-size: 15px;
+        font-weight: bolder;
+        text-transform: uppercase;
+        span {
+            font-size: 13px;
+            font-weight: 400;
+        }
+        font-family: $font-stack-one;
+    }
+    h3 {
+        font-size: 14px;
+        font-weight: 400;
+        text-transform: capitalize;
+    }
+    h4 {
+        font-size: 13px;
+        font-weight: normal;
+    }
+}
+.left-column {
+    float: left;
+    max-width: 32%;
+    text-align: left;
+    padding-left: 10px;
+    margin-left: 20px;
+    p {
+        font-size: 12px;
+        font-family: $font-stack-one;
+        font-weight: 300;
+    }
+    p.lead {
+        font-size: 13px;
+        font-family: $font-stack-two;
+        font-weight: 400;
+    }
+    ul {
+        padding: 0px;
+        margin-bottom: 10px;
+    }
+    li {
+        list-style-type: none;
+        span {
+            position: relative;
+            left: -9px;
+        }
+        span:before {
+            content: "•";
+            margin-right: 0px;
+        }
+        padding-left: 10px;
+        font-size: $text-size;
+        margin-top: -2.9px;
+    }
+    ul.inline {
+        padding: 0;
+        span:before {
+            content: "•";
+            margin-right: 3px;
+        }
+        li span {
+            float: left;
+            display: inline-block;
+            margin-top: -5px;
+            margin-right: 3px;
+            padding: 0;
+        }
+    }
+    ul.nostyle {
+        list-style-type: none;
+        padding: 0;
+        li span {
+            position: relative;
+            left: -18px;
+        }
+        li {
+            margin-left: -9px;
+        }
+    }
+}
+.right-column {
+    float: right;
+    width: 64%;
+    text-align: left;
+    padding: 0;
+    h2 {
+        font-family: $font-stack-one;
+        span {
+            font-size: 12px;
+            font-family: $font-stack-two;
+            display: inline-block;
+            font-weight: 500;
+        }
+        span::first-letter {
+            font-size: 14px;
+            font-weight: 500;
+        }
+    }
+    h3 {
+        margin: 0;
+        padding: 0;
+        font-size: 12px;
+    }
+    ul {
+        padding: 0px;
+        padding-left: 20px;
+        margin: 0 0 5px 5px;
+    }
+    ul li {
+        margin-left: 5px;
+        span {
+            position: relative;
+            left: -5px;
+        }
+        span:before {
+            content: "•";
+            margin-left: 5px;
+            margin-right: 5px;
+            font-size: 14px;
+        }
+        font-size: $text-size;
+    }
+    p {
+        font-family: $font-stack-one;
+        font-size: $text-size;
+        font-weight: 300;
+    }
+    .publications-list {
+        padding: 0;
+        counter-reset: list;
+    }
+    .publications-list > li {
+        list-style-position: none;
+        position: relative;
+        list-style: none;
+        margin-left: 20px;
+    }
+    .publications-list > li:before {
+        content: "[" counter(list, decimal) "]  ";
+        counter-increment: list;
+        position: absolute;;
+        left: -20px;
+    }
+}
+
+/*
+ * Table
+ */
+
+table {
+    padding: 0;
+    font-family: $font-stack-one;
+    font-weight: 300;
+    border-collapse: separate;
+    border-spacing: 0px;
+    font-size: $text-size * 1.001;
+    tr, th, td {
+        padding: 0;
+    }
+    th:nth-child(1), td:nth-child(1) {
+        margin: 0;
+        padding-right: 10px;
+    }
+    th:nth-child(2), td:nth-child(2) {
+        padding-right: 10px;
+    }
+    th:nth-child(3), td:nth-child(3) {
+    }
+}

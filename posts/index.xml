@@ -11,23 +11,5 @@
 	<atom:link href="https://dynamicmetaflow.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Humble Beginnings</title>
-      <link>https://dynamicmetaflow.github.io/posts/humble-beginnings/</link>
-      <pubDate>Wed, 28 Nov 2018 19:50:00 -0500</pubDate>
-      
-      <guid>https://dynamicmetaflow.github.io/posts/humble-beginnings/</guid>
-      <description>Testing this out My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from Dominican Republic, was my mentor and role-model. When I visited during the weekend I would find my brother taking apart and repairing different devices. I looked forward to spending time with him and I would ask questions about technology, such as &amp;ldquo;What is RAM?</description>
-    </item>
-    
-    <item>
-      <title>Starting Graduate School</title>
-      <link>https://dynamicmetaflow.github.io/posts/starting-graduate-school/</link>
-      <pubDate>Wed, 28 Nov 2018 19:50:00 -0500</pubDate>
-      
-      <guid>https://dynamicmetaflow.github.io/posts/starting-graduate-school/</guid>
-      <description>I&amp;rsquo;m a graduate student at Northeastern University and part of the ALIGN program pursuing a master&amp;rsquo;s degree in Computer Science. The ALIGN program consists of a series of bridge courses for graduate students that didn&amp;rsquo;t major in Computer Science in their undergraduate studies. Upon completion of the ALIGN program students begin taking graduate level classes in computer science. I&amp;rsquo;m currently taking CS5002 - Discrete Math - from the Northeastern University course description catalog:</description>
-    </item>
-    
   </channel>
 </rss>

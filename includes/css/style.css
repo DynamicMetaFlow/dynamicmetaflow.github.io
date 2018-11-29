@@ -1,0 +1,237 @@
+@charset "UTF-8";
+/*
+ * Author: Ankit Sultana
+ * Original Repo: https://github.com/bk2dcradle/jade-resume
+ * LICENSE: GNU GPL v3
+ */
+* {
+  margin: 0; }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-family: "Raleway", "Helvetica Neue"; }
+
+ol {
+  padding: 0;
+  padding-left: 20px;
+  font-size: 13px; }
+  ol li span {
+    font-size: 13px; }
+
+sup {
+  padding: 0;
+  margin-left: -3px; }
+
+br, br.two, br.three {
+  display: block;
+  margin: 4px 0;
+  content: " "; }
+
+br.two {
+  margin: 6px 0; }
+
+br.three {
+  margin: 8px 0; }
+
+li {
+  font-family: "Lato";
+  font-weight: 300;
+  color: #000; }
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 400; }
+
+#update-status {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 9.1px;
+  font-weight: 300; }
+
+.clearfix {
+  clear: both; }
+
+.italic {
+  font-style: italic; }
+
+.bold {
+  font-weight: 600; }
+
+.right {
+  text-align: right; }
+
+.left {
+  text-align: left; }
+
+.right {
+  text-align: right; }
+
+.no-overlap {
+  margin-bottom: 5px; }
+
+.heading {
+  max-width: 750px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+  .heading h1 {
+    font-size: 50px;
+    font-family: "Lato";
+    font-weight: 300; }
+    .heading h1 span {
+      font-weight: 100; }
+  .heading h3 {
+    font-family: "Raleway", "Helvetica Neue";
+    font-size: 14px;
+    color: #6A6A6A;
+    font-weight: 200; }
+
+.content {
+  width: 750px;
+  margin: auto; }
+  .content h1 {
+    text-transform: uppercase;
+    margin-top: 8px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #535353;
+    font-family: "Lato"; }
+  .content h2 {
+    font-size: 15px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family: "Lato"; }
+    .content h2 span {
+      font-size: 13px;
+      font-weight: 400; }
+  .content h3 {
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize; }
+  .content h4 {
+    font-size: 13px;
+    font-weight: normal; }
+
+.left-column {
+  float: left;
+  max-width: 32%;
+  text-align: left;
+  padding-left: 10px;
+  margin-left: 20px; }
+  .left-column p {
+    font-size: 12px;
+    font-family: "Lato";
+    font-weight: 300; }
+  .left-column p.lead {
+    font-size: 13px;
+    font-family: "Raleway", "Helvetica Neue";
+    font-weight: 400; }
+  .left-column ul {
+    padding: 0px;
+    margin-bottom: 10px; }
+  .left-column li {
+    list-style-type: none;
+    padding-left: 10px;
+    font-size: 13px;
+    margin-top: -2.9px; }
+    .left-column li span {
+      position: relative;
+      left: -9px; }
+    .left-column li span:before {
+      content: "•";
+      margin-right: 0px; }
+  .left-column ul.inline {
+    padding: 0; }
+    .left-column ul.inline span:before {
+      content: "•";
+      margin-right: 3px; }
+    .left-column ul.inline li span {
+      float: left;
+      display: inline-block;
+      margin-top: -5px;
+      margin-right: 3px;
+      padding: 0; }
+  .left-column ul.nostyle {
+    list-style-type: none;
+    padding: 0; }
+    .left-column ul.nostyle li span {
+      position: relative;
+      left: -18px; }
+    .left-column ul.nostyle li {
+      margin-left: -9px; }
+
+.right-column {
+  float: right;
+  width: 64%;
+  text-align: left;
+  padding: 0; }
+  .right-column h2 {
+    font-family: "Lato"; }
+    .right-column h2 span {
+      font-size: 12px;
+      font-family: "Raleway", "Helvetica Neue";
+      display: inline-block;
+      font-weight: 500; }
+    .right-column h2 span::first-letter {
+      font-size: 14px;
+      font-weight: 500; }
+  .right-column h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 12px; }
+  .right-column ul {
+    padding: 0px;
+    padding-left: 20px;
+    margin: 0 0 5px 5px; }
+  .right-column ul li {
+    margin-left: 5px;
+    font-size: 13px; }
+    .right-column ul li span {
+      position: relative;
+      left: -5px; }
+    .right-column ul li span:before {
+      content: "•";
+      margin-left: 5px;
+      margin-right: 5px;
+      font-size: 14px; }
+  .right-column p {
+    font-family: "Lato";
+    font-size: 13px;
+    font-weight: 300; }
+  .right-column .publications-list {
+    padding: 0;
+    counter-reset: list; }
+  .right-column .publications-list > li {
+    list-style-position: none;
+    position: relative;
+    list-style: none;
+    margin-left: 20px; }
+  .right-column .publications-list > li:before {
+    content: "[" counter(list,decimal) "]  ";
+    counter-increment: list;
+    position: absolute;
+    left: -20px; }
+
+/*
+ * Table
+ */
+table {
+  padding: 0;
+  font-family: "Lato";
+  font-weight: 300;
+  border-collapse: separate;
+  border-spacing: 0px;
+  font-size: 13.013px; }
+  table tr, table th, table td {
+    padding: 0; }
+  table th:nth-child(1), table td:nth-child(1) {
+    margin: 0;
+    padding-right: 10px; }
+  table th:nth-child(2), table td:nth-child(2) {
+    padding-right: 10px; }
+
+/*# sourceMappingURL=style.css.map */
