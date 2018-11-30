@@ -13,27 +13,6 @@
     
     <item>
       <title></title>
-      <link>https://dynamicmetaflow.github.io/contact/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dynamicmetaflow.github.io/contact/readme/</guid>
-      <description>learn-formspree Email for static sites.
-Functional HTML forms. Hosted at https://formspree.io.
-1. Setup the HTML form Change your form&amp;rsquo;s action-attribute to this and replace your@email.com with your own email.
-&amp;lt;form action=&amp;quot;https://formspree.io/you@email.com&amp;quot;&amp;gt; &amp;lt;input type=&amp;quot;text&amp;quot; name=&amp;quot;name&amp;quot;&amp;gt; &amp;lt;input type=&amp;quot;email&amp;quot; name=&amp;quot;_replyto&amp;quot;&amp;gt; &amp;lt;input type=&amp;quot;submit&amp;quot; value=&amp;quot;Send&amp;quot;&amp;gt; &amp;lt;/form&amp;gt;  2. Submit the form and confirm your email address Go to your website and submit the form once. This will send you an email asking to confirm your email address, so that no one can start sending you spam from random websites.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dynamicmetaflow.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dynamicmetaflow.github.io/contact/</guid>
-      <description>  lala     To : airsuam@mailinator.com  Required Field--                 </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://dynamicmetaflow.github.io/contact/thanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
