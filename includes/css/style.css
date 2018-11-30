@@ -43,7 +43,7 @@ li {
 a {
   text-decoration: none;
   color: inherit;
-  font-weight: 400; }
+  font-weight: inherit; }
 
 #update-status {
   position: absolute;
@@ -88,7 +88,7 @@ a {
     font-family: "Raleway", "Helvetica Neue";
     font-size: 14px;
     color: #6A6A6A;
-    font-weight: 200; }
+    font-weight: 400; }
 
 .content {
   width: 750px;
