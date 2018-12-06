@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title><a href="cs5002.html">CS 5002: Discrete and Data Structures</a></title>
-<!-- 2018-12-06 Thu 16:59 -->
+<title><a href="../logic.html">Logic</a></title>
+<!-- 2018-12-06 Thu 16:51 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Org-mode">
@@ -192,39 +192,7 @@ $(function() {
 </head>
 <body>
 <div id="content" class="container">
-<div class="row"><div class="col-md-9"><h1 class="title"><a href="cs5002.html">CS 5002: Discrete and Data Structures</a></h1>
-<div id="outline-container-sec-" class="outline-2">
-<h2 id="sec-">Description</h2>
-<div class="outline-text-2" id="text-">
-<blockquote>
-<p>
-This course introduces the mathematical structures and methods that form the foundation of computer science. It studies structures such as sets, tuples, sequences, lists, trees, and graphs. It discusses functions, relations, ordering, and equivalence relations. It examines inductive and recursive definitions of structures and functions. It covers principles of proof such as truth tables, inductive proof, and basic logic and the counting techniques and arguments needed to estimate the size of sets, the growth of functions, and the space-time complexity of algorithms. It also, discusses data structures such as arrays, stacks, queues, lists, and the algorithms that manipulate them. Programming is in the Python programming language.
-</p>
-</blockquote>
-</div>
-</div>
-
-<div id="outline-container-sec-" class="outline-2">
-<h2 id="sec-">Course Topics</h2>
-<div class="outline-text-2" id="text-">
-</div><div id="outline-container-sec-" class="outline-3">
-<h3 id="sec-"><a href="file:///home/alexander/Sync/org/sites/hugo-blog/static/logic.html">Logic</a></h3>
-<div class="outline-text-3" id="text-">
-</div>
-</div>
-</div>
-</div><div class="col-md-3"><nav id="table-of-contents">
-<div id="text-table-of-contents" class="bs-docs-sidebar">
-<ul class="nav">
-<li><a href="#sec-">Description</a></li>
-<li><a href="#sec-">Course Topics</a>
-<ul class="nav">
-<li><a href="#sec-">Logic</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</nav>
-</div></div></div>
+<div class="row"><div class="col-md-9"><h1 class="title"><a href="../logic.html">Logic</a></h1>
+</div><div class="col-md-3"></div></div></div>
 </body>
 </html>
