@@ -11,14 +11,5 @@
 	<atom:link href="https://dynamicmetaflow.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Humble Beginnings</title>
-      <link>https://dynamicmetaflow.github.io/blog/humble-beginnings/</link>
-      <pubDate>Tue, 04 Sep 2018 19:50:00 -0400</pubDate>
-      
-      <guid>https://dynamicmetaflow.github.io/blog/humble-beginnings/</guid>
-      <description>My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from Dominican Republic, was my mentor and role-model. When I visited during the weekend I would find my brother taking apart and repairing different devices. I looked forward to spending time with him and I would ask questions about technology, such as &amp;ldquo;What is RAM?</description>
-    </item>
-    
   </channel>
 </rss>
