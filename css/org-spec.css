@@ -117,10 +117,11 @@ a[href^="http"]:after {
     display: none;
 }
 
-#table-of-contents .todo,
+#table-of-contents .todo, .NEXT,
 #table-of-contents .done {
     font-size: 80%;
 }
+
 
 #table-of-contents ol>li {
     margin-top: 1em;
@@ -382,12 +383,13 @@ div.figure {
     color: white;
 }
 
-.todo, .done {
+.NEXT, .todo, .done {
     font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
     font-weight: normal;
     padding: 0 0.25em;
     border-radius: 0.2em;
 }
+
 
 .todo {
     background: #f04;
@@ -398,6 +400,13 @@ div.figure {
     background: #5f7;
     color: white;
 }
+
+
+.NEXT {
+    background:  #007cee;
+    color: white;
+}
+
 
 @media screen {
     h1.title {
