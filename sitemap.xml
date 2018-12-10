@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/posts/humble-beginnings/</loc>
-    <lastmod>2018-12-08T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/blog/humble-beginnings/</loc>
-    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dynamicmetaflow.github.io/about/</loc>
     <lastmod>2018-11-24T00:00:00-05:00</lastmod>
   </url>
@@ -23,25 +13,22 @@
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/</loc>
-    <lastmod>2018-12-08T00:00:00-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://dynamicmetaflow.github.io/courses/</loc>
+    <lastmod>2018-11-24T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/</loc>
-    <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+    <loc>https://dynamicmetaflow.github.io/now/</loc>
+    <lastmod>2018-11-24T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dynamicmetaflow.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dynamicmetaflow.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/posts/</loc>
-    <lastmod>2018-12-08T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
