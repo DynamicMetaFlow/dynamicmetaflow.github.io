@@ -372,14 +372,14 @@ div.figure {
     font-size: 12px;
     font-weight: normal;
     float: right;
-    margin-top: 1em;
+    margin-top: 0em;
     background: transparent;
 }
 
 .tag span {
-    background: brown;
+    background: lightgreen;
     padding: 0 0.5em;
-    border-radius: 0.2em;
+    border-radius: 0.3em;
     color: white;
 }
 
@@ -425,7 +425,7 @@ div.figure {
         padding: 2em 0 2em 2em;
         width: 290px;
         height: 100vh;
-        font-size: 11px;
+        font-size: 12px;
         background: #eee;
         overlow-x: hidden;
         overlow-y: auto;
