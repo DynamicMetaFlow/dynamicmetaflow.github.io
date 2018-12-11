@@ -369,7 +369,7 @@ div.figure {
 
 .tag {
     font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
-    font-size: 11px;
+    font-size: 16px;
     font-weight: normal;
     float: right;
     margin-top: 1em;
@@ -377,7 +377,7 @@ div.figure {
 }
 
 .tag span {
-    background: #ccc;
+    background: brown;
     padding: 0 0.5em;
     border-radius: 0.2em;
     color: white;
