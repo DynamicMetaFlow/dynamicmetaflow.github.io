@@ -408,6 +408,10 @@ div.figure {
 }
 
 
+#postamble p, #preamble p { font-size: 90%; margin: 5em; }
+
+
+
 @media screen {
     h1.title {
         text-align: left;
@@ -496,3 +500,6 @@ div.figure {
         display: none;
     }
 }
+
+
+
