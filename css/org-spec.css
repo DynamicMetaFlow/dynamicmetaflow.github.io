@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.4;
     color: #33333f;
 }
@@ -119,7 +119,7 @@ a[href^="http"]:after {
 
 #table-of-contents .todo, .NEXT,
 #table-of-contents .done {
-    font-size: 80%;
+    font-size: 100%;
 }
 
 
@@ -369,7 +369,7 @@ div.figure {
 
 .tag {
     font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: normal;
     float: right;
     margin-top: 1em;
