@@ -101,12 +101,12 @@ a:hover {
     /* color: #000; #cb4b16; */
     position: sticky;		/*fixed */
     top: 0em;
-    left: 0;
+    left: 0em;
     width: 100%;
-    line-height: 0.5;
+    line-height: 0.8;
     z-index: 999;
     font-size: 1.1em;
-    margin: auto;
+    margin: auto; /* controls margin of menu */
     border-top: 1.0px solid #f0c;
     border-bottom: 1.0px solid #f0c;
 }
@@ -117,7 +117,7 @@ a:hover {
     justify-content: space-around;
     flex-wrap: wrap;
     max-width: 42em;
-    margin: 0.5em auto;
+    margin: 0em auto;
 }
 
 .menu ul:after{
@@ -128,7 +128,9 @@ a:hover {
     display: inline;
     padding: 0 0.5%;
     flex-grow: 1;
-    text-align: center;
+    margin: 0 0.5%; /* controls margin of menu */
+    text-align: flex;
+    margin-left: -3px;
 }
 
 a.animate-link, .menu a {
@@ -420,7 +422,9 @@ h1.org-ref-bib-h1 {
 @media screen and (max-width : 800px){
 
     .menu ul { position: sticky; }
-    .menu li { padding: 0; }
+    .menu li { padding: 0;
+               text-align: flex;
+             }
 
     pre {
 	display: block;
@@ -449,11 +453,12 @@ h1.org-ref-bib-h1 {
     .menu {
 	position: unset;
 	width: 100vw;
-	margin-top: 1em;
+	margin-top: 0.5em;
+        margin-left: -2em;
     }
 
     .menu ul {
-	flex-direction: column;
+	/* flex-direction: column; /\* controls the direction of the menu*\/ */
 	line-height: 1.5;
     }
 
@@ -464,6 +469,26 @@ h1.org-ref-bib-h1 {
         width: 90vw;
 	margin: auto;
     }
+
+    .title{
+	margin: auto !important;
+	padding: 5%;
+	line-height: 1.2;
+	text-align: center;
+    }
+
+    .title::before{
+        float: unset;
+        display:block;
+    }
+
+    .subtitle {
+        text-align: center;
+        line-height: 1.8;
+        width: 70%;
+        margin: auto;
+    }
+
 }
 
 @media screen and (max-width : 550px){
