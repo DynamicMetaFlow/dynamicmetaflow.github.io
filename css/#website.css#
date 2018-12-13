@@ -423,6 +423,8 @@ h1.org-ref-bib-h1 {
 
     .menu ul { position: sticky; }
     .menu li { padding: 0;
+               text-align: flex;
+               margin-left: -3px;
              }
 
     pre {
