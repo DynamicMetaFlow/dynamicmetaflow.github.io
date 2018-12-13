@@ -31,7 +31,7 @@
 body {
     color: #000; /* #073642; #094b5c; #657b83; */
     font-family: 'Fira Sans', sans-serif;
-    font-size: 16.5pt;
+    font-size: 14pt;
     font-weight: 300;
     line-height: 1.5em;
     padding: 1em;
@@ -267,7 +267,7 @@ video {
 /* --- Title/Subtitle ------------------------------------------------------ */
 
 .title {
-    font-size: 2.5em;
+    font-size:  2em;
     line-height: 1em;
     font-weight: 300;
     text-align: right;
@@ -278,7 +278,7 @@ video {
     float: left;
 }
 .subtitle {
-    font-size: 1.2em;
+    font-size: 1em;
     line-height: 1.5em;
     font-weight: 300;
     text-align: right;
