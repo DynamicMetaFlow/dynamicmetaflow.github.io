@@ -31,7 +31,7 @@
 body {
     color: #000; /* #073642; #094b5c; #657b83; */
     font-family: 'Fira Sans', sans-serif;
-    font-size: 16.5pt;
+    font-size: 14pt;
     font-weight: 300;
     line-height: 1.5em;
     padding: 1em;
@@ -65,17 +65,18 @@ p {
 
 /* --- Links --------------------------------------------------------------- */
 a {
-    color:inherit;
+    color: #428bca;
     text-decoration:none;
+    font-weight: 400;
     padding: 2px;
 }
-a::after {
-    position: relative;
-    content: "\FEFF°";
-    margin-left: 0.10em;
-    font-size: 90%;
-    top: -0.10em;
-    color: #dc322f;
+/* a::after { */
+/*     position: relative; */
+/*     content: "\FEFFÂ°"; */
+/*     margin-left: 0.10em; */
+/*     font-size: 90%; */
+/*     top: -0.10em; */
+/*     color: black; */
 }
 a:hover {
     background: #eeefff;
@@ -102,12 +103,12 @@ a:hover {
     top: 0em;
     left: 0;
     width: 100%;
-    line-height: 0.5;
+    line-height: 0.8;
     z-index: 999;
     font-size: 1.1em;
     margin: auto;
-    border-top: 1.0px solid #bbb;
-    border-bottom: 1.0px solid #bbb;
+    border-top: 1.0px solid #f0c;
+    border-bottom: 1.0px solid #f0c;
 }
 
 .menu ul {
@@ -116,7 +117,7 @@ a:hover {
     justify-content: space-around;
     flex-wrap: wrap;
     max-width: 42em;
-    margin: 1em auto;
+    margin: 0em auto;
 }
 
 .menu ul:after{
@@ -127,11 +128,15 @@ a:hover {
     display: inline;
     padding: 0 0.5%;
     flex-grow: 1;
-    text-align: center;
+    margin: 0 0.5%;
+    text-align: flex;
+    margin-left: -3px;
 }
 
 a.animate-link, .menu a {
     position: relative;
+    color: black;
+    font-weight: 100;
 }
 
 a.animate-link:before, .menu a:before {
@@ -141,7 +146,7 @@ a.animate-link:before, .menu a:before {
     height: 1px;
     bottom: 0;
     left: 0;
-    background-color: #000;
+    background-color: #f0c;
     visibility: hidden;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
@@ -183,7 +188,7 @@ h5, h6 {
 
 h2 { font-weight: 400;
      font-size: 1.4em;
-     color: #cb4b16;
+     color: black;
    }
 
 /* make h2 links scroll right with fixed navigation bar */
@@ -202,7 +207,7 @@ h2::before {
     font-size: 1.5em;
     font-weight: 300;
     vertical-align: middle;
-    color: #cb4b16;
+    color: black;
     position: absolute;
     margin: 0 -0.65em;
 }
@@ -270,7 +275,7 @@ video {
     margin-top: -1em;
 }
 .title::before {
-    content: url('static/me.png');
+    content: url('../static/me.png');
     float: left;
 }
 .subtitle {
@@ -360,7 +365,7 @@ a.logo:hover, a.cc-logo:hover{background:none; border-radius:0px; transition-pro
 
 blockquote {
     /* border-left: 0.3em solid #eee8d9; */
-    color: #cb4b16;
+    color: #black;
     font-size: 1.04em;
     padding: 0 1em;
     margin: 1.2em 3em;
@@ -445,7 +450,8 @@ h1.org-ref-bib-h1 {
     .menu {
 	position: unset;
 	width: 100vw;
-	margin-top: 1em;
+	margin-top: 0.5em;
+        margin-left: -2em;
     }
 
     .menu ul {
@@ -460,6 +466,26 @@ h1.org-ref-bib-h1 {
         width: 90vw;
 	margin: auto;
     }
+
+    .title{
+	margin: auto !important;
+	padding: 5%;
+	line-height: 1.2;
+	text-align: center;
+    }
+
+    .title::before{
+        float: unset;
+        display:block;
+    }
+
+    .subtitle {
+        text-align: center;
+        line-height: 1.8;
+        width: 70%;
+        margin: auto;
+    }
+
 }
 
 @media screen and (max-width : 550px){
