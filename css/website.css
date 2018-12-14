@@ -128,7 +128,7 @@ a:hover {
     display: inline;
     padding: 0 0.5%;
     flex-grow: 1;
-    margin: 0 0.5%;
+    margin: 0 0.5%; 
     text-align: flex;
     margin-left: -3px;
 }
@@ -202,7 +202,7 @@ h2::before {
 }
 
 .links h5::before, h4::before {
-    content: "§";
+    content: "";
     padding-right: 1.2%;
     font-size: 1.5em;
     font-weight: 300;
@@ -373,7 +373,7 @@ blockquote {
 
 blockquote:before {
     position:absolute;
-    content: "“";
+    content: "";
     font-size: 3em;
     opacity: 0.4;
     margin: 0.15em -0.44em;
@@ -455,7 +455,7 @@ h1.org-ref-bib-h1 {
     }
 
     .menu ul {
-	flex-direction: column;
+/*	flex-direction: column; */
 	line-height: 1.5;
     }
 
