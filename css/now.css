@@ -1,0 +1,8 @@
+@import url("org-spec.css");
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 18px;
+    line-height: 1.4;
+    color: #33333f;
+}
