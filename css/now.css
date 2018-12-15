@@ -1,8 +1,20 @@
 @import url("org-spec.css");
 
-body {
-    font-family: 'Fira Sans', sans-serif;
-    font-size: 18px;
-    line-height: 1.4;
-    color: #33333f;
+@media screen {
+    html, body {
+        font-size: 18px;
+    }
+
+    #table-of-contents {
+        display: none;
+    }
+
+    h1.title {
+        margin-left: 0%;
+    }
+
+    div#content {
+        margin-left: 5%;
+        max-width: 90%;
+    }
 }
