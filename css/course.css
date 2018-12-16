@@ -1,26 +1,6 @@
 @import url("org-spec.css");
 
-.title {
-    font-size: 2em;
-    text-align: left;
-    margin-top: -2em;
-    margin-bottom: 1em;
-    line-height: 1.2em;
-}
-
-
-    html, body {
-        font-size: 14px;
-    }
-
-
-    div#content {
-        margin-left: 2%;
-        max-width: 80%;
-    }
-
-
-    #table-of-contents {
+#table-of-contents {
         position: fixed;
         top: 0;
         left: 85%;
@@ -32,3 +12,39 @@
         overlow-x: hidden;
         overlow-y: auto;
     }
+
+
+.title {
+    font-size: 2em;
+}
+
+    div#content {
+        margin-left: 2%;
+        max-width: 85%;
+    }
+
+
+
+@media screen and (max-width: 1024px) {
+    html, body {
+        font-size: 14px;
+    }
+
+
+    div#content {
+        margin-left: 2%;
+        max-width: 100%;
+    }
+
+blockquote {
+    padding: 0px 10px 0px 10px;
+    border: 1px solid #ddd;
+    background: #eee;
+    box-shadow: 5px 5px 5px #eee;
+    border-radius: 2px;
+    line-height: 1.2em;
+}
+
+
+}
+
