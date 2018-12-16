@@ -1,0 +1,30 @@
+@import url("org-spec.css");
+
+    html, body {
+        font-size: 16px;
+    }
+
+    h1.title {
+        margin-left: 0%;
+    }
+
+    div#content {
+        margin-left: 5%;
+        max-width: 80%;
+    }
+
+
+    #table-of-contents {
+        position: fixed;
+        top: 0;
+        left: 85%;
+        padding: 2em 0 2em 2em;
+        width: 290px;
+        height: 100vh;
+        font-size: 12px;
+        background: #eee;
+        overlow-x: hidden;
+        overlow-y: auto;
+    }
+
+}
