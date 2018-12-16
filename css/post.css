@@ -2,9 +2,6 @@
 
 .title {
     font-size: 1.5em;
-    display:inline-block;
-    border-bottom:1px solid black;
-    padding-bottom:2px;
     text-align: left;
     margin-top: -2em;
     margin-bottom: 1em;
