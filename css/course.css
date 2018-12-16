@@ -30,6 +30,16 @@
         font-size: 14px;
     }
 
+    .title {
+    font-size: 1.5em;
+    }
+
+h1 {
+    font-size: 1.5em;
+}
+
+
+
 
     div#content {
         margin-left: 0;
