@@ -1,6 +1,6 @@
 @import url("org-spec.css");
 
-@media screen {
+@media screen  {
     html, body {
         font-size: 18px;
     }
@@ -13,10 +13,28 @@
         margin-left: 0%;
     }
 
-  
-}
-
-  div#content {
-        margin-left: 15%;
+    div#content {
+        margin-left: 12%;
         max-width: 80%;
     }
+}
+
+
+@media screen and (max-width: 1024px) {
+    html, body {
+        font-size: 16px;
+    }
+
+    #table-of-contents {
+        display: none;
+    }
+
+    h1.title {
+        margin-left: 0%;
+    }
+
+    div#content {
+        margin-left: 5%;
+        max-width: 90%;
+    }
+}
