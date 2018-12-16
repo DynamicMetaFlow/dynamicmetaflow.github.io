@@ -1,7 +1,16 @@
 @import url("org-spec.css");
 
+.title {
+    font-size: 2em;
+    text-align: left;
+    margin-top: -2em;
+    margin-bottom: 1em;
+    line-height: 1.2em;
+}
+
+
     html, body {
-        font-size: 16px;
+        font-size: 14px;
     }
 
 
