@@ -30,6 +30,10 @@
         font-size: 14px;
     }
 
+    .title {
+    font-size: 2em;
+}
+
 
     div#content {
         margin-left: 0;
