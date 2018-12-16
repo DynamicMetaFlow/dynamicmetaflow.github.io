@@ -1,6 +1,7 @@
 @import url("website.css");
 
 .title {
+    font-size: 16px;
     text-align: left;
     margin-top: -2em;
     margin-bottom: 1em;

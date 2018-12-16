@@ -128,7 +128,7 @@ a:hover {
     display: inline;
     padding: 0 0.5%;
     flex-grow: 1;
-    margin: 0 0.5%; 
+    margin: 0 0.5%;
     text-align: flex;
     margin-left: -3px;
 }
@@ -420,7 +420,7 @@ h1.org-ref-bib-h1 {
 
 @media screen and (max-width : 800px){
 
-    .menu ul { position: sticky; }
+    .menu ul { position: sticky;}
     .menu li { padding: 0; }
 
     pre {
@@ -501,6 +501,11 @@ h1.org-ref-bib-h1 {
 
     figure, img { width: 100% !important; }
 
+        .menu ul {
+/*	flex-direction: column; */
+	line-height: 1.5;
+    }
+
     .menu ul { line-height: 1.8; }
 
     a.logo {
@@ -543,6 +548,11 @@ h1.org-ref-bib-h1 {
 }
 
 @media screen and (max-width : 360px){
+
+        .menu ul {
+/*	flex-direction: column; */
+	line-height: 1.5;
+    }
 
     .subtitle .email {font-size: 0.8em; margin-left: -2em;}
     .email {font-size: 0.9em;}
