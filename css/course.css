@@ -43,6 +43,7 @@ blockquote {
     box-shadow: 5px 5px 5px #eee;
     border-radius: 2px;
     line-height: 1.2em;
+    max-width: 100%;
 }
 
 
