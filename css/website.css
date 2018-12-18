@@ -421,6 +421,7 @@ h1.org-ref-bib-h1 {
 
 @media screen and (max-width : 800px){
 
+    
     .menu li { padding: 0; }
 
     .menu ul {
@@ -456,7 +457,24 @@ h1.org-ref-bib-h1 {
     }
 }
 
+
+
 @media screen and (max-width : 780px){
+
+    .menu li { padding: 0; }
+
+    .menu ul {
+    position: sticky;
+    padding: 0 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 42em;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+
 
     .menu {
 	position: unset;
@@ -469,10 +487,8 @@ h1.org-ref-bib-h1 {
     .feed-logo {
         padding-left: 20px;
     }
-
     .menu ul {
 /*	flex-direction: column; */
-	line-height: 1.5;
     }
 
     .research { overflow:unset;}
@@ -503,8 +519,8 @@ h1.org-ref-bib-h1 {
 
     .subtitle {
         font-size: 0.9em;
+        text-align: center;
         padding-left: 5%;
-        text-align: left;
         line-height: 1.4;
         width: 70%;
         margin: auto;
