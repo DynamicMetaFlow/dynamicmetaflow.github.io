@@ -48,7 +48,7 @@ td code {
 }
 
 a:link, a:hover, a:visited {
-                     text-decoration: underline;
+                     text-decoration: none;
                      color: black;
                  }
 
@@ -57,7 +57,7 @@ a:link {
 }
 
 a:visited {
-    color: #666;
+    color: #555;
     background: #ffc;
 }
 
@@ -91,7 +91,7 @@ a[href^="http"]:after {
 
 #table-of-contents a:link,
 #table-of-contents a:visited {
-    color: #555;
+    color: black;
     background: transparent;
 }
 
@@ -467,7 +467,7 @@ div.figure {
 @media print {
 
     body {
-        color: #555;
+        color: black;
     }
 
     @page {
@@ -484,7 +484,7 @@ div.figure {
     }
 
     a:visited {
-        color: #555;
+        color: black;
         background: #ff8;
     }
 
