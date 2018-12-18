@@ -268,7 +268,7 @@ video {
 /* --- Title/Subtitle ------------------------------------------------------ */
 
 .title {
-    font-size: 2em;
+    font-size: 2.2em;
     line-height: 1em;
     font-weight: 300;
     text-align: right;
@@ -279,7 +279,7 @@ video {
     float: left;
 }
 .subtitle {
-    font-size: 1em;
+    font-size: 1.2em;
     line-height: 1.5em;
     font-weight: 300;
     text-align: right;
@@ -420,8 +420,18 @@ h1.org-ref-bib-h1 {
 
 @media screen and (max-width : 800px){
 
-    .menu ul { position: sticky;}
     .menu li { padding: 0; }
+
+    .menu ul {
+    position: sticky;
+    padding: 0 0;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 42em;
+    margin: 0 auto;
+}
+
 
     pre {
 	display: block;
