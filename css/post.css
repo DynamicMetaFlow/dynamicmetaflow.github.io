@@ -22,7 +22,7 @@ body {
 
 b, strong {
     font-weight: 400;
-    color: #f03;
+    color: #555;
 }
 
 
@@ -30,9 +30,10 @@ p {
     text-align: left;
 }
 
+
 .post-subtitle {
     text-align: left;
     color: #555;
-    font-size: 1.2em;
+    font-size: 1.1em;
     margin-bottom: 1em;
 }
