@@ -463,6 +463,11 @@ h1.org-ref-bib-h1 {
 	width: 100vw;
 	margin-top: 0.5em;
         margin-left: -2em;
+        padding-left: 20px;
+    }
+
+    .feed-logo {
+        padding-left: 20px;
     }
 
     .menu ul {
