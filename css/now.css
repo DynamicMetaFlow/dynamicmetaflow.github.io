@@ -14,7 +14,7 @@
     }
 
     div#content {
-        margin-left: 12%;
+        margin-left: 15%;
         max-width: 80%;
     }
 
@@ -26,7 +26,7 @@
   h1.title {
         text-align: left;
         margin: 0.5em 0 1em 0;
-        padding-bottom: 0.5em;
+        padding-bottom: 0em;
 
     }
 
