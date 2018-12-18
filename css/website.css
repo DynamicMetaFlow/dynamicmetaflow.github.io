@@ -117,7 +117,7 @@ a:hover {
     justify-content: space-around;
     flex-wrap: wrap;
     max-width: 42em;
-    margin: auto auto;
+    margin: 0em auto;
 }
 
 .menu ul:after{
