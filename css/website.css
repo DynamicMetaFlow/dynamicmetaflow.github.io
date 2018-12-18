@@ -343,7 +343,7 @@ td {
 .logo {
     width: 36px;
     height: 36px;
-    padding: 4px;
+    padding: 1px;
     vertical-align: middle;
 }
 .feed-logo {
@@ -483,6 +483,7 @@ h1.org-ref-bib-h1 {
 	padding: 5%;
 	line-height: 1.2;
 	text-align: center;
+        font-size: 1.6em;
     }
 
     .title::before{
@@ -491,6 +492,7 @@ h1.org-ref-bib-h1 {
     }
 
     .subtitle {
+        font-size: 0.9em;
         text-align: center;
         line-height: 1.8;
         width: 70%;
