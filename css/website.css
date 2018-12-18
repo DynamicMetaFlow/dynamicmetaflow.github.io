@@ -29,7 +29,7 @@
 /* } */
 
 body {
-    color: #000; /* #073642; #094b5c; #657b83; */
+    color: #555; /* #073642; #094b5c; #657b83; */
     font-family: 'Fira Sans', sans-serif;
     font-size: 14pt;
     font-weight: 300;
@@ -38,7 +38,7 @@ body {
     max-width: 44em;
     margin: auto;
     /* background: #eff4e2; */
-    background: #ffffff;
+    background:  #fffff8;
     text-rendering: optimizeLegibility;
 }
 
@@ -77,7 +77,7 @@ a {
 /*     font-size: 90%; */
 /*     top: -0.10em; */
 /*     color: black; */
-}
+
 a:hover {
     background: #eeefff;
     transition-property: background;
@@ -97,7 +97,7 @@ a:hover {
 
 /* --- Navigation Menu --- */
 .menu {
-    background-color: #ffffff;
+    background-color: #fffff8;
     /* color: #000; #cb4b16; */
     position: sticky;		/*fixed */
     top: 0em;
@@ -135,8 +135,8 @@ a:hover {
 
 a.animate-link, .menu a {
     position: relative;
-    color: black;
-    font-weight: 100;
+    color: #555;
+    font-weight: 200;
 }
 
 a.animate-link:before, .menu a:before {
@@ -188,7 +188,6 @@ h5, h6 {
 
 h2 { font-weight: 400;
      font-size: 1.4em;
-     color: black;
    }
 
 /* make h2 links scroll right with fixed navigation bar */
@@ -207,7 +206,7 @@ h2::before {
     font-size: 1.5em;
     font-weight: 300;
     vertical-align: middle;
-    color: black;
+    color: #555;
     position: absolute;
     margin: 0 -0.65em;
 }
@@ -284,6 +283,8 @@ video {
     font-weight: 300;
     text-align: right;
     margin-bottom: 1em;
+    color: #555
+    font-weight: 200;
 }
 
 
@@ -365,7 +366,7 @@ a.logo:hover, a.cc-logo:hover{background:none; border-radius:0px; transition-pro
 
 blockquote {
     /* border-left: 0.3em solid #eee8d9; */
-    color: #black;
+    color: #555;
     font-size: 1.04em;
     padding: 0 1em;
     margin: 1.2em 3em;
