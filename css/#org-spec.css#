@@ -19,6 +19,7 @@ h1, h2, h3 {
     font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
 }
 
+
 h2 {
     border-bottom: 1px solid #f0c;
     padding-bottom: 0.5em;
@@ -47,17 +48,24 @@ td code {
     font-weight: bold;
 }
 
+a {
+    color: #428bca;
+    text-decoration:none;
+    font-weight: 400;
+    padding: 2px;
+}
+
 a:link, a:hover, a:visited {
-                     text-decoration: none;
-                     color: black;
+                     text-decoration: underline;
+                     color: #428bca;
                  }
 
 a:link {
-    background: #ff8;
+    background: none;
 }
 
 a:visited {
-    color: #555;
+    color: #666;
     background: #ffc;
 }
 
@@ -91,7 +99,7 @@ a[href^="http"]:after {
 
 #table-of-contents a:link,
 #table-of-contents a:visited {
-    color: black;
+    color: #555;
     background: transparent;
 }
 
@@ -412,6 +420,9 @@ div.figure {
     h1.title {
         text-align: left;
         margin: 0.5em 0 1em 0;
+        border-bottom: 1px solid #f0c;
+        padding-bottom: 0.5em;
+
     }
 
     h2 {
@@ -467,7 +478,7 @@ div.figure {
 @media print {
 
     body {
-        color: black;
+        color: #555;
     }
 
     @page {
@@ -484,7 +495,7 @@ div.figure {
     }
 
     a:visited {
-        color: black;
+        color: #555;
         background: #ff8;
     }
 

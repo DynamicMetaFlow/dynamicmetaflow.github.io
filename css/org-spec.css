@@ -19,6 +19,7 @@ h1, h2, h3 {
     font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
 }
 
+
 h2 {
     border-bottom: 1px solid #f0c;
     padding-bottom: 0.5em;
@@ -412,6 +413,9 @@ div.figure {
     h1.title {
         text-align: left;
         margin: 0.5em 0 1em 0;
+        border-bottom: 1px solid #f0c;
+        padding-bottom: 0.5em;
+
     }
 
     h2 {

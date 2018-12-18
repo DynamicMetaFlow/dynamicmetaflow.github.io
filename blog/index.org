@@ -1,4 +1,4 @@
-# Created 2018-12-18 Tue 08:58
+# Created 2018-12-18 Tue 10:08
 #+OPTIONS: h:1
 #+TITLE: Alexander Soto
 #+AUTHOR: Alexander Soto
@@ -10,4 +10,4 @@
 :END:
 
 * Blog
-- 2018-12-16 [[file:humble-beginings.org][Humble Beginnings]]
+- 2018-12-18 [[file:humble-beginings.org][Humble Beginnings]]
