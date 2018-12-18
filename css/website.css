@@ -478,6 +478,11 @@ h1.org-ref-bib-h1 {
 	margin: auto;
     }
 
+    h2 {
+        margin-top: 0em;
+    }
+
+
     .title{
 	margin: auto !important;
 	padding: 5%;
