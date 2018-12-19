@@ -471,17 +471,18 @@ h1.org-ref-bib-h1 {
     flex-wrap: wrap;
     max-width: 42em;
     margin: 0 auto;
-    line-height: 1.5;
+    line-height: 1.4;
 }
 
 
 
     .menu {
+        font-size: 0.8em;
 	position: unset;
 	width: 100vw;
 	margin-top: 0.5em;
         margin-left: -2em;
-        padding-left: 20px;
+        padding-left: 10px;
     }
 
     .feed-logo {
