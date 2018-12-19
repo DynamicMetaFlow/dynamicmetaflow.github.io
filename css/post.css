@@ -13,7 +13,9 @@
     content: '' !important;
 }
 
-
+#postamble {
+    display:none;
+}
 
 body {
     margin: auto;

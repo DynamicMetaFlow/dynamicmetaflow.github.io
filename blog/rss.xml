@@ -1,24 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- 2018-12-18 Tue 16:52 -->
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Humble Beginnings</title>
-<meta name="generator" content="Org mode">
-<meta name="author" content="Alexander Soto">
-<link rel="stylesheet" href="../css/post.css" type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500" rel="stylesheet">
-</head>
-<body>
-<div id="preamble" class="status">
-<p class="post-subtitle"><a class="animate-link
-      back" href="../"> ← Back</a> | <strong>Updated:</strong> 2018-12-18 Tue 11:07</p>
-</div>
-<div id="content">
-<header>
-<h1 class="title">Humble Beginnings</h1>
-</header><p>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Example.com</title>
+<description>Example.com</description>
+<link>https://dynamicmetaflow.github.io/</link>
+<lastBuildDate>Wed, 19 Dec 2018 11:31:12 -0500</lastBuildDate>
+<item>
+  <title>Humble Beginnings</title>
+  <description><![CDATA[
+<p>
 My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from Dominican Republic, was my mentor and role-model. When I visited during the weekend I would find my brother taking apart and repairing different devices. I looked forward to spending time with him and I would ask questions about technology, such as "What is RAM?", "What are the differences between AMD and Intel?". As a child, exposure to my brother's work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.
 </p>
 
@@ -33,6 +23,9 @@ Through this computer and my 56K modem, I had the world's knowledge at my finger
 <p>
 From my experience, having access to technology or resources, advanced my learning potential. By the time I entered high school, the skills I gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors to shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities and I majored in Political Science with minors in Philosophy and Latin American Studies.
 </p>
-</div>
-</body>
-</html>
+]]></description>
+  <link>https://dynamicmetaflow.github.io/humble_beginings.html</link>
+  <pubDate>Mon, 17 Dec 2018 19:00:00 -0500</pubDate>
+</item>
+</channel>
+</rss>
