@@ -1,0 +1,31 @@
+#+OPTIONS: H:1 num:nil toc:nil html-postamble:nil html-preamble:t c:nil prop:nil timestamp:nil title:t
+#+TITLE: What I'm doing now
+#+AUTHOR: Alexander Soto
+:HIDDEN:
+#+MACRO: imageclick [[file:/images/$1]]
+#+HTML_HEAD: <link rel="stylesheet" href="../css/now.css"    type="text/css" />
+#+EXPORT_FILE_NAME: ~/site/publish/now/index.html
+:END:
+* Today's Tasks
+** NEXT Going to NY with my partner =)
+** TODO Write blog post */Purpose of Blog/*
+** TODO Send email to support circle / group
+* This Week's Projects
+** Register for CS5002                                              :PROJECT:
+** Complete setup of website                                        :PROJECT:
+** Write blog posts                                                 :PROJECT:
+*** Purpose of Blog
+*** Graduate School
+* Monthly Objectives
+** Register for spring classes
+** Write 1 blog post a week
+*** Lessons Learned
+*** CS 5002:Discrete and Data Structures
+*** CS 5001: Intensive Foundations of Computer Science
+** Swim at the YMCA 2x a week
+** Complete scholarship application
+* Yearly Goals
+** 80 or above in my ALIGN classes
+** Create and maintain a learning blog
+** Create, cultivate and practice self-care
+** To cultivate 1 new daily habit each month

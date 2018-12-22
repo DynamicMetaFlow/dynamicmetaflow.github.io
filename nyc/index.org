@@ -1,0 +1,23 @@
+:HIDDEN:
+#+TITLE: To the BIG APPLE with my babe, Jax!
+#+OPTIONS:  H:1 num:t toc:t html-postamble:nil html-preamble:nil c:t prop:nil title:t
+#+DATE: <2018-12-20 Thu>
+:END:
+* Landmarks
+** TODO Brooklyn Bridge
+** DONE Bodegas
+** TODO Grand Central Terminal
+** DONE Times Square
+** TODO Highline
+** TODO Empire State Building
+** DONE Rockefeller Center
+** TODO Lincoln Center
+** DONE Radio City Music Hall
+** TODO Fort Tryon Park
+** TODO Greenwich Village / Washington Square Park
+** TODO Union Square
+** DONE Brooklyn Museum
+** DONE Brooklyn Public Library
+* Restaurants / Food
+** TODO Chelsea Market
+** DONE Los Tacos No.
