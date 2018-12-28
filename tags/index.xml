@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>
+            
+                    Tags on
+                
+            
+            Alexander Soto</title>
+        <link>https://dynamicmetaflow.github.io/tags/</link>
+        <description>Recent content  in Tags
+            on Alexander Soto</description>
+        <language>en-us</language>
+        
+                <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 27 Dec 2018 19:32:44 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+            <atom:link href="https://dynamicmetaflow.github.io/tags/index.xml" rel="self" type="application/rss&#43;xml" />
+    </channel>
+</rss>
+
+
