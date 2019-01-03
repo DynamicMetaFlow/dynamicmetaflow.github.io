@@ -11,10 +11,101 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 02 Jan 2019 20:20:44 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 02 Jan 2019 22:40:31 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-02-wed/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for January 2nd, 2019&lt;/blockquote&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;File&lt;/th&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;%&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;ALL&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2:53&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;100.0&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;done.org&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2:53&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Review bike for maintenance&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:53&lt;/td&gt;
+&lt;td&gt;30.6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Create outline&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:30&lt;/td&gt;
+&lt;td&gt;17.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Identify 4 changes for the month of January&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:30&lt;/td&gt;
+&lt;td&gt;17.3&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Journal Writing&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;1:00&lt;/td&gt;
+&lt;td&gt;34.7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                             
+                            
+                                
+                                 
+                                    <category domain="https://dynamicmetaflow.github.io/tags/daily">daily</category>
+                                
+                            
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-02-wed/</guid>
+                <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
             
             <item>
                 <title>Hello World</title>

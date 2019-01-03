@@ -4,13 +4,107 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-02T20:20:44-05:00</updated>
+    <updated>2019-01-02T22:40:31-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-02-wed/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-02-wed/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-02T00:00:00-05:00</published>
+            <updated>2019-01-02T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for January 2nd, 2019</blockquote><table>
+<thead>
+<tr>
+<th>File</th>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+<th>%</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td>ALL</td>
+<td><strong>Total time</strong></td>
+<td><strong>2:53</strong></td>
+<td>100.0</td>
+</tr>
+
+<tr>
+<td>done.org</td>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>2:53</strong></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td><del>Review bike for maintenance</del></td>
+<td>0:53</td>
+<td>30.6</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td><del>Create outline</del></td>
+<td>0:30</td>
+<td>17.3</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td><del>Identify 4 changes for the month of January</del></td>
+<td>0:30</td>
+<td>17.3</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td><del>Journal Writing</del></td>
+<td>1:00</td>
+<td>34.7</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://dynamicmetaflow.github.io/tags/daily" term="daily" label="daily" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Hello World]]></title>
