@@ -3,12 +3,12 @@
     <channel>
         <title>
             
-                    About on
+                    Daily on
                 
             
             Alexander Soto</title>
-        <link>https://dynamicmetaflow.github.io/about/</link>
-        <description>Recent content  in About
+        <link>https://dynamicmetaflow.github.io/tags/daily/</link>
+        <description>Recent content  in Daily
             on Alexander Soto</description>
         <language>en-us</language>
         
@@ -16,7 +16,7 @@
                 <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 02 Jan 2019 20:10:16 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="https://dynamicmetaflow.github.io/about/index.xml" rel="self" type="application/rss&#43;xml" />
+            <atom:link href="https://dynamicmetaflow.github.io/tags/daily/index.xml" rel="self" type="application/rss&#43;xml" />
     </channel>
 </rss>
 

@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sat, 29 Dec 2018 16:50:53 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 02 Jan 2019 20:10:16 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -21,17 +21,9 @@
                 <link>https://dynamicmetaflow.github.io/blog/hello-world/</link>
                 
                 
-                <description>&lt;p&gt;Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here&amp;hellip; a blog in 2018? &lt;strong&gt;Bueno, mejor que nada&lt;/strong&gt;&amp;hellip; This post is titled &lt;strong&gt;Hello World&lt;/strong&gt;, it symbolizes the first step we take to attempt to communicate to someone or something else while simultaneously being born into a new digital world of our creation.&lt;/p&gt;
+                <description>&lt;p&gt;Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here&amp;hellip; a blog in 2019? &lt;strong&gt;Bueno, mejor que nada&lt;/strong&gt;&amp;hellip; This post is titled &lt;strong&gt;Hello World&lt;/strong&gt;, it symbolizes the first step we take to attempt to communicate to someone or something else while simultaneously being born into a new digital world of our creation.&lt;/p&gt;
 
-&lt;p&gt;I want you to step into my world and I&amp;rsquo;ll take you with me on this
-journey of pursuing my master&amp;rsquo;s degree in Computer Science. To me I
-see Computer Science as attaining a new ability to be able to see
-the world through a computational lens, the opportunity to
-creatively solve problems and to contribute, create and share
-knowledge with others. As someone who in the past has been deeply
-involved with community-building as a former community organizer,
-teacher and mentor, I seek to bridge technology and social justice. I expect this journey to be filled with moments of joy,
-tears, and frustration&amp;hellip; &lt;strong&gt;Pa&amp;rsquo;lante!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I want you to step into my world and I&amp;rsquo;ll take you with me on this journey of pursuing my master&amp;rsquo;s degree in Computer Science. To me I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher and mentor, I seek to bridge technology and social justice. I expect this journey to be filled with moments of joy, tears, and frustration… &lt;strong&gt;Pa&amp;rsquo;lante!&lt;/strong&gt;&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
@@ -45,7 +37,7 @@ tears, and frustration&amp;hellip; &lt;strong&gt;Pa&amp;rsquo;lante!&lt;/strong&
                     
                 
                 <guid>https://dynamicmetaflow.github.io/blog/hello-world/</guid>
-                <pubDate>Sat, 29 Dec 2018 00:00:00 -0500</pubDate>
+                <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
             </item>
         
     </channel>
