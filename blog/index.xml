@@ -13,10 +13,62 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Fri, 04 Jan 2019 09:10:48 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Fri, 04 Jan 2019 18:45:45 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/blog/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Graduate School</title>
+                <link>https://dynamicmetaflow.github.io/blog/graduate-school/</link>
+                
+                
+                <description>&lt;p&gt;I&amp;rsquo;m a graduate student at Northeastern University&amp;rsquo;s &lt;a href=&#34;https://www.northeastern.edu/align/academic%5Fprogram/master-of-science-in-computer-science/&#34;&gt;ALIGN program&lt;/a&gt; pursuing a master&amp;rsquo;s degree in Computer Science. The ALIGN program consists of a series of bridge courses for graduate students who didn&amp;rsquo;t major in Computer Science in their undergraduate  studies. Upon completion of the ALIGN program students begin taking graduate level classes in computer science.&lt;/p&gt;
+
+&lt;p&gt;Attaining a master’s degree in computer science will link my community experience with technology and leverage this knowledge to contribute to the self-development and self-sufficiency of communities of color, as well as to enhance people’s capacities to solve problems. My long-term goal is to create a co-operative of social justice focused technologists, “Technology for Communities”, which specializes in civic technology to assist community organizations by assessing needs, analyzing data and creating solutions. A computer science degree combined with my collective experience as a community organizer will allow me to use technology collaboratively with organizations and individuals to address needs to strengthen communities and amplify our collective voice.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/blog/graduate-school/</guid>
+                <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Game Over! Continue?</title>
+                <link>https://dynamicmetaflow.github.io/blog/game-over-continue/</link>
+                
+                
+                <description>&lt;p&gt;From about 2012 to 2014 I was hospitalized due to my mental health. This time period was one of the most painful and difficult times for me in my life: being away from friends, family and society. I was completely excluded from participating in society both physically and mentally, an outcast. I longed to walk in the city, to see my friends and family, to continue my education and to be involved in community. Upon my release in 2014 I had to restart my life.&lt;/p&gt;
+
+&lt;p&gt;I reconnected with friends and started volunteering in different non-profits in the Boston area. My efforts in volunteering eventually lead me to the opportunity of being an AmeriCorps member for United Way. I along with others focused in providing services to residents in Lynn,MA. In my year of service I served at a high school: supporting students and teachers, creating an afterschool program, being a positive role model and providing support and services to the community. Around the same time period I found out about Resilient Coders. I decided to volunteer in their afterschool program that teaches youth from communities in the Boston area how to code. Fast forward to the present and I have worked for two years as a technology teacher at a highschool in Boston and was accepted into Northeastern&amp;rsquo;s Master&amp;rsquo;s program in computer science.&lt;/p&gt;
+
+&lt;p&gt;As a Latino, activist, mental health advocate and technologist, I have learned you must have a large systematic understanding of problems and issues that affect organizations, communities and individuals, in order to leverage technology as a tool for social change. I am deeply passionate about exploring the use of technology to address the lack of access and inequity in education, health and unemployment in communities of color.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/blog/game-over-continue/</guid>
+                <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
             
             <item>
                 <title>Humble Beginnings</title>
@@ -56,7 +108,7 @@
 
 &lt;p&gt;I want you to step into my world and I&amp;rsquo;ll take you with me on this journey of pursuing my master&amp;rsquo;s degree in Computer Science. I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.&lt;/p&gt;
 
-&lt;p&gt;This blog, this world that&amp;rsquo;s being created will serve as a repository about what I&amp;rsquo;m currently learning. I intend to share what I&amp;rsquo;ve learned with others by creating content that&amp;rsquo;s accessible to a wide audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher and mentor, &lt;strong&gt;I seek to bridge technology and social justice.&lt;/strong&gt; I expect this journey to be filled with moments of joy, tears, and frustration… &lt;strong&gt;Pa&amp;rsquo;lante!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This blog, this world that&amp;rsquo;s being created will serve as a repository about what I&amp;rsquo;m currently learning. I intend to share what I&amp;rsquo;ve learned with others by creating content that&amp;rsquo;s accessible to a wider audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher and mentor, &lt;strong&gt;I seek to bridge technology and social justice.&lt;/strong&gt; I expect this journey to be filled with moments of joy, tears, and frustration… &lt;strong&gt;Pa&amp;rsquo;lante!&lt;/strong&gt;&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
