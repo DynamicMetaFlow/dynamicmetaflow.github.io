@@ -4,7 +4,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-02T22:40:31-05:00</updated>
+    <updated>2019-01-03T21:06:32-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -13,9 +13,9 @@
     <id>https://dynamicmetaflow.github.io/</id>
         
         <entry>
-            <title type="html"><![CDATA[Daily Review]]></title>
-            <link href="https://dynamicmetaflow.github.io/review/2019-01-02-wed/"/>
-            <id>https://dynamicmetaflow.github.io/review/2019-01-02-wed/</id>
+            <title type="html"><![CDATA[Humble Beginnings]]></title>
+            <link href="https://dynamicmetaflow.github.io/blog/humble-beginnings/"/>
+            <id>https://dynamicmetaflow.github.io/blog/humble-beginnings/</id>
             
                     <author>
                         <name>Alexander Soto</name>
@@ -24,67 +24,13 @@
             <updated>2019-01-02T00:00:00-05:00</updated>
             
             
-            <content type="html"><![CDATA[<blockquote>Daily Review for January 2nd, 2019</blockquote><table>
-<thead>
-<tr>
-<th>File</th>
-<th>TODO</th>
-<th>Headline</th>
-<th>Time</th>
-<th>%</th>
-</tr>
-</thead>
+            <content type="html"><![CDATA[<p>My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend I would find my brother taking apart and repairing different devices. I looked forward to spending time with him and I would ask questions about technology, such as &ldquo;What is RAM?&rdquo;, &ldquo;What are the differences between AMD and Intel?&rdquo;. As a child, exposure to my brother&rsquo;s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.</p>
 
-<tbody>
-<tr>
-<td></td>
-<td>ALL</td>
-<td><strong>Total time</strong></td>
-<td><strong>2:53</strong></td>
-<td>100.0</td>
-</tr>
+<p>I then attended Middle School and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the computer to me. I became the proud owner of a Pentium II 233 MHz Desktop Computer. This was my first computer. I carried the large desktop up the hill and walked several blocks to my house. I troubleshoot the different parts and identified the power supply wasn&rsquo;t working. I found an extra power supply from an abandoned computer and swapped the power supply.</p>
 
-<tr>
-<td>done.org</td>
-<td></td>
-<td><strong>File time</strong></td>
-<td><strong>2:53</strong></td>
-<td></td>
-</tr>
+<p>Through this computer and my 56K modem, I had the world&rsquo;s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advance classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. I seized this opportunity and chose the &ldquo;C++ for Dummies&rdquo; book (at the time they seemed to be popular and provided comic relief). As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.</p>
 
-<tr>
-<td></td>
-<td>DONE</td>
-<td><del>Review bike for maintenance</del></td>
-<td>0:53</td>
-<td>30.6</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td><del>Create outline</del></td>
-<td>0:30</td>
-<td>17.3</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td><del>Identify 4 changes for the month of January</del></td>
-<td>0:30</td>
-<td>17.3</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td><del>Journal Writing</del></td>
-<td>1:00</td>
-<td>34.7</td>
-</tr>
-</tbody>
-</table>
+<p>From my experience, having access to technology or resources,  advanced my learning potential. By the time I entered high school, the skills I gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities and I majored in Political Science with minors in Philosophy and Latin American Studies.</p>
 ]]></content>
             
                  
@@ -92,14 +38,6 @@
                  
                     
                  
-                    
-                         
-                        
-                            
-                             
-                                <category scheme="https://dynamicmetaflow.github.io/tags/daily" term="daily" label="daily" />
-                            
-                        
                     
                 
             
@@ -118,9 +56,11 @@
             <updated>2019-01-01T00:00:00-05:00</updated>
             
             
-            <content type="html"><![CDATA[<p>Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here&hellip; a blog in 2019? <strong>Bueno, mejor que nada</strong>&hellip; This post is titled <strong>Hello World</strong>, it symbolizes the first step we take to attempt to communicate to someone or something else while simultaneously being born into a new digital world of our creation.</p>
+            <content type="html"><![CDATA[<p>Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here&hellip; a blog in 2019? <strong>Bueno, mejor que nada</strong>&hellip; This post is titled <strong>Hello World</strong>, it symbolizes the first step we take to attempt to communicate to someone or something else while being simultaneously born into a new digital world of our creation.</p>
 
-<p>I want you to step into my world and I&rsquo;ll take you with me on this journey of pursuing my master&rsquo;s degree in Computer Science. To me I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher and mentor, I seek to bridge technology and social justice. I expect this journey to be filled with moments of joy, tears, and frustration… <strong>Pa&rsquo;lante!</strong></p>
+<p>I want you to step into my world and I&rsquo;ll take you with me on this journey of pursuing my master&rsquo;s degree in Computer Science. I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.</p>
+
+<p>This blog, this world that&rsquo;s being created will serve as a repository about what I&rsquo;m currently learning. I intend to share what I&rsquo;ve learned with others by creating content that&rsquo;s accessible to a wide audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher and mentor, <strong>I seek to bridge technology and social justice.</strong> I expect this journey to be filled with moments of joy, tears, and frustration… <strong>Pa&rsquo;lante!</strong></p>
 ]]></content>
             
                  
