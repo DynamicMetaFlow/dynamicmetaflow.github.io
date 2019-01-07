@@ -3,12 +3,12 @@
     <channel>
         <title>
             
-                    What I&#39;m Doing Now on
+                    Cs5001 on
                 
             
             Alexander Soto</title>
-        <link>https://dynamicmetaflow.github.io/now/</link>
-        <description>Recent content  in What I&#39;m Doing Now
+        <link>https://dynamicmetaflow.github.io/categories/cs5001/</link>
+        <description>Recent content  in Cs5001
             on Alexander Soto</description>
         <language>en-us</language>
         
@@ -16,7 +16,7 @@
                 <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sun, 06 Jan 2019 22:57:20 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="https://dynamicmetaflow.github.io/now/index.xml" rel="self" type="application/rss&#43;xml" />
+            <atom:link href="https://dynamicmetaflow.github.io/categories/cs5001/index.xml" rel="self" type="application/rss&#43;xml" />
     </channel>
 </rss>
 
