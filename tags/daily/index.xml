@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Mon, 07 Jan 2019 11:48:13 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Mon, 07 Jan 2019 11:51:23 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/tags/daily/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -42,7 +42,7 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;ALL&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;3:19&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;3:26&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -70,7 +70,28 @@
 &lt;td&gt;gtd.org&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;1:24&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1:31&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;What I&amp;rsquo;m Doing Now&lt;/td&gt;
+&lt;td&gt;0:07&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Today&amp;rsquo;s Tasks&lt;/td&gt;
+&lt;td&gt;0:07&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Configuring website&lt;/td&gt;
+&lt;td&gt;0:07&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -191,6 +212,10 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
 &lt;h3 id=&#34;11-26-am-completed-task-write-accountability-blog-post&#34;&gt;11:26 AM - Completed Task: Write &amp;ldquo;accountability&amp;rdquo; blog post&lt;/h3&gt;
 
 &lt;h3 id=&#34;11-37-am-starting-task-configuring-website&#34;&gt;11:37 AM - Starting Task: Configuring website&lt;/h3&gt;
+
+&lt;h3 id=&#34;11-44-am-completed-task-configuring-website&#34;&gt;11:44 AM - Completed Task: Configuring website&lt;/h3&gt;
+
+&lt;p&gt;Setup Review section to include clocktable summary and timestamps of completed tasks for the day&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
