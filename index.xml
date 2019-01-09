@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 09 Jan 2019 12:38:49 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 09 Jan 2019 13:56:36 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -164,24 +164,11 @@ Created preliminary schedule&lt;/li&gt;
                 <link>https://dynamicmetaflow.github.io/blog/accountability/</link>
                 
                 
-                <description>&lt;p&gt;While I was hospitalized for close to two years, the first trip that I made to society was to visit Northeastern University in one of their college tours for prospective students. At the time when I was hospitalized I was learning Python and I didn&amp;rsquo;t have reliable access to a computer. In times I didn&amp;rsquo;t have access to a computer, I printed pages from a PDF and took notes on scratch paper that nurses gave me.&lt;/p&gt;
+                <description>&lt;p&gt;While I was hospitalized for close to two years, the first trip that I made to society was to visit Northeastern University in one of their college tours for prospective students. At the time when I was hospitalized, I was learning Python, and I didn&amp;rsquo;t have reliable access to a computer. In times I didn&amp;rsquo;t have access to a computer, I printed pages from a PDF and took notes on scratch paper that nurses gave me.&lt;/p&gt;
 
-&lt;p&gt;I feel an immense pride to say years later I was accepted to Northeastern University. I&amp;rsquo;m honored to be the first in my family to be accepted to graduate school. I&amp;rsquo;m a neurodivergent, person of color, Latino pursuing my master&amp;rsquo;s degree in Computer Science. With all that being said I have not done well in my graduate classes. I was unaware of the level of rigor required for the program while also working full-time as a high school teacher compounded with life&amp;rsquo;s challenge&amp;rsquo;s and my own habits and emotions.&lt;/p&gt;
+&lt;p&gt;I feel immense pride to say years later I was accepted to Northeastern University. I&amp;rsquo;m honored to be the first in my family to be admitted to graduate school. I&amp;rsquo;m a neurodivergent, person of color, Latino pursuing my master&amp;rsquo;s degree in Computer Science. With all that being said I have not done well in my graduate classes. I was unaware of the level of rigor required for the program while also working full-time as a high school teacher compounded with life&amp;rsquo;s challenge&amp;rsquo;s and my own habits, emotions and insecurities.&lt;/p&gt;
 
-&lt;style&gt;.org-center { margin-left: auto; margin-right: auto; text-align: center; }&lt;/style&gt;
-
-&lt;div class=&#34;org-center&#34;&gt;
-  &lt;div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Today this comes to a stop.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;In this website I will document my learning path and my process to hold myself accountable to reaching my goal of attaining my master&amp;rsquo;s degree in Computer Science.&lt;/p&gt;
+&lt;p&gt;In this website, I will document my learning path and my process to hold myself accountable for reaching my goal of attaining my master&amp;rsquo;s degree in Computer Science.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;In the &lt;a href=&#34;https://dynamicmetaflow.github.io/now/&#34;&gt;Now section&lt;/a&gt; you can see my objectives for today, this week, month and year.&lt;/li&gt;
@@ -196,16 +183,16 @@ Created preliminary schedule&lt;/li&gt;
 &lt;!--listend--&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;https://dynamicmetaflow.github.io/courses/&#34;&gt;Courses section&lt;/a&gt; will contain courses that I am currently taking or have in the past with links to notes taken on the topics presented in the course.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://dynamicmetaflow.github.io/courses/&#34;&gt;Courses section&lt;/a&gt; will contain courses that I am currently taking or have in the past with links to notes taken on the topics presented in the class.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!--listend--&gt;
 
 &lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;https://dynamicmetaflow.github.io/notes&#34;&gt;Notes section&lt;/a&gt; consists of my notes taken about a subject matter. The notes will be used to create lessons to be made accessible to a wider audience.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://dynamicmetaflow.github.io/notes&#34;&gt;Notes section&lt;/a&gt; consists of my notes taken about a subject matter. The notes will be used to create lessons to be made accessible to a broader audience.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;If you have any comments or suggestions please feel free to contact me.&lt;/p&gt;
+&lt;p&gt;If you have any comments or suggestions, please feel free to contact me.&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
@@ -465,9 +452,9 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                 <link>https://dynamicmetaflow.github.io/blog/graduate-school/</link>
                 
                 
-                <description>&lt;p&gt;I&amp;rsquo;m a graduate student at Northeastern University&amp;rsquo;s &lt;a href=&#34;https://www.northeastern.edu/align/academic%5Fprogram/master-of-science-in-computer-science/&#34;&gt;ALIGN program&lt;/a&gt; pursuing a master&amp;rsquo;s degree in Computer Science. The ALIGN program consists of a series of bridge courses for graduate students who didn&amp;rsquo;t major in Computer Science in their undergraduate  studies. Upon completion of the ALIGN program students begin taking graduate level classes in computer science.&lt;/p&gt;
+                <description>&lt;p&gt;I&amp;rsquo;m a graduate student at Northeastern University&amp;rsquo;s &lt;a href=&#34;https://www.northeastern.edu/align/academic%5Fprogram/master-of-science-in-computer-science/&#34;&gt;ALIGN program&lt;/a&gt; pursuing a master&amp;rsquo;s degree in Computer Science. The ALIGN program consists of a series of bridge courses for graduate students who didn&amp;rsquo;t major in Computer Science in their undergraduate studies. Upon completion of the ALIGN program, students begin taking graduate-level classes in computer science.&lt;/p&gt;
 
-&lt;p&gt;Attaining a master’s degree in computer science will link my community experience with technology and leverage this knowledge to contribute to the self-development and self-sufficiency of communities of color, as well as to enhance people’s capacities to solve problems. My long-term goal is to create a co-operative of social justice focused technologists, “Technology for Communities”, which specializes in civic technology to assist community organizations by assessing needs, analyzing data and creating solutions. A computer science degree combined with my collective experience as a community organizer will allow me to use technology collaboratively with organizations and individuals to address needs to strengthen communities and amplify our collective voice.&lt;/p&gt;
+&lt;p&gt;My interest in attaining a master’s degree in computer science is to link my community experience with technology and leverage this knowledge to contribute to the self-development and self-sufficiency of communities of color, as well as to enhance people’s capacities to solve problems. My long-term goal is to create a workers cooperative of social justice focused technologists, “Technology for Communities,” which specializes in civic technology to assist community organizations by assessing needs, analyzing data and creating solutions. A computer science degree combined with my collective experience as a community organizer will allow me to use technology collaboratively with organizations and individuals to address needs to strengthen communities and amplify our collective voice.&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
@@ -490,11 +477,11 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                 <link>https://dynamicmetaflow.github.io/blog/game-over-continue/</link>
                 
                 
-                <description>&lt;p&gt;From about 2012 to 2014 I was hospitalized due to my mental health. This time period was one of the most painful and difficult times for me in my life: being away from friends, family and society. I was completely excluded from participating in society both physically and mentally, an outcast. I longed to walk in the city, to see my friends and family, to continue my education and to be involved in community. Upon my release in 2014 I had to restart my life.&lt;/p&gt;
+                <description>&lt;p&gt;From about 2012 to 2014 I was hospitalized due to my mental health. This period was one of the most painful and challenging times for me in my life: being away from friends, family, and society. I was completely excluded from participating in society both physically and mentally, an outcast. I longed to walk in the city, to see my friends and family, to continue my education and to be involved in a community. Upon my release in 2014, I had to restart my life.&lt;/p&gt;
 
-&lt;p&gt;I reconnected with friends and started volunteering in different non-profits in the Boston area. My efforts in volunteering eventually lead me to the opportunity of being an AmeriCorps member for United Way. I along with others focused in providing services to residents in Lynn,MA. In my year of service I served at a high school: supporting students and teachers, creating an afterschool program, being a positive role model and providing support and services to the community. Around the same time period I found out about Resilient Coders. I decided to volunteer in their afterschool program that teaches youth from communities in the Boston area how to code. Fast forward to the present and I have worked for two years as a technology teacher at a highschool in Boston and was accepted into Northeastern&amp;rsquo;s Master&amp;rsquo;s program in computer science.&lt;/p&gt;
+&lt;p&gt;I reconnected with friends and started volunteering in different non-profits in the Boston area. My efforts in volunteering eventually lead me to the opportunity of being an AmeriCorps member for United Way. I along with others focused on providing services to residents in Lynn, MA. In my year of service, I served at a high school: supporting students and teachers, creating an afterschool program, being a positive role model and providing support and services to the community. Around the same period, I found out about Resilient Coders. I decided to volunteer in their afterschool program that teaches youth from communities in the Boston area how to code. Fast forward to the present, and I have worked for two years as a technology teacher at a high school in Boston and was accepted into Northeastern&amp;rsquo;s Master&amp;rsquo;s program in computer science.&lt;/p&gt;
 
-&lt;p&gt;As a Latino, activist, mental health advocate and technologist, I have learned you must have a large systematic understanding of problems and issues that affect organizations, communities and individuals, in order to leverage technology as a tool for social change. I am deeply passionate about exploring the use of technology to address the lack of access and inequity in education, health and unemployment in communities of color.&lt;/p&gt;
+&lt;p&gt;As a Latino, activist, mental health advocate and technologist, I have learned you must have a systematic understanding of problems and issues that affect organizations, communities, and individuals, to leverage technology as a tool for social change. I am deeply passionate about exploring the use of technology to address the lack of access and inequity in education, health, and unemployment in communities of color.&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
@@ -517,13 +504,13 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                 <link>https://dynamicmetaflow.github.io/blog/humble-beginnings/</link>
                 
                 
-                <description>&lt;p&gt;My beginnings with technology starts in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend I would find my brother taking apart and repairing different devices. I looked forward to spending time with him and I would ask questions about technology, such as &amp;ldquo;What is RAM?&amp;rdquo;, &amp;ldquo;What are the differences between AMD and Intel?&amp;rdquo;. As a child, exposure to my brother&amp;rsquo;s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.&lt;/p&gt;
+                <description>&lt;p&gt;My beginnings with technology start in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend, I would find my brother taking apart and repairing different devices. I looked forward to spending time with him, and I would ask questions about technology, such as &amp;ldquo;What is RAM?&amp;rdquo;, &amp;ldquo;What are the differences between AMD and Intel?&amp;rdquo;. As a child, exposure to my brother&amp;rsquo;s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed, I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.&lt;/p&gt;
 
-&lt;p&gt;I then attended Middle School and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the computer to me. I became the proud owner of a Pentium II 233 MHz Desktop Computer. This was my first computer. I carried the large desktop up the hill and walked several blocks to my house. I troubleshooted the different parts and identified the power supply wasn&amp;rsquo;t working. I found an extra power supply from an abandoned computer and swapped the power supply.&lt;/p&gt;
+&lt;p&gt;I then attended Middle School, and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the desktop to me. This was my first computer. I carried the large desktop up a hill and walked several blocks to my house. I troubleshot the desktop and identified the power supply wasn&amp;rsquo;t working. I swapped the power supply from an abandoned computer, and voila, I became the proud owner of a Pentium II 233 MHz Desktop Computer.&lt;/p&gt;
 
-&lt;p&gt;Through this computer and my 56K modem, I had the world&amp;rsquo;s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advance classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.&lt;/p&gt;
+&lt;p&gt;Through this computer and my 56K modem, I had the world&amp;rsquo;s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advanced classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.&lt;/p&gt;
 
-&lt;p&gt;From my experience, having access to technology or resources,  advanced my learning potential. By the time I entered high school, the skills I gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities and I majored in Political Science with minors in Philosophy and Latin American Studies.&lt;/p&gt;
+&lt;p&gt;From my experience, having access to technology or resources,  advanced my learning potential. By the time I entered high school, the skills I had gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities, and I majored in Political Science with minors in Philosophy and Latin American Studies.&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
@@ -546,11 +533,11 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                 <link>https://dynamicmetaflow.github.io/blog/hello-world/</link>
                 
                 
-                <description>&lt;p&gt;Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here&amp;hellip; a blog in 2019? &lt;strong&gt;Bueno, mejor que nada&lt;/strong&gt;&amp;hellip; This post is titled &lt;strong&gt;Hello World&lt;/strong&gt;, it symbolizes the first step we take to attempt to communicate to someone or something else while being simultaneously born into a new digital world of our creation.&lt;/p&gt;
+                <description>&lt;p&gt;Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here… a blog in 2019? &lt;em&gt;&lt;span class=&#34;underline&#34;&gt;Bueno, mejor que nada…&lt;/span&gt;&lt;/em&gt; This post is titled &lt;span class=&#34;underline&#34;&gt;&lt;em&gt;&amp;lsquo;Hello World&amp;rsquo;&lt;/em&gt;,&lt;/span&gt; it symbolizes the first step we take to attempt to communicate with someone or something else while being simultaneously born into a new digital world of our creation.&lt;/p&gt;
 
-&lt;p&gt;I want you to step into my world and I&amp;rsquo;ll take you with me on this journey of pursuing my master&amp;rsquo;s degree in Computer Science. I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.&lt;/p&gt;
+&lt;p&gt;I want you to step into my world and I’ll take you with me on this journey of pursuing my master’s degree in Computer Science. I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.&lt;/p&gt;
 
-&lt;p&gt;This blog, this world that&amp;rsquo;s being created will serve as a repository about what I&amp;rsquo;m currently learning. I intend to share what I&amp;rsquo;ve learned with others by creating content that&amp;rsquo;s accessible to a wider audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher and mentor, &lt;strong&gt;I seek to bridge technology and social justice.&lt;/strong&gt; I expect this journey to be filled with moments of joy, tears, and frustration… &lt;strong&gt;Pa&amp;rsquo;lante!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This blog, this world that’s being created will serve as a repository about what I’m currently learning. I intend to share what I’ve learned with others by creating content that’s accessible to a wider audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher, and mentor, &lt;strong&gt;I seek to bridge technology and social justice.&lt;/strong&gt; I expect this journey to be filled with moments of joy, tears, and frustration… &lt;strong&gt;Pa’lante!&lt;/strong&gt;&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
