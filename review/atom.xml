@@ -1,18 +1,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <title>
-                Reviews on
+                Review on
             
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/review/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/review/"/>
-    <updated>2019-01-07T17:01:06-05:00</updated>
+    <updated>2019-01-08T19:41:53-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/review/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-08/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-08/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-08T00:00:00-05:00</published>
+            <updated>2019-01-08T19:38:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-08</blockquote>
+
+<p>Daily report: <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue]</span></span></p>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td><strong>Total time</strong></td>
+<td><strong>6:26</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Meditation</td>
+<td>0:14</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Tea Ceremony</td>
+<td>0:03</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Journal writing</td>
+<td>0:13</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Review agenda, calendar, goals, habits and brain dump</td>
+<td>0:07</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Shower</td>
+<td>0:14</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Breakfast</td>
+<td>0:25</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Create a study plan for CS5002</td>
+<td>1:41</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Lunch</td>
+<td>0:41</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Create a study plan for CS5002</td>
+<td>1:41</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Recovery Block</td>
+<td>1:07</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="meditation">Meditation</h2>
+
+<h2 id="tea-ceremony">Tea Ceremony</h2>
+
+<h2 id="journal-writing">Journal writing</h2>
+
+<h2 id="review-agenda-calendar-goals-habits-and-brain-dump">Review agenda, calendar, goals, habits and brain dump</h2>
+
+<h2 id="shower">Shower</h2>
+
+<h2 id="breakfast">Breakfast</h2>
+
+<h2 id="create-a-study-plan-for-cs5002"><span class="org-todo done DONE">DONE</span> Create a study plan for CS5002</h2>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 16:13] </span></span> <br />
+Created preliminary schedule</li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 11:32]</span></span></li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>Lunch</li>
+<li>State &ldquo;TODO&rdquo;       from              <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 11:19]</span></span></li>
+</ul>
+
+<h2 id="lunch"><span class="org-todo done DONE">DONE</span> Lunch</h2>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 13:01]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 12:20]</span></span></li>
+</ul>
+
+<h2 id="create-a-study-plan-for-cs5002-1"><span class="org-todo done DONE">DONE</span> Create a study plan for CS5002</h2>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 16:13] </span></span> <br />
+Created preliminary schedule</li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 11:32]</span></span></li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>Lunch</li>
+<li>State &ldquo;TODO&rdquo;       from              <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 11:19]</span></span></li>
+</ul>
+
+<h2 id="recovery-block"><span class="org-todo done DONE">DONE</span> Recovery Block</h2>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 17:48]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 16:41]</span></span></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
@@ -23,7 +195,7 @@
                         <name>Alexander Soto</name>
                     </author>
             <published>2019-01-07T00:00:00-05:00</published>
-            <updated>2019-01-07T00:00:00-05:00</updated>
+            <updated>2019-01-08T00:16:00-05:00</updated>
             
             
             <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-07</blockquote>
@@ -45,7 +217,7 @@
 <td></td>
 <td>ALL</td>
 <td><strong>Total time</strong></td>
-<td><strong>6:59</strong></td>
+<td><strong>15:04</strong></td>
 </tr>
 
 <tr>
@@ -101,21 +273,21 @@
 <td>gtd.org</td>
 <td></td>
 <td><strong>File time</strong></td>
-<td><strong>1:24</strong></td>
+<td><strong>2:28</strong></td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
 <td>Routine</td>
-<td>1:24</td>
+<td>2:28</td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
 <td>&ensp;&ensp;Daily</td>
-<td>1:24</td>
+<td>2:28</td>
 </tr>
 
 <tr>
@@ -166,16 +338,114 @@
 <td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Breakfast</td>
 <td>0:15</td>
 </tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>&ensp;&ensp;&ensp;&ensp;Bedtime Ritual</td>
+<td>1:04</td>
+</tr>
+
+<tr>
+<td></td>
+<td>NEXT</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Admin Block</td>
+<td>1:04</td>
+</tr>
+
+<tr>
+<td>journal.org</td>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>1:26</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>2019</td>
+<td>1:26</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>&ensp;&ensp;2019-01 January</td>
+<td>1:26</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>&ensp;&ensp;&ensp;&ensp;2019-01-07 Monday</td>
+<td>1:26</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Write &ldquo;accountability&rdquo; blog post</td>
+<td>1:26</td>
+</tr>
+
+<tr>
+<td>done.org</td>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>5:35</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td>Write &ldquo;accountability&rdquo; blog post</td>
+<td>1:26</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td>Reviewing email</td>
+<td>0:29</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td>Errands</td>
+<td>2:12</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td>Swimming at the YMCA</td>
+<td>0:52</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td>Configuring website</td>
+<td>0:07</td>
+</tr>
+
+<tr>
+<td></td>
+<td>DONE</td>
+<td>Late Lunch</td>
+<td>0:29</td>
+</tr>
 </tbody>
 </table>
 
 <h2 id="07-30-am-rise-up-rise-up-good-morning">07:30 AM - Rise up! Rise up! Good morning</h2>
 
-<h2 id="07-40-am-starting-task-meditation">07:40 AM - Starting Task: Meditation</h2>
+<h2 id="07-40-am-meditation">07:40 AM - Meditation</h2>
 
 <p>Starting meditation of 15 minutes using Headspace</p>
 
-<h2 id="07-56-am-completed-task-meditation">07:56 AM - Completed Task: Meditation</h2>
+<h2 id="07-56-am-meditation"><span class="org-todo done DONE">DONE</span> 07:56 AM - Meditation</h2>
 
 <p>Completed 15min Headspace meditation
 Thoughts: As the first task in the morning, I am dehydrated. Recommended to hydrate first thing in the morning.</p>
@@ -238,6 +508,48 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
 <h2 id="03-40-pm-starting-task-late-lunch">03:40 PM - Starting Task: Late Lunch</h2>
 
 <h2 id="04-09-pm-completed-task-late-lunch">04:09 PM - Completed Task: Late Lunch</h2>
+
+<h2 id="task-admin-block">Task: Admin Block</h2>
+
+<p>Started at 09:31 PM</p>
+
+<p>Purpose: Reviewing captured tasks and setting up tasks for the next day</p>
+
+<h2 id="increase-font-size-in-emacs"><span class="org-todo done DONE">DONE</span> Increase font-size in emacs</h2>
+
+<p>Completed at 09:34 PM</p>
+
+<p>Notes: (set-face-attribute &lsquo;default nil :height 130)</p>
+
+<h2 id="change-names-of-journal-entry-that-has-starting-task-to-task-and-completed-task-to-completed"><span class="org-todo done DONE">DONE</span> Change names of journal entry that has &lsquo;Starting Task&rsquo; to &lsquo;Task&rsquo; and &lsquo;Completed Task&rsquo; to &lsquo;Completed&rsquo;</h2>
+
+<p>Completed at 10:30 PM</p>
+
+<p>Notes:</p>
+
+<h2 id="create-function-that-generates-the-properties-needed-for-hugo-and-place-it-underneat-the-current-day-s-datetree"><span class="org-todo done DONE">DONE</span> Create function that generates the properties needed for hugo and place it underneat the current day&rsquo;s datetree</h2>
+
+<p>Completed at 10:31 PM</p>
+
+<p>Notes:</p>
+
+<h2 id="create-functional-space-for-tomorrow"><span class="org-todo done DONE">DONE</span> Create functional space for tomorrow</h2>
+
+<p>Completed at 10:33 PM</p>
+
+<p>Notes:</p>
+
+<h2 id="take-medication"><span class="org-todo done DONE">DONE</span> Take Medication</h2>
+
+<p>Completed at 10:35 PM</p>
+
+<p>Notes:</p>
+
+<h2 id="admin-block"><span class="org-todo done DONE">DONE</span> Admin Block</h2>
+
+<p>Completed at 10:43 PM</p>
+
+<p>Notes:</p>
 ]]></content>
             
                  
