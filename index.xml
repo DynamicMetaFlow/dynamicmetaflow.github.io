@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 08 Jan 2019 20:25:42 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 08 Jan 2019 20:37:13 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -273,175 +273,70 @@ Created preliminary schedule&lt;/li&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;ALL&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;15:04&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;done.org&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;5:35&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Write &amp;ldquo;accountability&amp;rdquo; blog post&lt;/td&gt;
-&lt;td&gt;1:26&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Reviewing email&lt;/td&gt;
-&lt;td&gt;0:29&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Errands&lt;/td&gt;
-&lt;td&gt;2:12&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Swimming at the YMCA&lt;/td&gt;
-&lt;td&gt;0:52&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Configuring website&lt;/td&gt;
-&lt;td&gt;0:07&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Late Lunch&lt;/td&gt;
-&lt;td&gt;0:29&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;6:59&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;gtd.org&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;2:28&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1:24&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Routine&lt;/td&gt;
-&lt;td&gt;2:28&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;Daily&lt;/td&gt;
-&lt;td&gt;2:28&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Morning Ritual&lt;/td&gt;
+&lt;td&gt;Rituals&lt;/td&gt;
 &lt;td&gt;1:24&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Meditation&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Morning Ritual&lt;/td&gt;
+&lt;td&gt;1:24&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Meditation&lt;/td&gt;
 &lt;td&gt;0:16&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Tea Ceremony&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Tea Ceremony&lt;/td&gt;
 &lt;td&gt;0:15&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Journal writing&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Journal writing&lt;/td&gt;
 &lt;td&gt;0:09&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Review agenda, calendar, goals, habits and brain dump&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Review agenda, calendar, goals, habits and brain dump&lt;/td&gt;
 &lt;td&gt;0:13&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Shower&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Shower&lt;/td&gt;
 &lt;td&gt;0:16&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Breakfast&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Breakfast&lt;/td&gt;
 &lt;td&gt;0:15&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Bedtime Ritual&lt;/td&gt;
-&lt;td&gt;1:04&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;NEXT&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Admin Block&lt;/td&gt;
-&lt;td&gt;1:04&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;journal.org&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;1:26&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;2019&lt;/td&gt;
-&lt;td&gt;1:26&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;2019-01 January&lt;/td&gt;
-&lt;td&gt;1:26&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;2019-01-07 Monday&lt;/td&gt;
-&lt;td&gt;1:26&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Write &amp;ldquo;accountability&amp;rdquo; blog post&lt;/td&gt;
-&lt;td&gt;1:26&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -495,77 +390,45 @@ Created preliminary schedule&lt;/li&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;07-30-am-rise-up-rise-up-good-morning&#34;&gt;07:30 AM - Rise up! Rise up! Good morning&lt;/h2&gt;
+&lt;h2 id=&#34;rise-up-rise-up-good-morning&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Rise up! Rise up! Good morning&lt;/h2&gt;
 
-&lt;h2 id=&#34;07-40-am-meditation&#34;&gt;07:40 AM - Meditation&lt;/h2&gt;
-
-&lt;p&gt;Starting meditation of 15 minutes using Headspace&lt;/p&gt;
-
-&lt;h2 id=&#34;07-56-am-meditation&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 07:56 AM - Meditation&lt;/h2&gt;
+&lt;h2 id=&#34;meditation&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Meditation&lt;/h2&gt;
 
 &lt;p&gt;Completed 15min Headspace meditation
 Thoughts: As the first task in the morning, I am dehydrated. Recommended to hydrate first thing in the morning.&lt;/p&gt;
 
-&lt;h2 id=&#34;07-58-am-starting-task-tea-ceremony&#34;&gt;07:58 AM - Starting Task: Tea Ceremony&lt;/h2&gt;
-
-&lt;p&gt;Boiling hot water for morning tea.&lt;/p&gt;
-
-&lt;h2 id=&#34;08-13-am-completed-task-tea-ceremony&#34;&gt;08:13 AM - Completed Task: Tea Ceremony&lt;/h2&gt;
+&lt;h2 id=&#34;completed-task-tea-ceremony&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Completed Task: Tea Ceremony&lt;/h2&gt;
 
 &lt;p&gt;Completed making first cup of tea in the morning.
 Thoughts: Start making tea when I begin doing my meditation, by the time I finish meditation my tea will be complete and I can begin doing journal writing with little to no downtime.&lt;/p&gt;
 
-&lt;h2 id=&#34;08-15-am-starting-task-journal-writing&#34;&gt;08:15 AM - Starting Task: Journal writing&lt;/h2&gt;
-
-&lt;p&gt;Starting Journal Entry for the day.&lt;/p&gt;
-
-&lt;h2 id=&#34;08-24-am-completed-task-journal-writing&#34;&gt;08:24 AM - Completed Task: Journal writing&lt;/h2&gt;
+&lt;h2 id=&#34;journal-writing&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Journal writing&lt;/h2&gt;
 
 &lt;p&gt;Completed journal writing. Started while doing boiling tea.&lt;/p&gt;
 
-&lt;h2 id=&#34;08-28-am-starting-task-review-agenda-calendar-goals-habits-and-brain-dump&#34;&gt;08:28 AM - Starting Task: Review agenda, calendar, goals, habits and brain dump&lt;/h2&gt;
+&lt;h2 id=&#34;review-agenda-calendar-goals-habits-and-brain-dump&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Review agenda, calendar, goals, habits and brain dump&lt;/h2&gt;
 
-&lt;h2 id=&#34;08-41-am-completed-task-review-agenda-calendar-goals-habits-and-brain-dump&#34;&gt;08:41 AM - Completed Task: Review agenda, calendar, goals, habits and brain dump&lt;/h2&gt;
+&lt;h2 id=&#34;shower&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Shower&lt;/h2&gt;
 
-&lt;h2 id=&#34;08-43-am-starting-task-shower&#34;&gt;08:43 AM - Starting Task: Shower&lt;/h2&gt;
+&lt;h2 id=&#34;breakfast&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Breakfast&lt;/h2&gt;
 
-&lt;h2 id=&#34;08-59-am-completed-task-shower&#34;&gt;08:59 AM - Completed Task: Shower&lt;/h2&gt;
+&lt;h2 id=&#34;reviewing-email&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Reviewing email&lt;/h2&gt;
 
-&lt;h2 id=&#34;09-04-am-starting-task-breakfast&#34;&gt;09:04 AM - Starting Task: Breakfast&lt;/h2&gt;
+&lt;h2 id=&#34;draft-of-accountability-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Draft of &amp;lsquo;Accountability&amp;rsquo; blog post&lt;/h2&gt;
 
-&lt;h2 id=&#34;09-19-am-completed-task-breakfast&#34;&gt;09:19 AM - Completed Task: Breakfast&lt;/h2&gt;
+&lt;h2 id=&#34;write-accountability-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Write &amp;ldquo;accountability&amp;rdquo; blog post&lt;/h2&gt;
 
-&lt;h2 id=&#34;09-27-am-starting-task-reviewing-email&#34;&gt;09:27 AM - Starting Task: Reviewing email&lt;/h2&gt;
-
-&lt;h2 id=&#34;09-56-am-completed-task-reviewing-email&#34;&gt;09:56 AM - Completed Task: Reviewing email&lt;/h2&gt;
-
-&lt;h2 id=&#34;10-00-am-starting-task-write-accountability-blog-post&#34;&gt;10:00 AM - Starting Task: Write &amp;ldquo;accountability&amp;rdquo; blog post&lt;/h2&gt;
-
-&lt;h2 id=&#34;11-26-am-completed-task-draft-of-accountability-blog-post&#34;&gt;11:26 AM - Completed Task: Draft of &amp;lsquo;Accountability&amp;rsquo; blog post&lt;/h2&gt;
-
-&lt;h2 id=&#34;11-26-am-completed-task-write-accountability-blog-post&#34;&gt;11:26 AM - Completed Task: Write &amp;ldquo;accountability&amp;rdquo; blog post&lt;/h2&gt;
-
-&lt;h2 id=&#34;11-37-am-starting-task-configuring-website&#34;&gt;11:37 AM - Starting Task: Configuring website&lt;/h2&gt;
-
-&lt;h2 id=&#34;11-44-am-completed-task-configuring-website&#34;&gt;11:44 AM - Completed Task: Configuring website&lt;/h2&gt;
+&lt;h2 id=&#34;configuring-website&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Configuring website&lt;/h2&gt;
 
 &lt;p&gt;Setup Review section to include clocktable summary and timestamps of completed tasks for the day&lt;/p&gt;
 
-&lt;h2 id=&#34;12-03-pm-starting-task-errands&#34;&gt;12:03 PM - Starting Task: Errands&lt;/h2&gt;
+&lt;h2 id=&#34;errands&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Errands&lt;/h2&gt;
 
-&lt;p&gt;Getting ready to go to the barbershop&lt;/p&gt;
+&lt;h2 id=&#34;swimming-at-the-ymca&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Swimming at the YMCA&lt;/h2&gt;
 
-&lt;h2 id=&#34;02-15-pm-completed-task-errands&#34;&gt;02:15 PM - Completed Task: Errands&lt;/h2&gt;
+&lt;h2 id=&#34;late-lunch&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Late Lunch&lt;/h2&gt;
 
-&lt;h2 id=&#34;02-16-pm-starting-task-swimming-at-the-ymca&#34;&gt;02:16 PM - Starting Task: Swimming at the YMCA&lt;/h2&gt;
-
-&lt;h2 id=&#34;03-08-pm-completed-task-swimming-at-the-ymca&#34;&gt;03:08 PM - Completed Task: Swimming at the YMCA&lt;/h2&gt;
-
-&lt;h2 id=&#34;03-40-pm-starting-task-late-lunch&#34;&gt;03:40 PM - Starting Task: Late Lunch&lt;/h2&gt;
-
-&lt;h2 id=&#34;04-09-pm-completed-task-late-lunch&#34;&gt;04:09 PM - Completed Task: Late Lunch&lt;/h2&gt;
-
-&lt;h2 id=&#34;task-admin-block&#34;&gt;Task: Admin Block&lt;/h2&gt;
+&lt;h2 id=&#34;task-admin-block&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Task: Admin Block&lt;/h2&gt;
 
 &lt;p&gt;Started at 09:31 PM&lt;/p&gt;
 

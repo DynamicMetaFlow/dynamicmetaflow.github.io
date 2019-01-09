@@ -4,7 +4,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-08T20:25:42-05:00</updated>
+    <updated>2019-01-08T20:37:13-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -260,7 +260,7 @@ Created preliminary schedule</li>
                         <name>Alexander Soto</name>
                     </author>
             <published>2019-01-07T00:00:00-05:00</published>
-            <updated>2019-01-08T00:16:00-05:00</updated>
+            <updated>2019-01-08T20:36:00-05:00</updated>
             
             
             <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-07</blockquote>
@@ -282,175 +282,70 @@ Created preliminary schedule</li>
 <td></td>
 <td>ALL</td>
 <td><strong>Total time</strong></td>
-<td><strong>15:04</strong></td>
-</tr>
-
-<tr>
-<td>done.org</td>
-<td></td>
-<td><strong>File time</strong></td>
-<td><strong>5:35</strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td>Write &ldquo;accountability&rdquo; blog post</td>
-<td>1:26</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td>Reviewing email</td>
-<td>0:29</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td>Errands</td>
-<td>2:12</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td>Swimming at the YMCA</td>
-<td>0:52</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td>Configuring website</td>
-<td>0:07</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td>Late Lunch</td>
-<td>0:29</td>
+<td><strong>6:59</strong></td>
 </tr>
 
 <tr>
 <td>gtd.org</td>
 <td></td>
 <td><strong>File time</strong></td>
-<td><strong>2:28</strong></td>
+<td><strong>1:24</strong></td>
 </tr>
 
 <tr>
 <td></td>
 <td></td>
-<td>Routine</td>
-<td>2:28</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>&ensp;&ensp;Daily</td>
-<td>2:28</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>&ensp;&ensp;&ensp;&ensp;Morning Ritual</td>
+<td>Rituals</td>
 <td>1:24</td>
 </tr>
 
 <tr>
 <td></td>
-<td>TODO</td>
-<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Meditation</td>
+<td></td>
+<td>&ensp;&ensp;Morning Ritual</td>
+<td>1:24</td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>&ensp;&ensp;&ensp;&ensp;Meditation</td>
 <td>0:16</td>
 </tr>
 
 <tr>
 <td></td>
-<td>TODO</td>
-<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Tea Ceremony</td>
+<td></td>
+<td>&ensp;&ensp;&ensp;&ensp;Tea Ceremony</td>
 <td>0:15</td>
 </tr>
 
 <tr>
 <td></td>
-<td>TODO</td>
-<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Journal writing</td>
+<td></td>
+<td>&ensp;&ensp;&ensp;&ensp;Journal writing</td>
 <td>0:09</td>
 </tr>
 
 <tr>
 <td></td>
-<td>TODO</td>
-<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Review agenda, calendar, goals, habits and brain dump</td>
+<td></td>
+<td>&ensp;&ensp;&ensp;&ensp;Review agenda, calendar, goals, habits and brain dump</td>
 <td>0:13</td>
 </tr>
 
 <tr>
 <td></td>
-<td>TODO</td>
-<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Shower</td>
+<td></td>
+<td>&ensp;&ensp;&ensp;&ensp;Shower</td>
 <td>0:16</td>
 </tr>
 
 <tr>
 <td></td>
-<td>TODO</td>
-<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Breakfast</td>
+<td></td>
+<td>&ensp;&ensp;&ensp;&ensp;Breakfast</td>
 <td>0:15</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>&ensp;&ensp;&ensp;&ensp;Bedtime Ritual</td>
-<td>1:04</td>
-</tr>
-
-<tr>
-<td></td>
-<td>NEXT</td>
-<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Admin Block</td>
-<td>1:04</td>
-</tr>
-
-<tr>
-<td>journal.org</td>
-<td></td>
-<td><strong>File time</strong></td>
-<td><strong>1:26</strong></td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>2019</td>
-<td>1:26</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>&ensp;&ensp;2019-01 January</td>
-<td>1:26</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td>&ensp;&ensp;&ensp;&ensp;2019-01-07 Monday</td>
-<td>1:26</td>
-</tr>
-
-<tr>
-<td></td>
-<td>DONE</td>
-<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Write &ldquo;accountability&rdquo; blog post</td>
-<td>1:26</td>
 </tr>
 
 <tr>
@@ -504,77 +399,45 @@ Created preliminary schedule</li>
 </tbody>
 </table>
 
-<h2 id="07-30-am-rise-up-rise-up-good-morning">07:30 AM - Rise up! Rise up! Good morning</h2>
+<h2 id="rise-up-rise-up-good-morning"><span class="org-todo done DONE">DONE</span> Rise up! Rise up! Good morning</h2>
 
-<h2 id="07-40-am-meditation">07:40 AM - Meditation</h2>
-
-<p>Starting meditation of 15 minutes using Headspace</p>
-
-<h2 id="07-56-am-meditation"><span class="org-todo done DONE">DONE</span> 07:56 AM - Meditation</h2>
+<h2 id="meditation"><span class="org-todo done DONE">DONE</span> Meditation</h2>
 
 <p>Completed 15min Headspace meditation
 Thoughts: As the first task in the morning, I am dehydrated. Recommended to hydrate first thing in the morning.</p>
 
-<h2 id="07-58-am-starting-task-tea-ceremony">07:58 AM - Starting Task: Tea Ceremony</h2>
-
-<p>Boiling hot water for morning tea.</p>
-
-<h2 id="08-13-am-completed-task-tea-ceremony">08:13 AM - Completed Task: Tea Ceremony</h2>
+<h2 id="completed-task-tea-ceremony"><span class="org-todo done DONE">DONE</span> Completed Task: Tea Ceremony</h2>
 
 <p>Completed making first cup of tea in the morning.
 Thoughts: Start making tea when I begin doing my meditation, by the time I finish meditation my tea will be complete and I can begin doing journal writing with little to no downtime.</p>
 
-<h2 id="08-15-am-starting-task-journal-writing">08:15 AM - Starting Task: Journal writing</h2>
-
-<p>Starting Journal Entry for the day.</p>
-
-<h2 id="08-24-am-completed-task-journal-writing">08:24 AM - Completed Task: Journal writing</h2>
+<h2 id="journal-writing"><span class="org-todo done DONE">DONE</span> Journal writing</h2>
 
 <p>Completed journal writing. Started while doing boiling tea.</p>
 
-<h2 id="08-28-am-starting-task-review-agenda-calendar-goals-habits-and-brain-dump">08:28 AM - Starting Task: Review agenda, calendar, goals, habits and brain dump</h2>
+<h2 id="review-agenda-calendar-goals-habits-and-brain-dump"><span class="org-todo done DONE">DONE</span> Review agenda, calendar, goals, habits and brain dump</h2>
 
-<h2 id="08-41-am-completed-task-review-agenda-calendar-goals-habits-and-brain-dump">08:41 AM - Completed Task: Review agenda, calendar, goals, habits and brain dump</h2>
+<h2 id="shower"><span class="org-todo done DONE">DONE</span> Shower</h2>
 
-<h2 id="08-43-am-starting-task-shower">08:43 AM - Starting Task: Shower</h2>
+<h2 id="breakfast"><span class="org-todo done DONE">DONE</span> Breakfast</h2>
 
-<h2 id="08-59-am-completed-task-shower">08:59 AM - Completed Task: Shower</h2>
+<h2 id="reviewing-email"><span class="org-todo done DONE">DONE</span> Reviewing email</h2>
 
-<h2 id="09-04-am-starting-task-breakfast">09:04 AM - Starting Task: Breakfast</h2>
+<h2 id="draft-of-accountability-blog-post"><span class="org-todo done DONE">DONE</span> Draft of &lsquo;Accountability&rsquo; blog post</h2>
 
-<h2 id="09-19-am-completed-task-breakfast">09:19 AM - Completed Task: Breakfast</h2>
+<h2 id="write-accountability-blog-post"><span class="org-todo done DONE">DONE</span> Write &ldquo;accountability&rdquo; blog post</h2>
 
-<h2 id="09-27-am-starting-task-reviewing-email">09:27 AM - Starting Task: Reviewing email</h2>
-
-<h2 id="09-56-am-completed-task-reviewing-email">09:56 AM - Completed Task: Reviewing email</h2>
-
-<h2 id="10-00-am-starting-task-write-accountability-blog-post">10:00 AM - Starting Task: Write &ldquo;accountability&rdquo; blog post</h2>
-
-<h2 id="11-26-am-completed-task-draft-of-accountability-blog-post">11:26 AM - Completed Task: Draft of &lsquo;Accountability&rsquo; blog post</h2>
-
-<h2 id="11-26-am-completed-task-write-accountability-blog-post">11:26 AM - Completed Task: Write &ldquo;accountability&rdquo; blog post</h2>
-
-<h2 id="11-37-am-starting-task-configuring-website">11:37 AM - Starting Task: Configuring website</h2>
-
-<h2 id="11-44-am-completed-task-configuring-website">11:44 AM - Completed Task: Configuring website</h2>
+<h2 id="configuring-website"><span class="org-todo done DONE">DONE</span> Configuring website</h2>
 
 <p>Setup Review section to include clocktable summary and timestamps of completed tasks for the day</p>
 
-<h2 id="12-03-pm-starting-task-errands">12:03 PM - Starting Task: Errands</h2>
+<h2 id="errands"><span class="org-todo done DONE">DONE</span> Errands</h2>
 
-<p>Getting ready to go to the barbershop</p>
+<h2 id="swimming-at-the-ymca"><span class="org-todo done DONE">DONE</span> Swimming at the YMCA</h2>
 
-<h2 id="02-15-pm-completed-task-errands">02:15 PM - Completed Task: Errands</h2>
+<h2 id="late-lunch"><span class="org-todo done DONE">DONE</span> Late Lunch</h2>
 
-<h2 id="02-16-pm-starting-task-swimming-at-the-ymca">02:16 PM - Starting Task: Swimming at the YMCA</h2>
-
-<h2 id="03-08-pm-completed-task-swimming-at-the-ymca">03:08 PM - Completed Task: Swimming at the YMCA</h2>
-
-<h2 id="03-40-pm-starting-task-late-lunch">03:40 PM - Starting Task: Late Lunch</h2>
-
-<h2 id="04-09-pm-completed-task-late-lunch">04:09 PM - Completed Task: Late Lunch</h2>
-
-<h2 id="task-admin-block">Task: Admin Block</h2>
+<h2 id="task-admin-block"><span class="org-todo done DONE">DONE</span> Task: Admin Block</h2>
 
 <p>Started at 09:31 PM</p>
 
