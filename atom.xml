@@ -4,7 +4,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-08T21:52:52-05:00</updated>
+    <updated>2019-01-08T21:55:44-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -21,7 +21,7 @@
                         <name>Alexander Soto</name>
                     </author>
             <published>2019-01-08T00:00:00-05:00</published>
-            <updated>2019-01-08T19:38:00-05:00</updated>
+            <updated>2019-01-08T21:55:00-05:00</updated>
             
             
             <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-08</blockquote>
@@ -41,7 +41,7 @@
 <tr>
 <td></td>
 <td><strong>Total time</strong></td>
-<td><strong>6:26</strong></td>
+<td><strong>5:37</strong></td>
 </tr>
 
 <tr>
@@ -94,14 +94,20 @@
 
 <tr>
 <td>DONE</td>
-<td>Create a study plan for CS5002</td>
-<td>1:41</td>
+<td>Recovery Block</td>
+<td>1:07</td>
 </tr>
 
 <tr>
-<td>DONE</td>
-<td>Recovery Block</td>
-<td>1:07</td>
+<td></td>
+<td>Admin Block</td>
+<td>0:45</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Create functional space for tomorrow</td>
+<td>0:07</td>
 </tr>
 </tbody>
 </table>
@@ -145,32 +151,16 @@ Created preliminary schedule</li>
 <li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 12:20]</span></span></li>
 </ul>
 
-<h2 id="create-a-study-plan-for-cs5002-1"><span class="org-todo done DONE">DONE</span> Create a study plan for CS5002</h2>
-
-<ul>
-<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 16:13] </span></span> <br />
-Created preliminary schedule</li>
-</ul>
-
-<!--listend-->
-
-<ul>
-<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 11:32]</span></span></li>
-</ul>
-
-<!--listend-->
-
-<ul>
-<li>Lunch</li>
-<li>State &ldquo;TODO&rdquo;       from              <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 11:19]</span></span></li>
-</ul>
-
 <h2 id="recovery-block"><span class="org-todo done DONE">DONE</span> Recovery Block</h2>
 
 <ul>
 <li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 17:48]</span></span></li>
 <li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-08 Tue 16:41]</span></span></li>
 </ul>
+
+<h2 id="admin-block">Admin Block</h2>
+
+<h2 id="create-functional-space-for-tomorrow">Create functional space for tomorrow</h2>
 ]]></content>
             
                  
