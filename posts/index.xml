@@ -3,12 +3,12 @@
     <channel>
         <title>
             
-                    Review on
+                    What I&#39;m Doing Now on
                 
             
             Alexander Soto</title>
-        <link>https://dynamicmetaflow.github.io/review/</link>
-        <description>Recent content  in Review
+        <link>https://dynamicmetaflow.github.io/posts/</link>
+        <description>Recent content  in What I&#39;m Doing Now
             on Alexander Soto</description>
         <language>en-us</language>
         
@@ -16,7 +16,7 @@
                 <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sat, 12 Jan 2019 18:19:51 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
+            <atom:link href="https://dynamicmetaflow.github.io/posts/index.xml" rel="self" type="application/rss&#43;xml" />
     </channel>
 </rss>
 
