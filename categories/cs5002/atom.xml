@@ -1,0 +1,82 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <generator>Hugo -- gohugo.io</generator>
+    <title>
+                Cs5002 on
+            
+        
+        Alexander Soto</title>
+        <link href="https://dynamicmetaflow.github.io/categories/cs5002/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/categories/cs5002/"/>
+    <updated>2019-01-13T16:37:08-05:00</updated>
+    <author>
+            <name>Alexander Soto</name>
+            
+                <email>alexander.soto@@gmail.com</email>
+            </author>
+    <id>https://dynamicmetaflow.github.io/categories/cs5002/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[CS5002: Discrete and Data Structures]]></title>
+            <link href="https://dynamicmetaflow.github.io/cs5002/"/>
+            <id>https://dynamicmetaflow.github.io/cs5002/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-01T00:00:00-05:00</published>
+            <updated>2019-01-13T00:57:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>This course introduces the mathematical structures and methods that form the foundation of computer science.</blockquote>]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://dynamicmetaflow.github.io/categories/cs5002" term="cs5002" label="CS5002" />
+                            
+                        
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Propositional Logic]]></title>
+            <link href="https://dynamicmetaflow.github.io/notes/logic/"/>
+            <id>https://dynamicmetaflow.github.io/notes/logic/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2018-12-31T00:00:00-05:00</published>
+            <updated>2019-01-13T00:57:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://dynamicmetaflow.github.io/categories/cs5002" term="cs5002" label="CS5002" />
+                            
+                        
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+</feed>

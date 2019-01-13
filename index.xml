@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>
+            
+            
+            Alexander Soto</title>
+        <link>https://dynamicmetaflow.github.io/</link>
+        <description>Recent content 
+            on Alexander Soto</description>
+        <language>en-us</language>
+        
+                <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sun, 13 Jan 2019 16:37:08 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+            <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-12/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-12&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5:32&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Meditation&lt;/td&gt;
+&lt;td&gt;0:11&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Tea Ceremony&lt;/td&gt;
+&lt;td&gt;0:12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Journal writing&lt;/td&gt;
+&lt;td&gt;0:12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Review agenda and calendar&lt;/td&gt;
+&lt;td&gt;0:03&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Shower&lt;/td&gt;
+&lt;td&gt;0:22&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WAITING&lt;/td&gt;
+&lt;td&gt;Sign-up for CS5002 piazza class&lt;/td&gt;
+&lt;td&gt;0:23&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WAITING&lt;/td&gt;
+&lt;td&gt;Sign up for Gradescope for CS5002&lt;/td&gt;
+&lt;td&gt;0:10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Recovery Block&lt;/td&gt;
+&lt;td&gt;0:23&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Breakfast&lt;/td&gt;
+&lt;td&gt;0:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Homework #1&lt;/td&gt;
+&lt;td&gt;0:49&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Review homework assignment&lt;/td&gt;
+&lt;td&gt;1:10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;0:29&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Admin Block&lt;/td&gt;
+&lt;td&gt;0:21&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Review Homework #1&lt;/td&gt;
+&lt;td&gt;0:08&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Review slides posted&lt;/td&gt;
+&lt;td&gt;0:14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;register-for-handin-server-for-cs5001&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Register for handin server for CS5001&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 07:50]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;purchase-zybook-for-cs5002&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Purchase Zybook for CS5002&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 08:45]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;recovery-block&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Recovery Block&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 09:14]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 08:51]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;review-homework-assignment&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Review homework assignment&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 11:53]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 11:21]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;review-homework-1&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Review Homework #1&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 13:54]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 13:46]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;review-slides-posted&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Review slides posted&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 14:09]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 13:55]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;purchase-zybook-for-cs5002-spring-semester&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Purchase Zybook for CS5002 Spring Semester&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;State &amp;ldquo;DONE&amp;rdquo;       from              &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 14:48]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;State &amp;ldquo;TODO&amp;rdquo;       from &amp;ldquo;INACTIVE&amp;rdquo;   &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-06 Sun 12:22]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;State &amp;ldquo;INACTIVE&amp;rdquo;   from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2018-12-28 Fri 23:02]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;face-mask&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; face mask&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from              &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 14:48]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;register-for-spring-classes&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Register for spring classes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from              &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 19:15]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;create-a-function-to-run-hugo-publish-at-different-times-throughout-the-day-dot&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Create a function to run hugo publish at different times throughout the day.&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 19:18]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;create-afternoon-routine&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Create afternoon routine&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 19:21]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;YMCA&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-12/</guid>
+                <pubDate>Sat, 12 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-11/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-11&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-11 Fri]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2:30&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Meditation&lt;/td&gt;
+&lt;td&gt;0:13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Tea Ceremony&lt;/td&gt;
+&lt;td&gt;0:13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Journal writing&lt;/td&gt;
+&lt;td&gt;0:30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Breakfast&lt;/td&gt;
+&lt;td&gt;0:27&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Shower&lt;/td&gt;
+&lt;td&gt;0:14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Email LS that I am registered in her class&lt;/td&gt;
+&lt;td&gt;0:15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Email LS that I am registered in her class&lt;/td&gt;
+&lt;td&gt;0:15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;0:23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;register-for-classes&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Register for classes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CLOSING NOTE &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-11 Fri 12:15]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;visit-financial-aid&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Visit Financial aid&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CLOSING NOTE &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-11 Fri 12:15]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;email-ls-that-i-am-registered-in-her-class&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Email LS that I am registered in her class&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CLOSING NOTE &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-11 Fri 12:37]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;email-ws-that-i-m-registered-for-class&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Email WS that I&amp;rsquo;m registered for class&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CLOSING NOTE &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-11 Fri 12:37]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-11/</guid>
+                <pubDate>Fri, 11 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-10/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-10&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-10 Thu]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;6:01&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Meditation&lt;/td&gt;
+&lt;td&gt;0:14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Tea Ceremony&lt;/td&gt;
+&lt;td&gt;0:16&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Journal writing&lt;/td&gt;
+&lt;td&gt;0:12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Review agenda and calendar&lt;/td&gt;
+&lt;td&gt;0:07&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Shower&lt;/td&gt;
+&lt;td&gt;0:11&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Meeting with BH about academic plan&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:45&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Meeting MB at office&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:20&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Breakfast&lt;/td&gt;
+&lt;td&gt;0:09&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Read Chapter 1, 2.1 - 2.5 from Think Python&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;1:21&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Review Handout&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Review Sample Code&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Start Practice Problems&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Configuring python with emacs environment&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;1:05&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Admin Block&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;0:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;Shower&lt;/td&gt;
+&lt;td&gt;0:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;meeting-with-bh-about-academic-plan&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Meeting with BH about academic plan&lt;/del&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-10 Thu 09:39] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
+Setup follow-up meeting for later this month/following month&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;SCHEDULED&amp;rdquo;  &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-10 Thu 08:08]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;meeting-mb-at-office&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Meeting MB at office&lt;/del&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-10 Thu 09:40] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Re-activated, enrolled as a student&lt;/li&gt;
+&lt;li&gt;24 hours until I can register for classes&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;read-chapter-1-2-dot-1-2-dot-5-from-think-python&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Read Chapter 1, 2.1 - 2.5 from Think Python&lt;/del&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Variables&lt;/li&gt;
+&lt;li&gt;Assignments&lt;/li&gt;
+&lt;li&gt;Arithmetic Operations&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;review-handout&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Review Handout&lt;/del&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;review-sample-code&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Review Sample Code&lt;/del&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;start-practice-problems&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Start Practice Problems&lt;/del&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;configuring-python-with-emacs-environment&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Configuring python with emacs environment&lt;/del&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;admin-block&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Admin Block&lt;/del&gt;&lt;/h2&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-10/</guid>
+                <pubDate>Thu, 10 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-09/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-09&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-09 Wed]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5:49&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Meditation&lt;/td&gt;
+&lt;td&gt;0:14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Tea Ceremony&lt;/td&gt;
+&lt;td&gt;0:13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Journal writing&lt;/td&gt;
+&lt;td&gt;0:18&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Review agenda and calendar&lt;/td&gt;
+&lt;td&gt;0:27&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Breakfast&lt;/td&gt;
+&lt;td&gt;0:12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Reply to email MB&lt;/td&gt;
+&lt;td&gt;0:06&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Send email to WS attend classes&lt;/td&gt;
+&lt;td&gt;0:03&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Update calendar to include classes schedule&lt;/td&gt;
+&lt;td&gt;2:21&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;0:16&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Getting ready&lt;/td&gt;
+&lt;td&gt;0:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Editing blog posts&lt;/td&gt;
+&lt;td&gt;0:13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Send email to support circle group&lt;/td&gt;
+&lt;td&gt;0:32&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Create functional space&lt;/td&gt;
+&lt;td&gt;0:05&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Shower&lt;/td&gt;
+&lt;td&gt;0:13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Tea ceremony&lt;/td&gt;
+&lt;td&gt;0:11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;reply-to-email-mb&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Reply to email MB&lt;/h2&gt;
+
+&lt;h2 id=&#34;send-email-to-ws-attend-classes&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Send email to WS attend classes&lt;/h2&gt;
+
+&lt;h2 id=&#34;update-calendar-to-include-classes-schedule&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Update calendar to include classes schedule&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-09 Wed 11:38] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
+Created calendar with a micro-level view of tasks to complete for each class.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--listend--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Break&lt;/li&gt;
+&lt;li&gt;Note taken on &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-09 Wed 08:29] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
+Creating a separate calendar for tasks related to classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--listend--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Break&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;lunch&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Lunch&lt;/h2&gt;
+
+&lt;h2 id=&#34;getting-ready&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Getting ready&lt;/h2&gt;
+
+&lt;h2 id=&#34;editing-blog-posts&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Editing blog posts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Note taken on &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-09 Wed 13:57] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
+Finish editing blog posts, ready for publication&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;send-email-to-support-circle-group&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Send email to support circle group&lt;/h2&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-09/</guid>
+                <pubDate>Wed, 09 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-08/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-08&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-08 Tue]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5:37&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Meditation&lt;/td&gt;
+&lt;td&gt;0:14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Tea Ceremony&lt;/td&gt;
+&lt;td&gt;0:03&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Journal writing&lt;/td&gt;
+&lt;td&gt;0:13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Review agenda, calendar, goals, habits and brain dump&lt;/td&gt;
+&lt;td&gt;0:07&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Shower&lt;/td&gt;
+&lt;td&gt;0:14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Breakfast&lt;/td&gt;
+&lt;td&gt;0:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Create a study plan for CS5002&lt;/td&gt;
+&lt;td&gt;1:41&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;0:41&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Recovery Block&lt;/td&gt;
+&lt;td&gt;1:07&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Admin Block&lt;/td&gt;
+&lt;td&gt;0:45&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Create functional space for tomorrow&lt;/td&gt;
+&lt;td&gt;0:07&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;create-a-study-plan-for-cs5002&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Create a study plan for CS5002&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-08 Tue 16:13] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
+Created preliminary schedule&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--listend--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-08 Tue 11:32]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--listend--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lunch&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;TODO&amp;rdquo;       from              &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-08 Tue 11:19]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;lunch&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Lunch&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-08 Tue 13:01]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-08 Tue 12:20]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;recovery-block&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Recovery Block&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-08 Tue 17:48]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-08 Tue 16:41]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-08/</guid>
+                <pubDate>Tue, 08 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Accountability</title>
+                <link>https://dynamicmetaflow.github.io/blog/accountability/</link>
+                
+                
+                <description>&lt;p&gt;While I was hospitalized for close to two years, the first trip that I made to society was to visit Northeastern University in one of their college tours for prospective students. At the time when I was hospitalized, I was learning Python, and I didn&amp;rsquo;t have reliable access to a computer. In times I didn&amp;rsquo;t have access to a computer, I printed pages from a PDF and took notes on scratch paper that nurses gave me.&lt;/p&gt;
+
+&lt;p&gt;I feel immense pride to say years later I was accepted to Northeastern University. I&amp;rsquo;m honored to be the first in my family to be admitted to graduate school. I&amp;rsquo;m a neurodivergent, person of color, Latino pursuing my master&amp;rsquo;s degree in Computer Science. With all that being said I have not done well in my graduate classes. I was unaware of the level of rigor required for the program while also working full-time as a high school teacher compounded with life&amp;rsquo;s challenge&amp;rsquo;s and my own habits, emotions and insecurities.&lt;/p&gt;
+
+&lt;p&gt;In this website, I will document my learning path and my process to hold myself accountable for reaching my goal of attaining my master&amp;rsquo;s degree in Computer Science.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In the &lt;a href=&#34;https://dynamicmetaflow.github.io/now/&#34;&gt;Now section&lt;/a&gt; you can see my objectives for today, this week, month and year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--listend--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://dynamicmetaflow.github.io/review/&#34;&gt;Review section&lt;/a&gt; consists of a daily and weekly review, a micro-level look at my day including time stamps and a table with a summary of time spent on a given task.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--listend--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://dynamicmetaflow.github.io/courses/&#34;&gt;Courses section&lt;/a&gt; will contain courses that I am currently taking or have in the past with links to notes taken on the topics presented in the class.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--listend--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://dynamicmetaflow.github.io/notes&#34;&gt;Notes section&lt;/a&gt; consists of my notes taken about a subject matter. The notes will be used to create lessons to be made accessible to a broader audience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have any comments or suggestions, please feel free to contact me.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/blog/accountability/</guid>
+                <pubDate>Mon, 07 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-07/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-07&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-07 Mon]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;File&lt;/th&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;ALL&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;6:59&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;gtd.org&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1:24&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Rituals&lt;/td&gt;
+&lt;td&gt;1:24&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Morning Ritual&lt;/td&gt;
+&lt;td&gt;1:24&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Meditation&lt;/td&gt;
+&lt;td&gt;0:16&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Tea Ceremony&lt;/td&gt;
+&lt;td&gt;0:15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Journal writing&lt;/td&gt;
+&lt;td&gt;0:09&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Review agenda, calendar, goals, habits and brain dump&lt;/td&gt;
+&lt;td&gt;0:13&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Shower&lt;/td&gt;
+&lt;td&gt;0:16&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Breakfast&lt;/td&gt;
+&lt;td&gt;0:15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;done.org&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5:35&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Write &amp;ldquo;accountability&amp;rdquo; blog post&lt;/td&gt;
+&lt;td&gt;1:26&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Reviewing email&lt;/td&gt;
+&lt;td&gt;0:29&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Errands&lt;/td&gt;
+&lt;td&gt;2:12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Swimming at the YMCA&lt;/td&gt;
+&lt;td&gt;0:52&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Configuring website&lt;/td&gt;
+&lt;td&gt;0:07&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Late Lunch&lt;/td&gt;
+&lt;td&gt;0:29&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;rise-up-rise-up-good-morning&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Rise up! Rise up! Good morning&lt;/h2&gt;
+
+&lt;h2 id=&#34;meditation&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Meditation&lt;/h2&gt;
+
+&lt;p&gt;Completed 15min Headspace meditation
+Thoughts: As the first task in the morning, I am dehydrated. Recommended to hydrate first thing in the morning.&lt;/p&gt;
+
+&lt;h2 id=&#34;completed-task-tea-ceremony&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Completed Task: Tea Ceremony&lt;/h2&gt;
+
+&lt;p&gt;Completed making first cup of tea in the morning.
+Thoughts: Start making tea when I begin doing my meditation, by the time I finish meditation my tea will be complete and I can begin doing journal writing with little to no downtime.&lt;/p&gt;
+
+&lt;h2 id=&#34;journal-writing&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Journal writing&lt;/h2&gt;
+
+&lt;p&gt;Completed journal writing. Started while doing boiling tea.&lt;/p&gt;
+
+&lt;h2 id=&#34;review-agenda-calendar-goals-habits-and-brain-dump&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Review agenda, calendar, goals, habits and brain dump&lt;/h2&gt;
+
+&lt;h2 id=&#34;shower&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Shower&lt;/h2&gt;
+
+&lt;h2 id=&#34;breakfast&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Breakfast&lt;/h2&gt;
+
+&lt;h2 id=&#34;reviewing-email&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Reviewing email&lt;/h2&gt;
+
+&lt;h2 id=&#34;draft-of-accountability-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Draft of &amp;lsquo;Accountability&amp;rsquo; blog post&lt;/h2&gt;
+
+&lt;h2 id=&#34;write-accountability-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Write &amp;ldquo;accountability&amp;rdquo; blog post&lt;/h2&gt;
+
+&lt;h2 id=&#34;configuring-website&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Configuring website&lt;/h2&gt;
+
+&lt;p&gt;Setup Review section to include clocktable summary and timestamps of completed tasks for the day&lt;/p&gt;
+
+&lt;h2 id=&#34;errands&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Errands&lt;/h2&gt;
+
+&lt;h2 id=&#34;swimming-at-the-ymca&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Swimming at the YMCA&lt;/h2&gt;
+
+&lt;h2 id=&#34;late-lunch&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Late Lunch&lt;/h2&gt;
+
+&lt;h2 id=&#34;task-admin-block&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Task: Admin Block&lt;/h2&gt;
+
+&lt;p&gt;Started at 09:31 PM&lt;/p&gt;
+
+&lt;p&gt;Purpose: Reviewing captured tasks and setting up tasks for the next day&lt;/p&gt;
+
+&lt;h2 id=&#34;increase-font-size-in-emacs&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Increase font-size in emacs&lt;/h2&gt;
+
+&lt;p&gt;Completed at 09:34 PM&lt;/p&gt;
+
+&lt;p&gt;Notes: (set-face-attribute &amp;lsquo;default nil :height 130)&lt;/p&gt;
+
+&lt;h2 id=&#34;change-names-of-journal-entry-that-has-starting-task-to-task-and-completed-task-to-completed&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Change names of journal entry that has &amp;lsquo;Starting Task&amp;rsquo; to &amp;lsquo;Task&amp;rsquo; and &amp;lsquo;Completed Task&amp;rsquo; to &amp;lsquo;Completed&amp;rsquo;&lt;/h2&gt;
+
+&lt;p&gt;Completed at 10:30 PM&lt;/p&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+
+&lt;h2 id=&#34;create-function-that-generates-the-properties-needed-for-hugo-and-place-it-underneat-the-current-day-s-datetree&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Create function that generates the properties needed for hugo and place it underneat the current day&amp;rsquo;s datetree&lt;/h2&gt;
+
+&lt;p&gt;Completed at 10:31 PM&lt;/p&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+
+&lt;h2 id=&#34;create-functional-space-for-tomorrow&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Create functional space for tomorrow&lt;/h2&gt;
+
+&lt;p&gt;Completed at 10:33 PM&lt;/p&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+
+&lt;h2 id=&#34;take-medication&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Take Medication&lt;/h2&gt;
+
+&lt;p&gt;Completed at 10:35 PM&lt;/p&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+
+&lt;h2 id=&#34;admin-block&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Admin Block&lt;/h2&gt;
+
+&lt;p&gt;Completed at 10:43 PM&lt;/p&gt;
+
+&lt;p&gt;Notes:&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-07/</guid>
+                <pubDate>Mon, 07 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Graduate School</title>
+                <link>https://dynamicmetaflow.github.io/blog/graduate-school/</link>
+                
+                
+                <description>&lt;p&gt;I&amp;rsquo;m a graduate student at Northeastern University&amp;rsquo;s &lt;a href=&#34;https://www.northeastern.edu/align/academic%5Fprogram/master-of-science-in-computer-science/&#34;&gt;ALIGN program&lt;/a&gt; pursuing a master&amp;rsquo;s degree in Computer Science. The ALIGN program consists of a series of bridge courses for graduate students who didn&amp;rsquo;t major in Computer Science in their undergraduate studies. Upon completion of the ALIGN program, students begin taking graduate-level classes in computer science.&lt;/p&gt;
+
+&lt;p&gt;My interest in attaining a master’s degree in computer science is to link my community experience with technology and leverage this knowledge to contribute to the self-development and self-sufficiency of communities of color, as well as to enhance people’s capacities to solve problems. My long-term goal is to create a workers cooperative of social justice focused technologists, “Technology for Communities,” which specializes in civic technology to assist community organizations by assessing needs, analyzing data and creating solutions. A computer science degree combined with my collective experience as a community organizer will allow me to use technology collaboratively with organizations and individuals to address needs to strengthen communities and amplify our collective voice.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/blog/graduate-school/</guid>
+                <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Game Over! Continue?</title>
+                <link>https://dynamicmetaflow.github.io/blog/game-over-continue/</link>
+                
+                
+                <description>&lt;p&gt;From about 2012 to 2014 I was hospitalized due to my mental health. This period was one of the most painful and challenging times for me in my life: being away from friends, family, and society. I was completely excluded from participating in society both physically and mentally, an outcast. I longed to walk in the city, to see my friends and family, to continue my education and to be involved in a community. Upon my release in 2014, I had to restart my life.&lt;/p&gt;
+
+&lt;p&gt;I reconnected with friends and started volunteering in different non-profits in the Boston area. My efforts in volunteering eventually lead me to the opportunity of being an AmeriCorps member for United Way. I along with others focused on providing services to residents in Lynn, MA. In my year of service, I served at a high school: supporting students and teachers, creating an afterschool program, being a positive role model and providing support and services to the community. Around the same period, I found out about Resilient Coders. I decided to volunteer in their afterschool program that teaches youth from communities in the Boston area how to code. Fast forward to the present, and I have worked for two years as a technology teacher at a high school in Boston and was accepted into Northeastern&amp;rsquo;s Master&amp;rsquo;s program in computer science.&lt;/p&gt;
+
+&lt;p&gt;As a Latino, activist, mental health advocate and technologist, I have learned you must have a systematic understanding of problems and issues that affect organizations, communities, and individuals, to leverage technology as a tool for social change. I am deeply passionate about exploring the use of technology to address the lack of access and inequity in education, health, and unemployment in communities of color.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/blog/game-over-continue/</guid>
+                <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Humble Beginnings</title>
+                <link>https://dynamicmetaflow.github.io/blog/humble-beginnings/</link>
+                
+                
+                <description>&lt;p&gt;My beginnings with technology start in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend, I would find my brother taking apart and repairing different devices. I looked forward to spending time with him, and I would ask questions about technology, such as &amp;ldquo;What is RAM?&amp;rdquo;, &amp;ldquo;What are the differences between AMD and Intel?&amp;rdquo;. As a child, exposure to my brother&amp;rsquo;s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed, I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.&lt;/p&gt;
+
+&lt;p&gt;I then attended Middle School, and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the desktop to me. This was my first computer. I carried the large desktop up a hill and walked several blocks to my house. I troubleshot the desktop and identified the power supply wasn&amp;rsquo;t working. I swapped the power supply from an abandoned computer, and voila, I became the proud owner of a Pentium II 233 MHz Desktop Computer.&lt;/p&gt;
+
+&lt;p&gt;Through this computer and my 56K modem, I had the world&amp;rsquo;s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advanced classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.&lt;/p&gt;
+
+&lt;p&gt;From my experience, having access to technology or resources,  advanced my learning potential. By the time I entered high school, the skills I had gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities, and I majored in Political Science with minors in Philosophy and Latin American Studies.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/blog/humble-beginnings/</guid>
+                <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>CS5001: Intensive Foundations of Computer Science</title>
+                <link>https://dynamicmetaflow.github.io/cs5001/</link>
+                
+                
+                <description>&lt;blockquote&gt;This course is an accelerated introduction to computer science with the Python programming language.&lt;/blockquote&gt;</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                             
+                            
+                                
+                                 
+                                    <category domain="https://dynamicmetaflow.github.io/categories/cs5001">CS5001</category>
+                                
+                            
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/cs5001/</guid>
+                <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>CS5002: Discrete and Data Structures</title>
+                <link>https://dynamicmetaflow.github.io/cs5002/</link>
+                
+                
+                <description>&lt;blockquote&gt;This course introduces the mathematical structures and methods that form the foundation of computer science.&lt;/blockquote&gt;</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                             
+                            
+                                
+                                 
+                                    <category domain="https://dynamicmetaflow.github.io/categories/cs5002">CS5002</category>
+                                
+                            
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/cs5002/</guid>
+                <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Hello World</title>
+                <link>https://dynamicmetaflow.github.io/blog/hello-world/</link>
+                
+                
+                <description>&lt;p&gt;Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here… a blog in 2019? &lt;em&gt;&lt;span class=&#34;underline&#34;&gt;Bueno, mejor que nada…&lt;/span&gt;&lt;/em&gt; This post is titled &lt;span class=&#34;underline&#34;&gt;&lt;em&gt;&amp;lsquo;Hello World&amp;rsquo;&lt;/em&gt;,&lt;/span&gt; it symbolizes the first step we take to attempt to communicate with someone or something else while being simultaneously born into a new digital world of our creation.&lt;/p&gt;
+
+&lt;p&gt;I want you to step into my world and I’ll take you with me on this journey of pursuing my master’s degree in Computer Science. I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.&lt;/p&gt;
+
+&lt;p&gt;This blog, this world that’s being created will serve as a repository about what I’m currently learning. I intend to share what I’ve learned with others by creating content that’s accessible to a wider audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher, and mentor, &lt;strong&gt;I seek to bridge technology and social justice.&lt;/strong&gt; I expect this journey to be filled with moments of joy, tears, and frustration… &lt;strong&gt;Pa’lante!&lt;/strong&gt;&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/blog/hello-world/</guid>
+                <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Propositional Logic</title>
+                <link>https://dynamicmetaflow.github.io/notes/logic/</link>
+                
+                
+                <description></description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                             
+                            
+                                
+                                 
+                                    <category domain="https://dynamicmetaflow.github.io/categories/cs5002">CS5002</category>
+                                
+                            
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/notes/logic/</guid>
+                <pubDate>Mon, 31 Dec 2018 00:00:00 -0500</pubDate>
+            </item>
+        
+    </channel>
+</rss>
+
+
