@@ -3,12 +3,12 @@
     <channel>
         <title>
             
-                    Cs5001 on
+                    Notes on
                 
             
             Alexander Soto</title>
-        <link>https://dynamicmetaflow.github.io/categories/cs5001/</link>
-        <description>Recent content  in Cs5001
+        <link>https://dynamicmetaflow.github.io/notes/</link>
+        <description>Recent content  in Notes
             on Alexander Soto</description>
         <language>en-us</language>
         
@@ -16,14 +16,14 @@
                 <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sun, 13 Jan 2019 01:01:30 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="https://dynamicmetaflow.github.io/categories/cs5001/index.xml" rel="self" type="application/rss&#43;xml" />
+            <atom:link href="https://dynamicmetaflow.github.io/notes/index.xml" rel="self" type="application/rss&#43;xml" />
             
             <item>
-                <title>CS5001: Intensive Foundations of Computer Science</title>
-                <link>https://dynamicmetaflow.github.io/cs5001/</link>
+                <title>Propositional Logic</title>
+                <link>https://dynamicmetaflow.github.io/notes/logic/</link>
                 
                 
-                <description>&lt;blockquote&gt;This course is an accelerated introduction to computer science with the Python programming language.&lt;/blockquote&gt;</description>
+                <description></description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
                 
@@ -33,7 +33,7 @@
                             
                                 
                                  
-                                    <category domain="https://dynamicmetaflow.github.io/categories/cs5001">CS5001</category>
+                                    <category domain="https://dynamicmetaflow.github.io/categories/cs5002">CS5002</category>
                                 
                             
                         
@@ -43,8 +43,8 @@
                         
                     
                 
-                <guid>https://dynamicmetaflow.github.io/cs5001/</guid>
-                <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+                <guid>https://dynamicmetaflow.github.io/notes/logic/</guid>
+                <pubDate>Mon, 31 Dec 2018 00:00:00 -0500</pubDate>
             </item>
         
     </channel>
