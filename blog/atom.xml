@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/blog/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/blog/"/>
-    <updated>2019-01-15T12:41:54-05:00</updated>
+    <updated>2019-01-15T14:23:12-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -22,8 +22,8 @@
                     <author>
                         <name>Alexander Soto</name>
                     </author>
-            <published>2019-01-04T00:00:00-05:00</published>
-            <updated>2019-01-04T00:00:00-05:00</updated>
+            <published>2019-01-05T00:00:00-05:00</published>
+            <updated>2019-01-05T00:00:00-05:00</updated>
             
             
             <content type="html"><![CDATA[<p>While I was hospitalized for close to two years, the first trip that I made to society was to visit Northeastern University in one of their college tours for prospective students. At the time when I was hospitalized, I was learning Python, and I didn’t have reliable access to a computer. In times I didn’t have access to a computer, I printed pages from a PDF and took notes on scratch paper that nurses gave me.</p>
@@ -76,8 +76,8 @@
                     <author>
                         <name>Alexander Soto</name>
                     </author>
-            <published>2019-01-03T00:00:00-05:00</published>
-            <updated>2019-01-03T00:00:00-05:00</updated>
+            <published>2019-01-04T00:00:00-05:00</published>
+            <updated>2019-01-04T00:00:00-05:00</updated>
             
             
             <content type="html"><![CDATA[<p>I’m a graduate student at Northeastern University’s ALIGN program pursuing a master’s degree in Computer Science. The ALIGN program consists of a series of bridge courses for graduate students who didn’t major in Computer Science in their undergraduate studies. Upon completion of the ALIGN program students begin taking graduate level classes in computer science.</p>
@@ -104,8 +104,8 @@
                     <author>
                         <name>Alexander Soto</name>
                     </author>
-            <published>2019-01-02T00:00:00-05:00</published>
-            <updated>2019-01-02T00:00:00-05:00</updated>
+            <published>2019-01-03T00:00:00-05:00</published>
+            <updated>2019-01-03T00:00:00-05:00</updated>
             
             
             <content type="html"><![CDATA[<p>From about 2012 to 2014 I was hospitalized due to my mental health. This period was one of the most painful and challenging times for me in my life: being away from friends, family, and society. I was completely excluded from participating in society both physically and mentally, an outcast. I longed to walk in the city, to see my friends and family, to continue my education and to be involved in a community. Upon my release in 2014, I had to restart my life.</p>
@@ -113,6 +113,38 @@
 <p>I reconnected with friends and started volunteering in different non-profits in the Boston area. My efforts in volunteering eventually lead me to the opportunity of being an AmeriCorps member for United Way. I along with others focused on providing services to residents in Lynn, MA. In my year of service, I served at a high school: supporting students and teachers, creating an afterschool program, being a positive role model and providing support and services to the community. Around the same period, I found out about Resilient Coders. I decided to volunteer in their afterschool program that teaches youth from communities in the Boston area how to code. Fast forward to the present, and I have worked for two years as a technology teacher at a high school in Boston and was accepted into Northeastern’s Master’s program in computer science.</p>
 
 <p>As a Latino, activist, mental health advocate and technologist, I have learned you must have a systematic understanding of problems and issues that affect organizations, communities, and individuals, to leverage technology as a tool for social change. I am deeply passionate about exploring the use of technology to address the lack of access and inequity in education, health, and unemployment in communities of color.</p>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Humble Beginnings]]></title>
+            <link href="https://dynamicmetaflow.github.io/blog/humble-beginnings/"/>
+            <id>https://dynamicmetaflow.github.io/blog/humble-beginnings/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-02T00:00:00-05:00</published>
+            <updated>2019-01-02T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>My beginnings with technology start in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend, I would find my brother taking apart and repairing different devices. I looked forward to spending time with him, and I would ask questions about technology, such as “What is RAM?”, “What are the differences between AMD and Intel?”. As a child, exposure to my brother’s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed, I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.</p>
+
+<p>I then attended Middle School, and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the desktop to me. This was my first computer. I carried the large desktop up a hill and walked several blocks to my house. I troubleshot the desktop and identified the power supply wasn’t working. I swapped the power supply from an abandoned computer, and voila, I became the proud owner of a Pentium II 233 MHz Desktop Computer.</p>
+
+<p>Through this computer and my 56K modem, I had the world’s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advanced classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.</p>
+
+<p>From my experience, having access to technology or resources, advanced my learning potential. By the time I entered high school, the skills I had gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities, and I majored in Political Science with minors in Philosophy and Latin American Studies.</p>
 ]]></content>
             
                  
@@ -143,38 +175,6 @@
 <p>I want you to step into my world and I’ll take you with me on this journey of pursuing my master’s degree in Computer Science. I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.</p>
 
 <p>This blog, this world that’s being created will serve as a repository about what I’m currently learning. I intend to share what I’ve learned with others by creating content that’s accessible to a wider audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher, and mentor, I seek to bridge technology and social justice. I expect this journey to be filled with moments of joy, tears, and frustration… Pa’lante!</p>
-]]></content>
-            
-                 
-                    
-                 
-                    
-                 
-                    
-                
-            
-        </entry>
-    
-        
-        <entry>
-            <title type="html"><![CDATA[Humble Beginnings]]></title>
-            <link href="https://dynamicmetaflow.github.io/blog/humble-beginnings/"/>
-            <id>https://dynamicmetaflow.github.io/blog/humble-beginnings/</id>
-            
-                    <author>
-                        <name>Alexander Soto</name>
-                    </author>
-            <published>2019-01-01T00:00:00-05:00</published>
-            <updated>2019-01-01T00:00:00-05:00</updated>
-            
-            
-            <content type="html"><![CDATA[<p>My beginnings with technology start in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend, I would find my brother taking apart and repairing different devices. I looked forward to spending time with him, and I would ask questions about technology, such as “What is RAM?”, “What are the differences between AMD and Intel?”. As a child, exposure to my brother’s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed, I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.</p>
-
-<p>I then attended Middle School, and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the desktop to me. This was my first computer. I carried the large desktop up a hill and walked several blocks to my house. I troubleshot the desktop and identified the power supply wasn’t working. I swapped the power supply from an abandoned computer, and voila, I became the proud owner of a Pentium II 233 MHz Desktop Computer.</p>
-
-<p>Through this computer and my 56K modem, I had the world’s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advanced classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.</p>
-
-<p>From my experience, having access to technology or resources, advanced my learning potential. By the time I entered high school, the skills I had gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities, and I majored in Political Science with minors in Philosophy and Latin American Studies.</p>
 ]]></content>
             
                  

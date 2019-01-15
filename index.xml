@@ -11,32 +11,10 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Jan 2019 12:41:54 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Jan 2019 14:23:12 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
-            
-            <item>
-                <title>Daily Review</title>
-                <link>https://dynamicmetaflow.github.io/review/2019-01-14/</link>
-                
-                
-                <description>&lt;blockquote&gt;Daily Review for 2019-01-14&lt;/blockquote&gt;</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://dynamicmetaflow.github.io/review/2019-01-14/</guid>
-                <pubDate>Mon, 14 Jan 2019 00:00:00 -0500</pubDate>
-            </item>
-        
             
             <item>
                 <title>Daily Review</title>
@@ -1453,7 +1431,7 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                     
                 
                 <guid>https://dynamicmetaflow.github.io/blog/accountability/</guid>
-                <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
+                <pubDate>Sat, 05 Jan 2019 00:00:00 -0500</pubDate>
             </item>
         
             
@@ -1478,7 +1456,7 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                     
                 
                 <guid>https://dynamicmetaflow.github.io/blog/graduate-school/</guid>
-                <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
+                <pubDate>Fri, 04 Jan 2019 00:00:00 -0500</pubDate>
             </item>
         
             
@@ -1505,6 +1483,35 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                     
                 
                 <guid>https://dynamicmetaflow.github.io/blog/game-over-continue/</guid>
+                <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>Humble Beginnings</title>
+                <link>https://dynamicmetaflow.github.io/blog/humble-beginnings/</link>
+                
+                
+                <description>&lt;p&gt;My beginnings with technology start in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend, I would find my brother taking apart and repairing different devices. I looked forward to spending time with him, and I would ask questions about technology, such as “What is RAM?”, “What are the differences between AMD and Intel?”. As a child, exposure to my brother’s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed, I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.&lt;/p&gt;
+
+&lt;p&gt;I then attended Middle School, and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the desktop to me. This was my first computer. I carried the large desktop up a hill and walked several blocks to my house. I troubleshot the desktop and identified the power supply wasn’t working. I swapped the power supply from an abandoned computer, and voila, I became the proud owner of a Pentium II 233 MHz Desktop Computer.&lt;/p&gt;
+
+&lt;p&gt;Through this computer and my 56K modem, I had the world’s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advanced classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.&lt;/p&gt;
+
+&lt;p&gt;From my experience, having access to technology or resources, advanced my learning potential. By the time I entered high school, the skills I had gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities, and I majored in Political Science with minors in Philosophy and Latin American Studies.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/blog/humble-beginnings/</guid>
                 <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
             </item>
         
@@ -1597,22 +1604,23 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
         
             
             <item>
-                <title>Humble Beginnings</title>
-                <link>https://dynamicmetaflow.github.io/blog/humble-beginnings/</link>
+                <title>Propositional Logic</title>
+                <link>https://dynamicmetaflow.github.io/notes/logic/</link>
                 
                 
-                <description>&lt;p&gt;My beginnings with technology start in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend, I would find my brother taking apart and repairing different devices. I looked forward to spending time with him, and I would ask questions about technology, such as “What is RAM?”, “What are the differences between AMD and Intel?”. As a child, exposure to my brother’s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed, I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.&lt;/p&gt;
-
-&lt;p&gt;I then attended Middle School, and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the desktop to me. This was my first computer. I carried the large desktop up a hill and walked several blocks to my house. I troubleshot the desktop and identified the power supply wasn’t working. I swapped the power supply from an abandoned computer, and voila, I became the proud owner of a Pentium II 233 MHz Desktop Computer.&lt;/p&gt;
-
-&lt;p&gt;Through this computer and my 56K modem, I had the world’s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advanced classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.&lt;/p&gt;
-
-&lt;p&gt;From my experience, having access to technology or resources, advanced my learning potential. By the time I entered high school, the skills I had gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities, and I majored in Political Science with minors in Philosophy and Latin American Studies.&lt;/p&gt;
-</description>
+                <description></description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
                 
                      
+                        
+                             
+                            
+                                
+                                 
+                                    <category domain="https://dynamicmetaflow.github.io/categories/cs5002">CS5002</category>
+                                
+                            
                         
                      
                         
@@ -1620,8 +1628,8 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                         
                     
                 
-                <guid>https://dynamicmetaflow.github.io/blog/humble-beginnings/</guid>
-                <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+                <guid>https://dynamicmetaflow.github.io/notes/logic/</guid>
+                <pubDate>Mon, 31 Dec 2018 00:00:00 -0500</pubDate>
             </item>
         
     </channel>
