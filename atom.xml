@@ -4,7 +4,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-15T22:25:58-05:00</updated>
+    <updated>2019-01-15T23:00:00-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -41,7 +41,19 @@
 <tr>
 <td>ALL</td>
 <td><strong>Total time</strong></td>
-<td><strong>5:15</strong></td>
+<td><strong>5:16</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>0:01</strong></td>
+</tr>
+
+<tr>
+<td>NEXT</td>
+<td>asdad</td>
+<td>0:01</td>
 </tr>
 
 <tr>
@@ -129,6 +141,16 @@
 </tr>
 </tbody>
 </table>
+
+<p><strong>Summary</strong>:</p>
+
+<p><strong>Problem</strong>:</p>
+
+<p><strong>Insight</strong>:</p>
+
+<p><strong>Tomorrow</strong>:</p>
+
+<p><strong>Completed Tasks</strong>:</p>
 
 <h2 id="meeting-with-ln-at-the-ymca-and-work-session"><span class="org-todo done DONE">DONE</span> Meeting with LN at the YMCA and work session</h2>
 
