@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Jan 2019 23:00:03 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Jan 2019 23:21:27 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -40,19 +40,13 @@
 &lt;tr&gt;
 &lt;td&gt;ALL&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;5:16&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5:43&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0:01&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;NEXT&lt;/td&gt;
-&lt;td&gt;asdad&lt;/td&gt;
-&lt;td&gt;0:01&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0:28&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -141,31 +135,43 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;:&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Spent the majority of today working on change.py and completing the Zybook reading. I was able to complete the Zybook reading and make progress on change.py. There was some level of friction due to not starting this specific problem on paper.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Insight&lt;/strong&gt;:&lt;/p&gt;
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Tomorrow&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Part of the difficulty that I noticed in completing change.py was that I didn&amp;rsquo;t first attempt to solve it on a piece of paper, but rather jumped into emacs and tried to solve it.
+Doing it this approach took me a much longer time than anticipated.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Completed Tasks&lt;/strong&gt;:&lt;/p&gt;
+&lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
 
-&lt;h2 id=&#34;meeting-with-ln-at-the-ymca-and-work-session&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Meeting with LN at the YMCA and work session&lt;/h2&gt;
+&lt;p&gt;Make sure I have a general schema, outline, notes, worked out the solution somewhat on paper and then on a computer. Using a computer and programming it is equivalent to a second or third draft of writing, in this case code.&lt;/p&gt;
+
+&lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;p&gt;Will take time to review the problem, review test cases, syntax and general style. Will see if I have the time to do office hours.&lt;/p&gt;
+
+&lt;p&gt;For CS5002 I will use supplementary sources to review material and in preparation for the upcoming lecture.&lt;/p&gt;
+
+&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Meeting with LN at the YMCA and work session&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 07:07]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;next-week-s-reading&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Next Week&amp;rsquo;s Reading&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Next Week&amp;rsquo;s Reading&lt;/p&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;incorporate-recovery-blocks&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Incorporate recovery blocks&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Incorporate recovery blocks&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 14:38]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;zybook-reading&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Zybook Reading&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Zybook Reading&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 17:18]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
@@ -182,18 +188,19 @@
 
 &lt;ul&gt;
 &lt;li&gt;Working on sections 1.1 - 1.6&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;homework-1&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Homework #1 &lt;code&gt;[&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9&lt;/sub&gt;]&lt;/code&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 17:19]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;problem-9&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Problem #9&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Homework #1 &lt;code&gt;[&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9&lt;/sub&gt;]&lt;/code&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 17:19]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #9&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 17:19]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
                 
