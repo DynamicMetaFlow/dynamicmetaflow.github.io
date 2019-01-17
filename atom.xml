@@ -4,13 +4,290 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-16T21:00:00-05:00</updated>
+    <updated>2019-01-16T22:00:00-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-16/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-16/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-16T00:00:00-05:00</published>
+            <updated>2019-01-16T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-16</blockquote>
+
+<p>Daily report: <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed]</span></span></p>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>ALL</td>
+<td><strong>Total time</strong></td>
+<td><strong>3:01</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>3:01</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Today&rsquo;s Tasks</td>
+<td>1:18</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;CS5001</td>
+<td>0:38</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;Homework #1 [<sup>5</sup>&frasl;<sub>5</sub>]</td>
+<td>0:38</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Programming #3 - change.py</td>
+<td>0:38</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;Swimming at the YMCA</td>
+<td>0:40</td>
+</tr>
+
+<tr>
+<td></td>
+<td>This Week&rsquo;s Projects</td>
+<td>1:20</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;Meeting with ER</td>
+<td>0:12</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;Appointment with JB</td>
+<td>1:08</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Morning Ritual</td>
+<td>0:08</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Breakfast</td>
+<td>0:08</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Afternoon Ritual</td>
+<td>0:15</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Recovery Block</td>
+<td>0:15</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Swimming at the YMCA</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 08:27]</span></span>
+
+<ul>
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 06:21] </span></span> <br />
+Getting ready to see JB, heading out to gym</li>
+</ul></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Appointment with JB</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 10:14]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 09:06]</span></span></li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>State &ldquo;NEXT&rdquo;       from              <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 06:21]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Appointment with JB</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 10:14]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 09:06]</span></span></li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>State &ldquo;NEXT&rdquo;       from              <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 06:21]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Meeting with ER</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 13:11]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 11:13]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Programming #3 - change.py</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 13:11]</span></span></li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>Using round for values</li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>Brainstorm on paper, implementing in Python</li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>comparing money denominations</li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>Figuring how to represent denominations for change</li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-15 Tue 07:24]</span></span></li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>Created test cases, prompted user for input</li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Meeting with ER</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 13:11]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 11:13]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #1</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 14:20]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 13:11]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-15 Tue 22:03]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #2</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 14:23]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 14:14]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #3</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 14:28]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 14:14]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #4</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 14:56]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 14:14]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Homework #1 <code>[<sup>5</sup>&frasl;<sub>5</sub>]</code></p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 15:05]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  CS5001     :5001:</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 15:07]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  CS5002     :5002:</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 17:41]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Review using supplemental material</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 17:41]</span></span></li>
+</ul></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
