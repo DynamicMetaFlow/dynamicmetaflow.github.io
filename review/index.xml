@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Jan 2019 06:12:04 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Jan 2019 06:14:22 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -134,216 +134,33 @@
 &lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Swimming at the YMCA&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Swimming at the YMCA&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 08:27]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Appointment with JB&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Note taken on &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 06:21] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
-Getting ready to see JB, heading out to gym&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Appointment with JB&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 07:45]--[2019-01-16 Wed 08:25] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:40)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Meeting with ER&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Appointment with JB&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Programming #3 - change.py&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 10:14]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 09:06]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Meeting with ER&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 09:06]--[2019-01-16 Wed 10:14] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(1:08)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #1&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from              &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 06:21]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #2&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Appointment with JB&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #3&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 10:14]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 09:06]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #4&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 09:06]--[2019-01-16 Wed 10:14] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(1:08)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Homework #1 &lt;code&gt;[&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt;]&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from              &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 06:21]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  CS5001     :5001:&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Meeting with ER&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  CS5002     :5002:&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 13:11]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 11:13]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 11:13]--[2019-01-16 Wed 11:25] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:12)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Programming #3 - change.py&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 13:11]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 11:00]--[2019-01-16 Wed 11:13] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:13)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Using round for values&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 10:30]--[2019-01-16 Wed 10:55] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:25)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Brainstorm on paper, implementing in Python&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 15:33]--[2019-01-15 Tue 15:58] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:25)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 10:43]--[2019-01-15 Tue 11:08] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:25)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 09:38]--[2019-01-15 Tue 10:03] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:25)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 08:35]--[2019-01-15 Tue 09:00] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:25)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;comparing money denominations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 08:00]--[2019-01-15 Tue 08:25] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:25)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Figuring how to represent denominations for change&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 07:24]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 07:24]--[2019-01-15 Tue 07:49] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:25)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Created test cases, prompted user for input&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Meeting with ER&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 13:11]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 11:13]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 11:13]--[2019-01-16 Wed 11:25] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:12)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #1&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 14:20]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 13:11]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-15 Tue 22:03]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #2&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 14:23]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 14:14]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #3&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 14:28]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 14:14]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #4&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 14:56]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 14:14]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Homework #1 &lt;code&gt;[&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt;]&lt;/code&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 15:05]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-&lt;span class=&#34;timestamp-wrapper&#34;&gt;
-&lt;span class=&#34;timestamp-kwd&#34;&gt;CLOCK:&lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;[2019-01-12 Sat 10:30]--[2019-01-12 Sat 11:19] &lt;/span&gt; &lt;span class=&#34;timestamp&#34;&gt;(0:49)&lt;/span&gt;
-&lt;/span&gt;
-&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  CS5001     :5001:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 15:07]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  CS5002     :5002:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 17:41]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review using supplemental material&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 17:41]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review using supplemental material&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
                 
