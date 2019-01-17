@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/review/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/review/"/>
-    <updated>2019-01-16T23:30:29-05:00</updated>
+    <updated>2019-01-17T06:11:09-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -140,11 +140,17 @@
 <li><p><span class="org-todo done DONE">DONE</span>  Swimming at the YMCA</p>
 
 <ul>
-<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 08:27]</span></span>
+<li><p>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 08:27]</span></span></p>
 
 <ul>
-<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 06:21] </span></span> <br />
-Getting ready to see JB, heading out to gym</li>
+<li><p>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 06:21] </span></span> <br />
+Getting ready to see JB, heading out to gym</p>
+
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-16 Wed 07:45]--[2019-01-16 Wed 08:25] </span> <span class="timestamp">(0:40)</span>
+</span>
+</p></li>
 </ul></li>
 </ul></li>
 
@@ -155,7 +161,11 @@ Getting ready to see JB, heading out to gym</li>
 <li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 09:06]</span></span></li>
 </ul>
 
-<!--listend-->
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-16 Wed 09:06]--[2019-01-16 Wed 10:14] </span> <span class="timestamp">(1:08)</span>
+</span>
+</p>
 
 <ul>
 <li>State &ldquo;NEXT&rdquo;       from              <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 06:21]</span></span></li>
@@ -168,7 +178,11 @@ Getting ready to see JB, heading out to gym</li>
 <li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 09:06]</span></span></li>
 </ul>
 
-<!--listend-->
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-16 Wed 09:06]--[2019-01-16 Wed 10:14] </span> <span class="timestamp">(1:08)</span>
+</span>
+</p>
 
 <ul>
 <li>State &ldquo;NEXT&rdquo;       from              <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 06:21]</span></span></li>
@@ -179,7 +193,13 @@ Getting ready to see JB, heading out to gym</li>
 <ul>
 <li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 13:11]</span></span></li>
 <li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 11:13]</span></span></li>
-</ul></li>
+</ul>
+
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-16 Wed 11:13]--[2019-01-16 Wed 11:25] </span> <span class="timestamp">(0:12)</span>
+</span>
+</p></li>
 
 <li><p><span class="org-todo done DONE">DONE</span>  Programming #3 - change.py</p>
 
@@ -187,32 +207,70 @@ Getting ready to see JB, heading out to gym</li>
 <li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 13:11]</span></span></li>
 </ul>
 
-<!--listend-->
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-16 Wed 11:00]--[2019-01-16 Wed 11:13] </span> <span class="timestamp">(0:13)</span>
+</span>
+</p>
 
 <ul>
 <li>Using round for values</li>
 </ul>
 
-<!--listend-->
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-16 Wed 10:30]--[2019-01-16 Wed 10:55] </span> <span class="timestamp">(0:25)</span>
+</span>
+</p>
 
 <ul>
 <li>Brainstorm on paper, implementing in Python</li>
 </ul>
 
-<!--listend-->
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-15 Tue 15:33]--[2019-01-15 Tue 15:58] </span> <span class="timestamp">(0:25)</span>
+</span>
+</p>
+
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-15 Tue 10:43]--[2019-01-15 Tue 11:08] </span> <span class="timestamp">(0:25)</span>
+</span>
+</p>
+
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-15 Tue 09:38]--[2019-01-15 Tue 10:03] </span> <span class="timestamp">(0:25)</span>
+</span>
+</p>
+
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-15 Tue 08:35]--[2019-01-15 Tue 09:00] </span> <span class="timestamp">(0:25)</span>
+</span>
+</p>
 
 <ul>
 <li>comparing money denominations</li>
 </ul>
 
-<!--listend-->
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-15 Tue 08:00]--[2019-01-15 Tue 08:25] </span> <span class="timestamp">(0:25)</span>
+</span>
+</p>
 
 <ul>
 <li>Figuring how to represent denominations for change</li>
 <li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-15 Tue 07:24]</span></span></li>
 </ul>
 
-<!--listend-->
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-15 Tue 07:24]--[2019-01-15 Tue 07:49] </span> <span class="timestamp">(0:25)</span>
+</span>
+</p>
 
 <ul>
 <li>Created test cases, prompted user for input</li>
@@ -223,7 +281,13 @@ Getting ready to see JB, heading out to gym</li>
 <ul>
 <li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 13:11]</span></span></li>
 <li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 11:13]</span></span></li>
-</ul></li>
+</ul>
+
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-16 Wed 11:13]--[2019-01-16 Wed 11:25] </span> <span class="timestamp">(0:12)</span>
+</span>
+</p></li>
 
 <li><p><span class="org-todo done DONE">DONE</span>  Written #1</p>
 
@@ -258,7 +322,13 @@ Getting ready to see JB, heading out to gym</li>
 
 <ul>
 <li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-16 Wed 15:05]</span></span></li>
-</ul></li>
+</ul>
+
+<p>
+<span class="timestamp-wrapper">
+<span class="timestamp-kwd">CLOCK:</span> <span class="timestamp">[2019-01-12 Sat 10:30]--[2019-01-12 Sat 11:19] </span> <span class="timestamp">(0:49)</span>
+</span>
+</p></li>
 
 <li><p><span class="org-todo done DONE">DONE</span>  CS5001     :5001:</p>
 
