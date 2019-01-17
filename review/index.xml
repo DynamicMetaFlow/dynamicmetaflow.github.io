@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Jan 2019 09:04:31 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Jan 2019 09:41:28 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -125,11 +125,19 @@
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
+&lt;p&gt;Woke up early to the YMCA to swim and had two meetings with my health care providers. I re-looked at change.py and was able to come up with a working solution in the afternoon. Then later had night classes.&lt;/p&gt;
+
 &lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;change.py took some time to work on while the other homework problems I was able to complete in a moderately fast time. I believe the lesson learned here, it&amp;rsquo;s not quite about speed, but focusing more on planning and making sure I have a draft on paper before I start my second draft on a computer. In addition, I realized that I was feeling exhausted the whole day at different times by the time late afternoon arrived.&lt;/p&gt;
 
 &lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
 
+&lt;p&gt;When working on a programming problem, regardless of how easy I may perceive the problem to be, start on paper first to at least have an idea. Other thoughts are to possibly change my morning routine so I&amp;rsquo;m not waking up at 6am everyday, but perhaps the night I have classes I can wake up later.&lt;/p&gt;
+
 &lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;p&gt;To review homework before submission for both classes and review material from CS5001 in preparation for lab&lt;/p&gt;
 
 &lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
 
