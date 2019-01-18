@@ -13,10 +13,180 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Jan 2019 22:04:27 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Jan 2019 22:49:53 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-17/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-17&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ALL&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;4:23&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;4:23&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Today&amp;rsquo;s Tasks&lt;/td&gt;
+&lt;td&gt;3:16&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;CS5001&lt;/td&gt;
+&lt;td&gt;0:50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Prepare CS5001 homework for submission&lt;/td&gt;
+&lt;td&gt;0:50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;CS5002&lt;/td&gt;
+&lt;td&gt;1:41&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Prepare CS5002 homework for submission&lt;/td&gt;
+&lt;td&gt;1:41&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;WAITING&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Apply for GradPlus loans for 2019-2020&lt;/td&gt;
+&lt;td&gt;0:42&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Send email to MD about financial aid&lt;/td&gt;
+&lt;td&gt;0:03&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Morning Ritual&lt;/td&gt;
+&lt;td&gt;1:07&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Meditation&lt;/td&gt;
+&lt;td&gt;0:11&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Shower&lt;/td&gt;
+&lt;td&gt;0:23&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Breakfast&lt;/td&gt;
+&lt;td&gt;0:33&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;I finalized the submission of my first homework assignment for both of my classes. Dedicated time to finalizing financial aid and reviewing for today&amp;rsquo;s lab session.&lt;/p&gt;
+
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;For CS5001, I allocated some time this morning making sure style was correct, test cases, and generally good for submission. A good chunk of time trying to setup latex to play nicely with emacs. I was able to get it working but couldn&amp;rsquo;t get the completion engine, company, to work with the latex symbols. I&amp;rsquo;m going to try this again at some point in the future so I&amp;rsquo;m able to submit my homework assignments digitally. I experienced some difficulty with the financial aid office and I&amp;rsquo;m waiting to hear back.&lt;/p&gt;
+
+&lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/per.2182&#34;&gt;Doing Despite Disliking: Self-regulatory Strategies in Everyday Aversive Activities&lt;/a&gt;
+To start homework assignments earlier and not get distracted by other things that happen in a given day.&lt;/p&gt;
+
+&lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;p&gt;To review this week&amp;rsquo;s material from both classes and take a look at, marinate homework released for each class.&lt;/p&gt;
+
+&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Prepare homework for submission&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu 08:11]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed 17:41]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Send email to MD about financial aid&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu 10:48]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu 10:45]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Prepare CS5002 homework for submission&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu 14:04]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--listend--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu 10:33]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review this week&amp;rsquo;s material CS5001&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu 22:08]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu 10:34]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-17 Thu 10:33]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-17/</guid>
+                <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
             
             <item>
                 <title>Daily Review</title>
