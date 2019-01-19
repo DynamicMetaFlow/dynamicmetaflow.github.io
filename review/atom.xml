@@ -6,13 +6,252 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/review/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/review/"/>
-    <updated>2019-01-18T22:00:03-05:00</updated>
+    <updated>2019-01-18T23:00:00-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/review/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-18/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-18/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-18T00:00:00-05:00</published>
+            <updated>2019-01-18T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-18</blockquote>
+
+<p>Daily report: <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri]</span></span></p>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>ALL</td>
+<td><strong>Total time</strong></td>
+<td><strong>2:43</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>2:43</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Today&rsquo;s Tasks</td>
+<td>0:56</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;CS5001</td>
+<td>0:49</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;Review this weeks material for CS5001</td>
+<td>0:49</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;Respond to DLS email</td>
+<td>0:07</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Morning Ritual</td>
+<td>1:47</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Meditation</td>
+<td>0:12</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Tea Ceremony</td>
+<td>0:13</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Journal writing</td>
+<td>0:37</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Review agenda and calendar</td>
+<td>0:13</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Shower</td>
+<td>0:23</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Breakfast</td>
+<td>0:09</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<h2 id="morning-routine">Morning Routine</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 06:00&gt;&#x2013;&lt;2019-01-18 Fri 07:00&gt;</span></span></p>
+
+<ul>
+<li>Meditation</li>
+<li>Tea Ceremony</li>
+<li>Journal Writing</li>
+<li>Review agenda, calendar, goals, habits, brain-dump</li>
+<li>Breakfast</li>
+<li>Shower</li>
+</ul>
+
+<h2 id="cs5001-hw-session-0">CS5001 HW Session #0</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 07:00&gt;&#x2013;&lt;2019-01-18 Fri 09:00&gt;</span></span></p>
+
+<h2 id="cs5002-hw-session-0">CS5002 HW Session #0</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 09:00&gt;&#x2013;&lt;2019-01-18 Fri 11:00&gt;</span></span></p>
+
+<h2 id="shiki-drop-off">Shiki Drop-Off</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 09:30&gt;&#x2013;&lt;2019-01-18 Fri 10:00&gt;</span></span></p>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Respond to DLS email</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 10:40]</span></span></li>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 09:55]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Send an email to DBH for our next meeting</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 10:51]</span></span></li>
+</ul></li>
+</ul>
+
+<h2 id="recovery-block">Recovery Block</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 11:00&gt;&#x2013;&lt;2019-01-18 Fri 12:00&gt;</span></span></p>
+
+<h2 id="lunch">Lunch</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 12:00&gt;&#x2013;&lt;2019-01-18 Fri 12:30&gt;</span></span></p>
+
+<h2 id="admin-block">Admin Block</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 12:30&gt;&#x2013;&lt;2019-01-18 Fri 13:30&gt;</span></span></p>
+
+<h2 id="cs5001-hw-session-1">CS5001 HW Session #1</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 13:30&gt;&#x2013;&lt;2019-01-18 Fri 14:30&gt;</span></span></p>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Print slides for CS5002</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 13:40]</span></span></li>
+</ul></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Print homework for CS5002</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 13:40]</span></span></li>
+</ul></li>
+</ul>
+
+<h2 id="cs5002-hw-session-1">CS5002 HW Session #1</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 14:30&gt;&#x2013;&lt;2019-01-18 Fri 15:30&gt;</span></span></p>
+
+<h2 id="recovery-block-1">Recovery Block</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 16:00&gt;&#x2013;&lt;2019-01-18 Fri 17:00&gt;</span></span></p>
+
+<h2 id="dinner">Dinner</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 17:30&gt;&#x2013;&lt;2019-01-18 Fri 18:00&gt;</span></span></p>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Review this weeks material for CS5001</p>
+
+<ul>
+<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 17:35]</span></span></li>
+</ul>
+
+<!--listend-->
+
+<ul>
+<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 13:44]</span></span></li>
+</ul></li>
+</ul>
+
+<h2 id="admin-block-1">Admin Block</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 18:00&gt;&#x2013;&lt;2019-01-18 Fri 19:00&gt;</span></span></p>
+
+<h2 id="bedtime-ritual">Bedtime Ritual</h2>
+
+<p><span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-18 Fri 21:00&gt;&#x2013;&lt;2019-01-18 Fri 22:00&gt;</span></span></p>
+
+<ul>
+<li>Create functional space for tomorrow</li>
+<li>Shower</li>
+<li>Tea Ceremony</li>
+<li>Medication</li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
