@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sat, 19 Jan 2019 12:00:00 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sat, 19 Jan 2019 12:23:05 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -130,42 +130,15 @@
 &lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Respond to DLS email&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Respond to DLS email&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-18 Fri 10:40]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-18 Fri 09:55]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Send an email to DBH for our next meeting&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Send an email to DBH for our next meeting&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Print slides for CS5002&lt;/p&gt;&lt;/li&gt;
 
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-18 Fri 10:51]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Print homework for CS5002&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Print slides for CS5002&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-18 Fri 13:40]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Print homework for CS5002&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-18 Fri 13:40]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review this weeks material for CS5001&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-18 Fri 17:35]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!--listend--&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;TODO&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-18 Fri 13:44]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review this weeks material for CS5001&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
                 

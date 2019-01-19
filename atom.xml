@@ -4,7 +4,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-19T12:00:00-05:00</updated>
+    <updated>2019-01-19T12:23:05-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -131,42 +131,15 @@
 <h2 id="completed-tasks">Completed Tasks</h2>
 
 <ul>
-<li><p><span class="org-todo done DONE">DONE</span>  Respond to DLS email</p>
+<li><p><span class="org-todo done DONE">DONE</span>  Respond to DLS email</p></li>
 
-<ul>
-<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 10:40]</span></span></li>
-<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 09:55]</span></span></li>
-</ul></li>
+<li><p><span class="org-todo done DONE">DONE</span>  Send an email to DBH for our next meeting</p></li>
 
-<li><p><span class="org-todo done DONE">DONE</span>  Send an email to DBH for our next meeting</p>
+<li><p><span class="org-todo done DONE">DONE</span>  Print slides for CS5002</p></li>
 
-<ul>
-<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 10:51]</span></span></li>
-</ul></li>
+<li><p><span class="org-todo done DONE">DONE</span>  Print homework for CS5002</p></li>
 
-<li><p><span class="org-todo done DONE">DONE</span>  Print slides for CS5002</p>
-
-<ul>
-<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 13:40]</span></span></li>
-</ul></li>
-
-<li><p><span class="org-todo done DONE">DONE</span>  Print homework for CS5002</p>
-
-<ul>
-<li>State &ldquo;DONE&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 13:40]</span></span></li>
-</ul></li>
-
-<li><p><span class="org-todo done DONE">DONE</span>  Review this weeks material for CS5001</p>
-
-<ul>
-<li>State &ldquo;DONE&rdquo;       from &ldquo;NEXT&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 17:35]</span></span></li>
-</ul>
-
-<!--listend-->
-
-<ul>
-<li>State &ldquo;NEXT&rdquo;       from &ldquo;TODO&rdquo;       <span class="timestamp-wrapper"><span class="timestamp">[2019-01-18 Fri 13:44]</span></span></li>
-</ul></li>
+<li><p><span class="org-todo done DONE">DONE</span>  Review this weeks material for CS5001</p></li>
 </ul>
 ]]></content>
             
