@@ -11,10 +11,145 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sun, 20 Jan 2019 23:00:00 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sun, 20 Jan 2019 23:26:09 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-20/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-20&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-20 Sun]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ALL&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;3:48&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;3:48&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Today&amp;rsquo;s Tasks&lt;/td&gt;
+&lt;td&gt;3:08&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;CS5001&lt;/td&gt;
+&lt;td&gt;3:08&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;CS5001 - Homework #2&lt;/td&gt;
+&lt;td&gt;3:08&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Initial review of homework programming problems&lt;/td&gt;
+&lt;td&gt;0:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Setting up environment&lt;/td&gt;
+&lt;td&gt;0:15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Programming #1&lt;/td&gt;
+&lt;td&gt;1:38&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;NEXT&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Programming #2&lt;/td&gt;
+&lt;td&gt;0:50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Morning Ritual&lt;/td&gt;
+&lt;td&gt;0:40&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Journal writing&lt;/td&gt;
+&lt;td&gt;0:23&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Review agenda and calendar&lt;/td&gt;
+&lt;td&gt;0:17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Dedicated time today to CS5001. Starting my initial review of programming problems from the homework, completing defining the functions and almost complete with the test cases and preparing for the last portion of the assignment where I&amp;rsquo;m putting it all together.&lt;/p&gt;
+
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;Estimating the amount of time it takes to complete a task. Sometimes I may allocate 30min or so for a given task and then I&amp;rsquo;m consumed by the task and want to spend more time with it and then not dedicating enough time for other tasks.The proper optimal distribution of times for a given task to push a brick forward.&lt;/p&gt;
+
+&lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
+
+&lt;p&gt;Before starting a task I estimate the amount of time it will take me to complete the given task. This deliberate planning of estimating my time and logging has kept me focused and accountable.&lt;/p&gt;
+
+&lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;p&gt;To finish writing test cases for the programming component #2. To complete programming problem #3 for CS5001. To dedicate time tomorrow to review this week&amp;rsquo;s material for CS5002. To complete all of the problems for CS5002 and get started on the Zybook reading.&lt;/p&gt;
+
+&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Initial review of homework programming problems&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Setting up environment&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Programming #1&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-20/</guid>
+                <pubDate>Sun, 20 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
             
             <item>
                 <title>Daily Review</title>
@@ -2189,35 +2324,6 @@ Thoughts: Start making tea when I begin doing my meditation, by the time I finis
                 
                 <guid>https://dynamicmetaflow.github.io/blog/game-over-continue/</guid>
                 <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Humble Beginnings</title>
-                <link>https://dynamicmetaflow.github.io/blog/humble-beginnings/</link>
-                
-                
-                <description>&lt;p&gt;My beginnings with technology start in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend, I would find my brother taking apart and repairing different devices. I looked forward to spending time with him, and I would ask questions about technology, such as “What is RAM?”, “What are the differences between AMD and Intel?”. As a child, exposure to my brother’s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed, I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.&lt;/p&gt;
-
-&lt;p&gt;I then attended Middle School, and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the desktop to me. This was my first computer. I carried the large desktop up a hill and walked several blocks to my house. I troubleshot the desktop and identified the power supply wasn’t working. I swapped the power supply from an abandoned computer, and voila, I became the proud owner of a Pentium II 233 MHz Desktop Computer.&lt;/p&gt;
-
-&lt;p&gt;Through this computer and my 56K modem, I had the world’s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advanced classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.&lt;/p&gt;
-
-&lt;p&gt;From my experience, having access to technology or resources, advanced my learning potential. By the time I entered high school, the skills I had gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities, and I majored in Political Science with minors in Philosophy and Latin American Studies.&lt;/p&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://dynamicmetaflow.github.io/blog/humble-beginnings/</guid>
-                <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
             </item>
         
     </channel>
