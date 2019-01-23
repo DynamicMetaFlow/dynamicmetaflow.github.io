@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 22 Jan 2019 23:00:00 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 22 Jan 2019 23:05:15 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -107,11 +107,19 @@
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
+&lt;p&gt;In the morning went to doctor&amp;rsquo;s appointment. In the afternoon I completed all of my programming problems for Homework #2 for CS5001. Did an initial review of homework problems for CS5002.&lt;/p&gt;
+
 &lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;Creating functions that has one job and decoupling it&amp;rsquo;s responsibility to others. Created helper functions to handle user input, calculations etc, thinking about how to change the relationships between functions to be flexible and modular.&lt;/p&gt;
 
 &lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
 
+&lt;p&gt;Blocking distractions and protecting my mind.&lt;/p&gt;
+
 &lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;p&gt;Focusing on CS5002 homework assignment and reading.&lt;/p&gt;
 
 &lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
 

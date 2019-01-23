@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/review/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/review/"/>
-    <updated>2019-01-22T23:00:00-05:00</updated>
+    <updated>2019-01-22T23:05:15-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -110,11 +110,19 @@
 
 <h2 id="summary">Summary</h2>
 
+<p>In the morning went to doctor&rsquo;s appointment. In the afternoon I completed all of my programming problems for Homework #2 for CS5001. Did an initial review of homework problems for CS5002.</p>
+
 <h2 id="problem">Problem</h2>
+
+<p>Creating functions that has one job and decoupling it&rsquo;s responsibility to others. Created helper functions to handle user input, calculations etc, thinking about how to change the relationships between functions to be flexible and modular.</p>
 
 <h2 id="insight">Insight</h2>
 
+<p>Blocking distractions and protecting my mind.</p>
+
 <h2 id="tomorrow">Tomorrow</h2>
+
+<p>Focusing on CS5002 homework assignment and reading.</p>
 
 <h2 id="completed-tasks">Completed Tasks</h2>
 
