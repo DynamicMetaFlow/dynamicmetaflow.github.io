@@ -4,13 +4,135 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-22T22:10:17-05:00</updated>
+    <updated>2019-01-22T23:00:00-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-22/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-22/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-22T00:00:00-05:00</published>
+            <updated>2019-01-22T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-22</blockquote>
+
+<p>Daily report: <span class="timestamp-wrapper"><span class="timestamp">[2019-01-22 Tue]</span></span></p>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>ALL</td>
+<td><strong>Total time</strong></td>
+<td><strong>3:17</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>3:17</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Today&rsquo;s Tasks</td>
+<td>2:05</td>
+</tr>
+
+<tr>
+<td></td>
+<td>&ensp;&ensp;CS5001</td>
+<td>2:05</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;&ensp;&ensp;CS5001 - Homework #2</td>
+<td>2:05</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Programming #3</td>
+<td>2:05</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Morning Ritual</td>
+<td>1:12</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Tea Ceremony</td>
+<td>0:07</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Review agenda and calendar</td>
+<td>0:05</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Shower</td>
+<td>0:16</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Breakfast</td>
+<td>0:44</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Programming #3</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Initial review of homework problems for CS5002</p></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
