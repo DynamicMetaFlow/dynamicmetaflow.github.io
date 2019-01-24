@@ -6,13 +6,243 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/review/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/review/"/>
-    <updated>2019-01-23T21:00:07-05:00</updated>
+    <updated>2019-01-23T23:00:01-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/review/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-23/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-23/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-23T00:00:00-05:00</published>
+            <updated>2019-01-23T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-23</blockquote>
+
+<p>Daily report: <span class="timestamp-wrapper"><span class="timestamp">[2019-01-23 Wed]</span></span></p>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>ALL</td>
+<td><strong>Total time</strong></td>
+<td><strong>4:26</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>2:48</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Today&rsquo;s Tasks</td>
+<td>1:51</td>
+</tr>
+
+<tr>
+<td></td>
+<td>&ensp;&ensp;CS5001</td>
+<td>0:25</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;&ensp;&ensp;CS5001 - Homework #2</td>
+<td>0:25</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Review problems and style</td>
+<td>0:25</td>
+</tr>
+
+<tr>
+<td></td>
+<td>&ensp;&ensp;CS5002</td>
+<td>1:26</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;CS5002 - Homework #2</td>
+<td>1:14</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Zybook Reading</td>
+<td>0:26</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Problem #1</td>
+<td>0:18</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Problem #3</td>
+<td>0:22</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Problem #4</td>
+<td>0:03</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Problem #5</td>
+<td>0:03</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Problem #10</td>
+<td>0:02</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;&ensp;&ensp;Supplemental material for this week</td>
+<td>0:12</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Morning Ritual</td>
+<td>0:57</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Meditation</td>
+<td>0:26</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Journal writing</td>
+<td>0:08</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Review agenda and calendar</td>
+<td>0:19</td>
+</tr>
+
+<tr>
+<td>TODO</td>
+<td>&ensp;&ensp;Breakfast</td>
+<td>0:04</td>
+</tr>
+
+<tr>
+<td></td>
+<td><strong>File time</strong></td>
+<td><strong>1:38</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Recovery Block</td>
+<td>0:51</td>
+</tr>
+
+<tr>
+<td></td>
+<td>Lunch</td>
+<td>0:47</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #1</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #3</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #4</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #5</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #6</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #7</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #10</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #8</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #9</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Zybook Reading</p>
+
+<p>Topics: 1.7, 1.8, 1.9, 1.10 and Chapter 2</p>
+
+<p>DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-23 Wed&gt;</span></span></p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  CS5002 - Homework #2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Review problems and style</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Supplemental material for this week</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Review this weeks material for CS5002</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Zybook Reading</p>
+
+<p>Topics: 1.7, 1.8, 1.9, 1.10 and Chapter 2</p>
+
+<p>DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2019-01-23 Wed&gt;</span></span></p></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>

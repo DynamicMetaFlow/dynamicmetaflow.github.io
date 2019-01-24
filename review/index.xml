@@ -13,10 +13,237 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 23 Jan 2019 21:00:07 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 23 Jan 2019 23:00:01 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-23/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-23&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-23 Wed]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ALL&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;4:26&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2:48&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Today&amp;rsquo;s Tasks&lt;/td&gt;
+&lt;td&gt;1:51&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;CS5001&lt;/td&gt;
+&lt;td&gt;0:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;CS5001 - Homework #2&lt;/td&gt;
+&lt;td&gt;0:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Review problems and style&lt;/td&gt;
+&lt;td&gt;0:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;CS5002&lt;/td&gt;
+&lt;td&gt;1:26&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;CS5002 - Homework #2&lt;/td&gt;
+&lt;td&gt;1:14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Zybook Reading&lt;/td&gt;
+&lt;td&gt;0:26&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Problem #1&lt;/td&gt;
+&lt;td&gt;0:18&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Problem #3&lt;/td&gt;
+&lt;td&gt;0:22&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Problem #4&lt;/td&gt;
+&lt;td&gt;0:03&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Problem #5&lt;/td&gt;
+&lt;td&gt;0:03&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Problem #10&lt;/td&gt;
+&lt;td&gt;0:02&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Supplemental material for this week&lt;/td&gt;
+&lt;td&gt;0:12&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Morning Ritual&lt;/td&gt;
+&lt;td&gt;0:57&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Meditation&lt;/td&gt;
+&lt;td&gt;0:26&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Journal writing&lt;/td&gt;
+&lt;td&gt;0:08&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Review agenda and calendar&lt;/td&gt;
+&lt;td&gt;0:19&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Breakfast&lt;/td&gt;
+&lt;td&gt;0:04&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1:38&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Recovery Block&lt;/td&gt;
+&lt;td&gt;0:51&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Lunch&lt;/td&gt;
+&lt;td&gt;0:47&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
+
+&lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #1&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #3&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #4&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #5&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #6&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #7&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #10&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #8&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #9&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Zybook Reading&lt;/p&gt;
+
+&lt;p&gt;Topics: 1.7, 1.8, 1.9, 1.10 and Chapter 2&lt;/p&gt;
+
+&lt;p&gt;DEADLINE: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;&amp;lt;2019-01-23 Wed&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  CS5002 - Homework #2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review problems and style&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Supplemental material for this week&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review this weeks material for CS5002&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Zybook Reading&lt;/p&gt;
+
+&lt;p&gt;Topics: 1.7, 1.8, 1.9, 1.10 and Chapter 2&lt;/p&gt;
+
+&lt;p&gt;DEADLINE: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;&amp;lt;2019-01-23 Wed&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-23/</guid>
+                <pubDate>Wed, 23 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
             
             <item>
                 <title>Daily Review</title>
