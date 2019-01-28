@@ -4,13 +4,91 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-27T20:24:13-05:00</updated>
+    <updated>2019-01-27T20:59:48-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-27/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-27/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-27T00:00:00-05:00</published>
+            <updated>2019-01-27T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-27</blockquote>
+
+<p>Daily report: <span class="timestamp-wrapper"><span class="timestamp">[2019-01-27 Sun]</span></span></p>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td><strong>Total time</strong></td>
+<td><strong>0:18</strong></td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Reading EOS guide on time-clocking</td>
+<td>0:03</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Researching how to automatically clock-in to interrupted task</td>
+<td>0:15</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Pick-up medication from CVS</p>
+
+<p>From: <a href="">Homework #1 {<sup>9</sup>&frasl;<sub>9</sub>}</a></p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Reading EOS guide on time-clocking</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Researching how to automatically clock-in to interrupted task</p></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
