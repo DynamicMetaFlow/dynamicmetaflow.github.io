@@ -4,7 +4,7 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-27T23:00:01-05:00</updated>
+    <updated>2019-01-28T00:00:00-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -41,13 +41,7 @@
 <tr>
 <td></td>
 <td><strong>Total time</strong></td>
-<td><strong>0:18</strong></td>
-</tr>
-
-<tr>
-<td>DONE</td>
-<td>Reading EOS guide on time-clocking</td>
-<td>0:03</td>
+<td><strong>0:15</strong></td>
 </tr>
 
 <tr>
@@ -66,17 +60,13 @@
 
 <h2 id="tomorrow">Tomorrow</h2>
 
-<h2 id="completed-tasks">Completed Tasks</h2>
+<h2 id="span-class-org-todo-done-done-done-span"><span class="org-todo done DONE">DONE</span></h2>
 
-<ul>
-<li><p><span class="org-todo done DONE">DONE</span>  Pick-up medication from CVS</p>
+<h2 id="pick-up-medication-from-cvs"><span class="org-todo done DONE">DONE</span> Pick-up medication from CVS</h2>
 
-<p>From: <a href="">Homework #1 {<sup>9</sup>&frasl;<sub>9</sub>}</a></p></li>
+<p>From: <a href="">Homework #1 {<sup>9</sup>&frasl;<sub>9</sub>}</a></p>
 
-<li><p><span class="org-todo done DONE">DONE</span>  Reading EOS guide on time-clocking</p></li>
-
-<li><p><span class="org-todo done DONE">DONE</span>  Researching how to automatically clock-in to interrupted task</p></li>
-</ul>
+<h2 id="researching-how-to-automatically-clock-in-to-interrupted-task"><span class="org-todo done DONE">DONE</span> Researching how to automatically clock-in to interrupted task</h2>
 ]]></content>
             
                  

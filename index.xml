@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Sun, 27 Jan 2019 23:00:01 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Mon, 28 Jan 2019 00:00:00 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -38,13 +38,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0:18&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Reading EOS guide on time-clocking&lt;/td&gt;
-&lt;td&gt;0:03&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0:15&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -63,17 +57,13 @@
 
 &lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
 
-&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
+&lt;h2 id=&#34;span-class-org-todo-done-done-done-span&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Pick-up medication from CVS&lt;/p&gt;
+&lt;h2 id=&#34;pick-up-medication-from-cvs&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Pick-up medication from CVS&lt;/h2&gt;
 
-&lt;p&gt;From: &lt;a href=&#34;&#34;&gt;Homework #1 {&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9&lt;/sub&gt;}&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;From: &lt;a href=&#34;&#34;&gt;Homework #1 {&lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;9&lt;/sub&gt;}&lt;/a&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Reading EOS guide on time-clocking&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Researching how to automatically clock-in to interrupted task&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;researching-how-to-automatically-clock-in-to-interrupted-task&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Researching how to automatically clock-in to interrupted task&lt;/h2&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
