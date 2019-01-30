@@ -4,13 +4,178 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-29T20:10:52-05:00</updated>
+    <updated>2019-01-29T20:44:10-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-29/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-29/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-29T00:00:00-05:00</published>
+            <updated>2019-01-29T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-29</blockquote>
+
+<p>Daily report: <span class="timestamp-wrapper"><span class="timestamp">[2019-01-29 Tue]</span></span></p>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td><strong>Total time</strong></td>
+<td><strong>3:17</strong></td>
+</tr>
+
+<tr>
+<td></td>
+<td>Completed Tasks</td>
+<td>3:17</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;Respond to MB</td>
+<td>0:05</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;Respond to MD</td>
+<td>0:04</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;Send email to DD about rescheduling</td>
+<td>0:04</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;3.1</td>
+<td>1:17</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;3.2</td>
+<td>0:25</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;3.3</td>
+<td>0:21</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;3.4</td>
+<td>0:32</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;3.5</td>
+<td>0:11</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;3.6</td>
+<td>0:16</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>&ensp;&ensp;Zybook Chapter 3 - Sets</td>
+<td>0:02</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<p>Today I dedicated time to schedule meetings for this week and the following week. I completed Zybook reading of Chapter 3 - Sets. I took notes of the material and noticed areas for improvement.</p>
+
+<p>For my life hacking I tested waking up at 7am, logging of daily tasks and using pomodoro&rsquo;s in emacs to remind me of when to take breaks.</p>
+
+<h2 id="problem">Problem</h2>
+
+<p>I noticed I setup two 120min focus blocks, one for each one of my classes without any recovery period in between. This then leads to exhaustion and frustration. This is a marathon. I need to change my perspective and interpret graduate school more as a distance runner, as a swimming and pace myself accordingly and adapt.</p>
+
+<p>During the Zybook I experienced some difficulty with Set operations that are complex and being able to determine in a Venn diagram the shaded region a complex set operation.</p>
+
+<h2 id="insight">Insight</h2>
+
+<p>I will incorporate additional recovery blocks in between my sessions. Practicing thinking and moving slower to gain clarity of mind when learning a new concept / idea. The complex set operations, particular identifying regions can be done if each part of the set operation is broken down to it&rsquo;s individual simple part and doing it step by step rather than trying to visualize it the entire process in one go.</p>
+
+<p>I must protect my mind, similar to a garden and nurture it. To this end I have to change my schedule in Google Calendar so that it&rsquo;s a reflection of my natural starting/stopping points. As of now when I have an agenda item/task that I don&rsquo;t complete in a given time-frame/box I feel negative emotions about my performance. I can redefine what success look like for me. I can change and adapt to circumstances.</p>
+
+<p>The midterm is approaching. I need to start reviewing and creating a strategy of how to best prepare each exam.</p>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<ul>
+<li>To complete Homework assignment #3 for CS5002 and</li>
+<li>To review sets for tomorrow&rsquo;s lecture</li>
+</ul>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Respond to MB</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Respond to MD</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Send email to DD about rescheduling</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  3.1</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  3.2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  3.3</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  3.4</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  3.5</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  3.6</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  3.7</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Zybook Chapter 3 - Sets</p></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
