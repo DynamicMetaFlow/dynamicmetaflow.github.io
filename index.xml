@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 31 Jan 2019 08:43:39 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 31 Jan 2019 08:44:14 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -81,13 +81,19 @@
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;Completed most problems for homework #3 for CS5002.&lt;/p&gt;
+&lt;p&gt;Today I completed most of the problems for homework #3 for CS5002. I experienced some difficulty with problems that were around proofs. While the proofs were simple I need to practice making sure that I can construct the proofs correctly.&lt;/p&gt;
 
 &lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
 
+&lt;p&gt;Constructing and practicing proofs.&lt;/p&gt;
+
 &lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
 
+&lt;p&gt;Modified emacs configuration to clock-in tasks and creation of digital notebooks with templates. I do this to better estimate how long it takes me to complete a given task and also log difficulties that I am experiencing.&lt;/p&gt;
+
 &lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;p&gt;Scan, submit CS5002 homework, reading for CS5001 and meetings at NEU.&lt;/p&gt;
 
 &lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
 
