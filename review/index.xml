@@ -13,10 +13,131 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 31 Jan 2019 22:00:01 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 31 Jan 2019 22:58:51 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-01-31/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-01-31&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-31 Thu]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;4:33&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Commuting&lt;/td&gt;
+&lt;td&gt;0:09&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Meeting with MD&lt;/td&gt;
+&lt;td&gt;0:43&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Preparing for meeting&lt;/td&gt;
+&lt;td&gt;0:14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Problem #2&lt;/td&gt;
+&lt;td&gt;1:15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Review Homework #3 for CS5002&lt;/td&gt;
+&lt;td&gt;0:26&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Submit Homework #3 for CS5002&lt;/td&gt;
+&lt;td&gt;1:42&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Ch 5.6-5.7&lt;/td&gt;
+&lt;td&gt;0:04&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
+
+&lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Commuting     🏫&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Meeting with MD     🏫&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Preparing for meeting     🏫&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review Homework #3 for CS5002&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Submit Homework #3 for CS5002&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Ch 5.6-5.7&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  7.1-7.4&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Reading for this week&lt;/p&gt;
+
+&lt;p&gt;Branching cont&amp;rsquo;d, Iteration (while loops), Repeat Until, Breaking loops, Lists Intro&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  10.1-10.4&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Schedule a meeting with your academic advisor&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-01-31/</guid>
+                <pubDate>Thu, 31 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
             
             <item>
                 <title>Daily Review</title>
@@ -2470,177 +2591,6 @@ Setup follow-up meeting for later this month/following month&lt;/li&gt;
                 
                 <guid>https://dynamicmetaflow.github.io/review/2019-01-10/</guid>
                 <pubDate>Thu, 10 Jan 2019 00:00:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Daily Review</title>
-                <link>https://dynamicmetaflow.github.io/review/2019-01-09/</link>
-                
-                
-                <description>&lt;blockquote&gt;Daily Review for 2019-01-09&lt;/blockquote&gt;
-
-&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-09 Wed]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;TODO&lt;/th&gt;
-&lt;th&gt;Headline&lt;/th&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;5:49&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Meditation&lt;/td&gt;
-&lt;td&gt;0:14&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Tea Ceremony&lt;/td&gt;
-&lt;td&gt;0:13&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Journal writing&lt;/td&gt;
-&lt;td&gt;0:18&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Review agenda and calendar&lt;/td&gt;
-&lt;td&gt;0:27&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Breakfast&lt;/td&gt;
-&lt;td&gt;0:12&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Reply to email MB&lt;/td&gt;
-&lt;td&gt;0:06&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Send email to WS attend classes&lt;/td&gt;
-&lt;td&gt;0:03&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Update calendar to include classes schedule&lt;/td&gt;
-&lt;td&gt;2:21&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Lunch&lt;/td&gt;
-&lt;td&gt;0:16&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Getting ready&lt;/td&gt;
-&lt;td&gt;0:25&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Editing blog posts&lt;/td&gt;
-&lt;td&gt;0:13&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;Send email to support circle group&lt;/td&gt;
-&lt;td&gt;0:32&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Create functional space&lt;/td&gt;
-&lt;td&gt;0:05&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Shower&lt;/td&gt;
-&lt;td&gt;0:13&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Tea ceremony&lt;/td&gt;
-&lt;td&gt;0:11&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;reply-to-email-mb&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Reply to email MB&lt;/h2&gt;
-
-&lt;h2 id=&#34;send-email-to-ws-attend-classes&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Send email to WS attend classes&lt;/h2&gt;
-
-&lt;h2 id=&#34;update-calendar-to-include-classes-schedule&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Update calendar to include classes schedule&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-09 Wed 11:38] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
-Created calendar with a micro-level view of tasks to complete for each class.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!--listend--&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Break&lt;/li&gt;
-&lt;li&gt;Note taken on &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-09 Wed 08:29] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
-Creating a separate calendar for tasks related to classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!--listend--&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Break&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;lunch&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Lunch&lt;/h2&gt;
-
-&lt;h2 id=&#34;getting-ready&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Getting ready&lt;/h2&gt;
-
-&lt;h2 id=&#34;editing-blog-posts&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Editing blog posts&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Note taken on &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-09 Wed 13:57] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
-Finish editing blog posts, ready for publication&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;send-email-to-support-circle-group&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; Send email to support circle group&lt;/h2&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://dynamicmetaflow.github.io/review/2019-01-09/</guid>
-                <pubDate>Wed, 09 Jan 2019 00:00:00 -0500</pubDate>
             </item>
         
     </channel>

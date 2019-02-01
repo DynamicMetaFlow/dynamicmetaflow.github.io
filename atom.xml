@@ -4,13 +4,137 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-01-31T22:00:01-05:00</updated>
+    <updated>2019-01-31T22:58:51-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-01-31/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-01-31/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-31T00:00:00-05:00</published>
+            <updated>2019-01-31T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-01-31</blockquote>
+
+<p>Daily report: <span class="timestamp-wrapper"><span class="timestamp">[2019-01-31 Thu]</span></span></p>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td><strong>Total time</strong></td>
+<td><strong>4:33</strong></td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Commuting</td>
+<td>0:09</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Meeting with MD</td>
+<td>0:43</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Preparing for meeting</td>
+<td>0:14</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Problem #2</td>
+<td>1:15</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Review Homework #3 for CS5002</td>
+<td>0:26</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Submit Homework #3 for CS5002</td>
+<td>1:42</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Ch 5.6-5.7</td>
+<td>0:04</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Commuting     🏫</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Meeting with MD     🏫</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Preparing for meeting     🏫</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Review Homework #3 for CS5002</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Submit Homework #3 for CS5002</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Ch 5.6-5.7</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  7.1-7.4</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Reading for this week</p>
+
+<p>Branching cont&rsquo;d, Iteration (while loops), Repeat Until, Breaking loops, Lists Intro</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  10.1-10.4</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Schedule a meeting with your academic advisor</p></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
