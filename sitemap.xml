@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dynamicmetaflow.github.io/now/</loc>
+    <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dynamicmetaflow.github.io/review/2019-01-31/</loc>
     <lastmod>2019-01-31T00:00:00-05:00</lastmod>
   </url>
@@ -177,10 +182,6 @@
   <url>
     <loc>https://dynamicmetaflow.github.io/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/now/</loc>
   </url>
   
 </urlset>
