@@ -13,10 +13,89 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Fri, 01 Feb 2019 19:16:33 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Fri, 01 Feb 2019 23:02:03 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/review/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-02-01/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-02-01&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-02-01 Fri]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;0:58&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Review homework problems&lt;/td&gt;
+&lt;td&gt;0:48&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Review homework problems&lt;/td&gt;
+&lt;td&gt;0:04&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;Print Sets slides&lt;/td&gt;
+&lt;td&gt;0:06&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
+
+&lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review homework problems     :today:&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review homework problems     :today:&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Print Sets slides     :today:&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-02-01/</guid>
+                <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+            </item>
+        
             
             <item>
                 <title>Daily Review</title>
@@ -2420,177 +2499,6 @@ Initial pseudo code created translating to python.&lt;/li&gt;
                 
                 <guid>https://dynamicmetaflow.github.io/review/2019-01-11/</guid>
                 <pubDate>Fri, 11 Jan 2019 00:00:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Daily Review</title>
-                <link>https://dynamicmetaflow.github.io/review/2019-01-10/</link>
-                
-                
-                <description>&lt;blockquote&gt;Daily Review for 2019-01-10&lt;/blockquote&gt;
-
-&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-10 Thu]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;TODO&lt;/th&gt;
-&lt;th&gt;Headline&lt;/th&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;6:01&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;Meditation&lt;/td&gt;
-&lt;td&gt;0:14&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;Tea Ceremony&lt;/td&gt;
-&lt;td&gt;0:16&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;Journal writing&lt;/td&gt;
-&lt;td&gt;0:12&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;Review agenda and calendar&lt;/td&gt;
-&lt;td&gt;0:07&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;Shower&lt;/td&gt;
-&lt;td&gt;0:11&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Meeting with BH about academic plan&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;0:45&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Meeting MB at office&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;0:20&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;Breakfast&lt;/td&gt;
-&lt;td&gt;0:09&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Read Chapter 1, 2.1 - 2.5 from Think Python&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;1:21&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Review Handout&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;0:14&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Review Sample Code&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;0:12&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Start Practice Problems&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;0:15&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Configuring python with emacs environment&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;1:05&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Admin Block&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;0:25&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;Shower&lt;/td&gt;
-&lt;td&gt;0:15&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;meeting-with-bh-about-academic-plan&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Meeting with BH about academic plan&lt;/del&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-10 Thu 09:39] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
-Setup follow-up meeting for later this month/following month&lt;/li&gt;
-&lt;li&gt;State &amp;ldquo;NEXT&amp;rdquo;       from &amp;ldquo;SCHEDULED&amp;rdquo;  &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-10 Thu 08:08]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;meeting-mb-at-office&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Meeting MB at office&lt;/del&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;State &amp;ldquo;DONE&amp;rdquo;       from &amp;ldquo;NEXT&amp;rdquo;       &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-10 Thu 09:40] &lt;/span&gt;&lt;/span&gt; &lt;br /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Re-activated, enrolled as a student&lt;/li&gt;
-&lt;li&gt;24 hours until I can register for classes&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;read-chapter-1-2-dot-1-2-dot-5-from-think-python&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Read Chapter 1, 2.1 - 2.5 from Think Python&lt;/del&gt;&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Variables&lt;/li&gt;
-&lt;li&gt;Assignments&lt;/li&gt;
-&lt;li&gt;Arithmetic Operations&lt;/li&gt;
-&lt;li&gt;Python&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;review-handout&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Review Handout&lt;/del&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;review-sample-code&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Review Sample Code&lt;/del&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;start-practice-problems&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Start Practice Problems&lt;/del&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;configuring-python-with-emacs-environment&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Configuring python with emacs environment&lt;/del&gt;&lt;/h2&gt;
-
-&lt;h2 id=&#34;admin-block&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; &lt;del&gt;Admin Block&lt;/del&gt;&lt;/h2&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://dynamicmetaflow.github.io/review/2019-01-10/</guid>
-                <pubDate>Thu, 10 Jan 2019 00:00:00 -0500</pubDate>
             </item>
         
     </channel>
