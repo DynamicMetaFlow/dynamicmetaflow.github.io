@@ -1,0 +1,49 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <generator>Hugo -- gohugo.io</generator>
+    <title>
+                Cs5001 on
+            
+        
+        Alexander Soto</title>
+        <link href="https://dynamicmetaflow.github.io/categories/cs5001/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/categories/cs5001/"/>
+    <updated>2019-02-05T08:45:48-05:00</updated>
+    <author>
+            <name>Alexander Soto</name>
+            
+                <email>alexander.soto@@gmail.com</email>
+            </author>
+    <id>https://dynamicmetaflow.github.io/categories/cs5001/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[CS 5001: Intensive Foundations of Computer Science]]></title>
+            <link href="https://dynamicmetaflow.github.io/cs5001/"/>
+            <id>https://dynamicmetaflow.github.io/cs5001/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-01-03T00:00:00-05:00</published>
+            <updated>2019-01-03T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>This course is an accelerated introduction to computer science with the Python programming language.</blockquote>]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="https://dynamicmetaflow.github.io/categories/cs5001" term="cs5001" label="CS5001" />
+                            
+                        
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+</feed>

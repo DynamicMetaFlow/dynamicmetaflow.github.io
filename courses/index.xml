@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>
+            
+                    Courses on
+                
+            
+            Alexander Soto</title>
+        <link>https://dynamicmetaflow.github.io/courses/</link>
+        <description>Recent content  in Courses
+            on Alexander Soto</description>
+        <language>en-us</language>
+        
+                <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 05 Feb 2019 08:45:48 -0500</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+            <atom:link href="https://dynamicmetaflow.github.io/courses/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>CS 5001: Intensive Foundations of Computer Science</title>
+                <link>https://dynamicmetaflow.github.io/cs5001/</link>
+                
+                
+                <description>&lt;blockquote&gt;This course is an accelerated introduction to computer science with the Python programming language.&lt;/blockquote&gt;</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                             
+                            
+                                
+                                 
+                                    <category domain="https://dynamicmetaflow.github.io/categories/cs5001">CS5001</category>
+                                
+                            
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/cs5001/</guid>
+                <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+            
+            <item>
+                <title>CS 5002: Discrete and Data Structures</title>
+                <link>https://dynamicmetaflow.github.io/cs5002/</link>
+                
+                
+                <description>&lt;blockquote&gt;This course introduces the mathematical structures and methods that form the foundation of computer science.&lt;/blockquote&gt;&lt;p&gt;testing&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                             
+                            
+                                
+                                 
+                                    <category domain="https://dynamicmetaflow.github.io/categories/cs5002">CS5002</category>
+                                
+                            
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/cs5002/</guid>
+                <pubDate>Thu, 03 Jan 2019 00:00:00 -0500</pubDate>
+            </item>
+        
+    </channel>
+</rss>
+
+
