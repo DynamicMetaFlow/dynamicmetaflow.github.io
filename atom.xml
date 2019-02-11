@@ -4,13 +4,218 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-02-07T13:58:36-05:00</updated>
+    <updated>2019-02-10T23:08:25-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-02-10/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-02-10/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-02-10T00:00:00-05:00</published>
+            <updated>2019-02-10T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-02-10</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td><strong>Total time</strong></td>
+<td><strong>3:26</strong></td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Complete get_direction function</td>
+<td>0:12</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Create function num_stops</td>
+<td>0:11</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Create pseudocode</td>
+<td>3:03</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Complete get_direction function</p>
+
+<p>Condition of when a station isn&rsquo;t valid and report, &lsquo;no station found&rsquo;</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Create function num_stops</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Create pseudocode</p>
+
+<ul>
+<li>Note taken on <span class="timestamp-wrapper"><span class="timestamp">[2019-02-10 Sun 12:15] </span></span> <br />
+We are creating the driver for the application</li>
+</ul></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-02-07/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-02-07/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-02-07T00:00:00-05:00</published>
+            <updated>2019-02-07T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-02-07</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td><strong>Total time</strong></td>
+<td><strong>5:09</strong></td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Homework #3</td>
+<td>0:25</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Programming #3</td>
+<td>0:50</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Homework #4</td>
+<td>3:35</td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>4.3</td>
+<td>0:19</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Written #1</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #3</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #4</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Programming #2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Programming #3</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #1</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #5</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #7</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #9</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #10</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #11</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Problem #12</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  4.1</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  4.2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  4.3</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  4.4</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  4.5</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Zybook - Chapter 4 - Functions</p></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
