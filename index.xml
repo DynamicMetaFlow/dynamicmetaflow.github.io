@@ -11,10 +11,243 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 13 Feb 2019 22:31:23 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 14 Feb 2019 11:54:07 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://dynamicmetaflow.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Daily Review</title>
+                <link>https://dynamicmetaflow.github.io/review/2019-02-13/</link>
+                
+                
+                <description>&lt;blockquote&gt;Daily Review for 2019-02-13&lt;/blockquote&gt;
+
+&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-02-13 Wed]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;File&lt;/th&gt;
+&lt;th&gt;TODO&lt;/th&gt;
+&lt;th&gt;Headline&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;ALL&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;9:01&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;gtd.org&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;7:25&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;This Week&amp;rsquo;s Projects&lt;/td&gt;
+&lt;td&gt;2:24&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;CS5002&lt;/td&gt;
+&lt;td&gt;2:24&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;NEXT&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Homework #5&lt;/td&gt;
+&lt;td&gt;2:24&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;DONE&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Problem #10&lt;/td&gt;
+&lt;td&gt;0:03&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Time-Blocks&lt;/td&gt;
+&lt;td&gt;4:00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;NEXT&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Organization&lt;/td&gt;
+&lt;td&gt;3:25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;NEXT&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Recovery&lt;/td&gt;
+&lt;td&gt;0:35&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;Morning Ritual&lt;/td&gt;
+&lt;td&gt;1:01&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Shower&lt;/td&gt;
+&lt;td&gt;0:23&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Breakfast&lt;/td&gt;
+&lt;td&gt;0:02&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Tea Ceremony&lt;/td&gt;
+&lt;td&gt;0:27&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;TODO&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;Review agenda and calendar&lt;/td&gt;
+&lt;td&gt;0:09&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;journal.org&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1:34&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;2019&lt;/td&gt;
+&lt;td&gt;1:34&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;2019-02 February&lt;/td&gt;
+&lt;td&gt;1:34&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;2019-02-13 Wednesday&lt;/td&gt;
+&lt;td&gt;1:34&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;08:11 AM - Editing sister&amp;rsquo;s responses to send this morning&lt;/td&gt;
+&lt;td&gt;0:28&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;09:15 AM - Thinking about Jax&lt;/td&gt;
+&lt;td&gt;0:09&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;10:34 AM - Break / Food&lt;/td&gt;
+&lt;td&gt;0:05&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;12:41 PM - CS5002 Homework #5 work to finish&lt;/td&gt;
+&lt;td&gt;0:01&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;01:44 PM - Lunch&lt;/td&gt;
+&lt;td&gt;0:51&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
+
+&lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
+
+&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #1&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #3&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #4&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #5&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #6&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #8&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #9&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Problem #10&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Zybook Reading&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  4.6, 10.1, 10.2, 10.3&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://dynamicmetaflow.github.io/review/2019-02-13/</guid>
+                <pubDate>Wed, 13 Feb 2019 00:00:00 -0500</pubDate>
+            </item>
+        
             
             <item>
                 <title>Daily Review</title>
@@ -1810,175 +2043,6 @@ Association of Personality Psychology&lt;/p&gt;
                 
                 <guid>https://dynamicmetaflow.github.io/review/2019-01-17/</guid>
                 <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Daily Review</title>
-                <link>https://dynamicmetaflow.github.io/review/2019-01-16/</link>
-                
-                
-                <description>&lt;blockquote&gt;Daily Review for 2019-01-16&lt;/blockquote&gt;
-
-&lt;p&gt;Daily report: &lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;[2019-01-16 Wed]&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;TODO&lt;/th&gt;
-&lt;th&gt;Headline&lt;/th&gt;
-&lt;th&gt;Time&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;ALL&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Total time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;3:01&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;File time&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;3:01&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Today&amp;rsquo;s Tasks&lt;/td&gt;
-&lt;td&gt;1:18&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;CS5001&lt;/td&gt;
-&lt;td&gt;0:38&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Homework #1 [&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt;]&lt;/td&gt;
-&lt;td&gt;0:38&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;Programming #3 - change.py&lt;/td&gt;
-&lt;td&gt;0:38&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;Swimming at the YMCA&lt;/td&gt;
-&lt;td&gt;0:40&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;This Week&amp;rsquo;s Projects&lt;/td&gt;
-&lt;td&gt;1:20&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;Meeting with ER&lt;/td&gt;
-&lt;td&gt;0:12&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;DONE&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;Appointment with JB&lt;/td&gt;
-&lt;td&gt;1:08&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Morning Ritual&lt;/td&gt;
-&lt;td&gt;0:08&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;Breakfast&lt;/td&gt;
-&lt;td&gt;0:08&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Afternoon Ritual&lt;/td&gt;
-&lt;td&gt;0:15&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;TODO&lt;/td&gt;
-&lt;td&gt;&amp;ensp;&amp;ensp;Recovery Block&lt;/td&gt;
-&lt;td&gt;0:15&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Woke up early to the YMCA to swim and had two meetings with my health care providers. I re-looked at change.py and was able to come up with a working solution in the afternoon. Then later had night classes.&lt;/p&gt;
-
-&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
-
-&lt;p&gt;change.py took some time to work on while the other homework problems I was able to complete in a moderately fast time. I believe the lesson learned here, it&amp;rsquo;s not quite about speed, but focusing more on planning and making sure I have a draft on paper before I start my second draft on a computer. In addition, I realized that I was feeling exhausted the whole day at different times by the time late afternoon arrived.&lt;/p&gt;
-
-&lt;h2 id=&#34;insight&#34;&gt;Insight&lt;/h2&gt;
-
-&lt;p&gt;When working on a programming problem, regardless of how easy I may perceive the problem to be, start on paper first to at least have an idea. Other thoughts are to possibly change my morning routine so I&amp;rsquo;m not waking up at 6am everyday, but perhaps the night I have classes I can wake up later.&lt;/p&gt;
-
-&lt;h2 id=&#34;tomorrow&#34;&gt;Tomorrow&lt;/h2&gt;
-
-&lt;p&gt;To review homework before submission for both classes and review material from CS5001 in preparation for lab&lt;/p&gt;
-
-&lt;h2 id=&#34;completed-tasks&#34;&gt;Completed Tasks&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Swimming at the YMCA&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Appointment with JB&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Appointment with JB&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Meeting with ER&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Programming #3 - change.py&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Meeting with ER&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #1&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #2&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #3&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Written #4&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Homework #1 &lt;code&gt;[&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt;]&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  CS5001     :5001:&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  CS5002     :5002:&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt;  Review using supplemental material&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://dynamicmetaflow.github.io/review/2019-01-16/</guid>
-                <pubDate>Wed, 16 Jan 2019 00:00:00 -0500</pubDate>
             </item>
         
     </channel>
