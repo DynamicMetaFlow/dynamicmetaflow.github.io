@@ -4,13 +4,99 @@
         
         Alexander Soto</title>
         <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-02-14T21:25:38-05:00</updated>
+    <updated>2019-02-14T23:05:16-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://dynamicmetaflow.github.io/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Daily Review]]></title>
+            <link href="https://dynamicmetaflow.github.io/review/2019-02-14/"/>
+            <id>https://dynamicmetaflow.github.io/review/2019-02-14/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-02-14T00:00:00-05:00</published>
+            <updated>2019-02-14T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<blockquote>Daily Review for 2019-02-14</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>TODO</th>
+<th>Headline</th>
+<th>Time</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td></td>
+<td><strong>Total time</strong></td>
+<td><strong>4:51</strong></td>
+</tr>
+
+<tr>
+<td>DONE</td>
+<td>Homework #4</td>
+<td>4:51</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="summary">Summary</h2>
+
+<h2 id="problem">Problem</h2>
+
+<h2 id="insight">Insight</h2>
+
+<h2 id="tomorrow">Tomorrow</h2>
+
+<h2 id="completed-tasks">Completed Tasks</h2>
+
+<ul>
+<li><p><span class="org-todo done DONE">DONE</span>  Review mbta_test.py</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Programming #2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Review passing and failing test cases</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #1</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Homework #4</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #2</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #3</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Written #4</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Programming #1</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Programming #3</p></li>
+
+<li><p><span class="org-todo done DONE">DONE</span>  Refactor code</p></li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Daily Review]]></title>
