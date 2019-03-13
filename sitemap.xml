@@ -118,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/</loc>
-    <lastmod>2019-01-08T18:04:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dynamicmetaflow.github.io/courses/</loc>
     <lastmod>2019-01-08T18:03:00-05:00</lastmod>
   </url>
@@ -144,6 +139,11 @@
   
   <url>
     <loc>https://dynamicmetaflow.github.io/blog/accountability/</loc>
+    <lastmod>2019-01-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dynamicmetaflow.github.io/posts/accountability/</loc>
     <lastmod>2019-01-05T00:00:00-05:00</lastmod>
   </url>
   
@@ -188,6 +188,11 @@
   </url>
   
   <url>
+    <loc>https://dynamicmetaflow.github.io/blog/</loc>
+    <lastmod>2019-01-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dynamicmetaflow.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -201,6 +206,12 @@
   <url>
     <loc>https://dynamicmetaflow.github.io/categories/cs5002/</loc>
     <lastmod>2019-01-03T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dynamicmetaflow.github.io/posts/</loc>
+    <lastmod>2019-01-05T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
