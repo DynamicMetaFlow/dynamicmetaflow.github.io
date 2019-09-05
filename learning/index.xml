@@ -2,12 +2,12 @@
     <channel>
         <title>
             
-                    About on
+                    Learning on
                 
             
             Alexander Soto</title>
-        <link>https://dynamicmetaflow.github.io/about/</link>
-        <description>Recent content  in About
+        <link>https://dynamicmetaflow.github.io/learning/</link>
+        <description>Recent content  in Learning
             on Alexander Soto</description>
         <language>en-us</language>
         
@@ -15,7 +15,7 @@
                 <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 05 Sep 2019 13:56:16 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="https://dynamicmetaflow.github.io/about/index.xml" rel="self" type="application/rss&#43;xml" />
+            <atom:link href="https://dynamicmetaflow.github.io/learning/index.xml" rel="self" type="application/rss&#43;xml" />
     </channel>
 </rss>
 
