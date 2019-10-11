@@ -3,12 +3,12 @@
     <channel>
         <title>
             
-                    About on
+                    Categories on
                 
             
             Alexander Soto</title>
-        <link>https://www.alexsoto.dev/about/</link>
-        <description>Recent content  in About
+        <link>https://www.alexsoto.dev/categories/</link>
+        <description>Recent content  in Categories
             on Alexander Soto</description>
         <language>en-us</language>
         
@@ -16,7 +16,7 @@
                 <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Fri, 11 Oct 2019 13:06:06 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="https://www.alexsoto.dev/about/index.xml" rel="self" type="application/rss&#43;xml" />
+            <atom:link href="https://www.alexsoto.dev/categories/index.xml" rel="self" type="application/rss&#43;xml" />
     </channel>
 </rss>
 

@@ -1,0 +1,67 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <generator>Hugo -- gohugo.io</generator>
+    <title>
+                Journal on
+            
+        
+        Alexander Soto</title>
+        <link href="https://www.alexsoto.dev/journal/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/journal/"/>
+    <updated>2019-10-11T13:06:06-04:00</updated>
+    <author>
+            <name>Alexander Soto</name>
+            
+                <email>alexander.soto@@gmail.com</email>
+            </author>
+    <id>https://www.alexsoto.dev/journal/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[2019-10-11 Friday]]></title>
+            <link href="https://www.alexsoto.dev/journal/2019-10-11/"/>
+            <id>https://www.alexsoto.dev/journal/2019-10-11/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-10-11T00:00:00-04:00</published>
+            <updated>2019-10-11T00:00:00-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
+
+<ul>
+<li><a href="#11-31am-observations-of-using-hyperbole-for-blogging">11:31AM - Observations of using Hyperbole for blogging</a></li>
+</ul>
+
+<p></div>
+<!--endtoc--></p>
+
+<h2 id="11-31am-observations-of-using-hyperbole-for-blogging">11:31AM - Observations of using Hyperbole for blogging</h2>
+
+<p>Using GNU Hyperbole I&rsquo;ve created global buttons to simply my workflow for blogging. So far I have created global buttons that:</p>
+
+<ul>
+<li>Capture a blog post</li>
+<li>Opens the blog.org file</li>
+<li>Goes to my Now file</li>
+<li>Clock-In / Out view clocked history of a task or item I was working on using counsel-org-clock</li>
+<li>Takes my learning notes and creates a learning post from them</li>
+<li>Captures my journal entries and allows me to export them</li>
+</ul>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+</feed>

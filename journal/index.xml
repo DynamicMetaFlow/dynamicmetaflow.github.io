@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>
+            
+                    Journal on
+                
+            
+            Alexander Soto</title>
+        <link>https://www.alexsoto.dev/journal/</link>
+        <description>Recent content  in Journal
+            on Alexander Soto</description>
+        <language>en-us</language>
+        
+                <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Fri, 11 Oct 2019 13:06:06 -0400</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+            <atom:link href="https://www.alexsoto.dev/journal/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>2019-10-11 Friday</title>
+                <link>https://www.alexsoto.dev/journal/2019-10-11/</link>
+                
+                
+                <description>
+
+&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
+&lt;div&gt;&lt;/div&gt;
+
+&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#11-31am-observations-of-using-hyperbole-for-blogging&#34;&gt;11:31AM - Observations of using Hyperbole for blogging&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;!--endtoc--&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;11-31am-observations-of-using-hyperbole-for-blogging&#34;&gt;11:31AM - Observations of using Hyperbole for blogging&lt;/h2&gt;
+
+&lt;p&gt;Using GNU Hyperbole I&amp;rsquo;ve created global buttons to simply my workflow for blogging. So far I have created global buttons that:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Capture a blog post&lt;/li&gt;
+&lt;li&gt;Opens the blog.org file&lt;/li&gt;
+&lt;li&gt;Goes to my Now file&lt;/li&gt;
+&lt;li&gt;Clock-In / Out view clocked history of a task or item I was working on using counsel-org-clock&lt;/li&gt;
+&lt;li&gt;Takes my learning notes and creates a learning post from them&lt;/li&gt;
+&lt;li&gt;Captures my journal entries and allows me to export them&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://www.alexsoto.dev/journal/2019-10-11/</guid>
+                <pubDate>Fri, 11 Oct 2019 00:00:00 -0400</pubDate>
+            </item>
+        
+    </channel>
+</rss>
+
+
