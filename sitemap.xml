@@ -3,85 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/learning/</loc>
-    <lastmod>2019-01-08T18:03:00-05:00</lastmod>
+    <loc>https://www.alexsoto.dev/journal/2019-10-11/</loc>
+    <lastmod>2019-10-11T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/review/</loc>
+    <loc>https://www.alexsoto.dev/blog/hello-world/</loc>
+    <lastmod>2019-10-10T15:12:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.alexsoto.dev/2019-10-10t16.47.19/</loc>
+    <lastmod>2019-10-10T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.alexsoto.dev/2019-10-10t16.57.57/</loc>
+    <lastmod>2019-10-10T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.alexsoto.dev/journal/</loc>
     <lastmod>2019-01-08T18:02:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/accountability/</loc>
-    <lastmod>2019-01-05T00:00:00-05:00</lastmod>
+    <loc>https://www.alexsoto.dev/learning/</loc>
+    <lastmod>2019-01-08T18:02:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/posts/accountability/</loc>
-    <lastmod>2019-01-05T00:00:00-05:00</lastmod>
+    <loc>https://www.alexsoto.dev/about/</loc>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/</loc>
-    <lastmod>2019-01-05T00:00:00-05:00</lastmod>
+    <loc>https://www.alexsoto.dev/</loc>
+    <lastmod>2019-10-11T00:00:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/</loc>
-    <lastmod>2019-01-05T00:00:00-05:00</lastmod>
+    <loc>https://www.alexsoto.dev/blog/</loc>
+    <lastmod>2019-10-10T15:12:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/posts/</loc>
-    <lastmod>2019-01-05T00:00:00-05:00</lastmod>
+    <loc>https://www.alexsoto.dev/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/game-over-continue/</loc>
-    <lastmod>2019-01-03T00:00:00-05:00</lastmod>
+    <loc>https://www.alexsoto.dev/series/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/humble-beginnings/</loc>
-    <lastmod>2019-01-02T00:00:00-05:00</lastmod>
+    <loc>https://www.alexsoto.dev/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dynamicmetaflow.github.io/blog/hello-world/</loc>
-    <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/posts/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/posts/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/posts/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dynamicmetaflow.github.io/now/</loc>
+    <loc>https://www.alexsoto.dev/now/</loc>
   </url>
   
 </urlset>

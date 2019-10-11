@@ -3,115 +3,53 @@
     <title>
         
         Alexander Soto</title>
-        <link href="https://dynamicmetaflow.github.io/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://dynamicmetaflow.github.io/"/>
-    <updated>2019-09-05T13:56:16-04:00</updated>
+        <link href="https://www.alexsoto.dev/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/"/>
+    <updated>2019-10-11T12:52:19-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
-    <id>https://dynamicmetaflow.github.io/</id>
+    <id>https://www.alexsoto.dev/</id>
         
         <entry>
-            <title type="html"><![CDATA[Accountability]]></title>
-            <link href="https://dynamicmetaflow.github.io/blog/accountability/"/>
-            <id>https://dynamicmetaflow.github.io/blog/accountability/</id>
+            <title type="html"><![CDATA[2019-10-11 Friday]]></title>
+            <link href="https://www.alexsoto.dev/journal/2019-10-11/"/>
+            <id>https://www.alexsoto.dev/journal/2019-10-11/</id>
             
                     <author>
                         <name>Alexander Soto</name>
                     </author>
-            <published>2019-01-05T00:00:00-05:00</published>
-            <updated>2019-01-05T00:00:00-05:00</updated>
+            <published>2019-10-11T00:00:00-04:00</published>
+            <updated>2019-10-11T00:00:00-04:00</updated>
             
             
-            <content type="html"><![CDATA[<p>In this website, I will document my learning path and learning process
-to hold myself accountable.</p>
+            <content type="html"><![CDATA[
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
 
 <ul>
-<li>In the <a href="https://dynamicmetaflow.github.io/now/">Now section</a> you can see my objectives for today, this week, month and year.</li>
+<li><a href="#11-31am-observations-of-using-hyperbole-for-blogging">11:31AM - Observations of using Hyperbole for blogging</a></li>
 </ul>
 
-<!--listend-->
+<p></div>
+<!--endtoc--></p>
+
+<h2 id="11-31am-observations-of-using-hyperbole-for-blogging">11:31AM - Observations of using Hyperbole for blogging</h2>
+
+<p>Using GNU Hyperbole I&rsquo;ve created global buttons to simply my workflow for blogging. So far I have created global buttons that:</p>
 
 <ul>
-<li>The <a href="https://dynamicmetaflow.github.io/review/">Review section</a> consists of a daily and weekly review, a micro-level look at my day including time stamps and a table with a summary of time spent on a given task.</li>
+<li>Capture a blog post</li>
+<li>Opens the blog.org file</li>
+<li>Goes to my Now file</li>
+<li>Clock-In / Out view clocked history of a task or item I was working on using counsel-org-clock</li>
+<li>Takes my learning notes and creates a learning post from them</li>
+<li>Captures my journal entries and allows me to export them</li>
 </ul>
-
-<!--listend-->
-
-<ul>
-<li>The <a href="https://dynamicmetaflow.github.io/courses/">Courses section</a> will contain courses that I am currently taking or have in the past with links to notes taken on the topics presented in the class.</li>
-</ul>
-
-<!--listend-->
-
-<ul>
-<li>The <a href="https://dynamicmetaflow.github.io/notes/">Notes section</a> consists of my notes taken about a subject matter. The notes will be used to create lessons to be made accessible to a broader audience.</li>
-</ul>
-
-<p>If you have any comments or suggestions, please feel free to contact me.</p>
-]]></content>
-            
-                 
-                    
-                 
-                    
-                 
-                    
-                
-            
-        </entry>
-    
-        
-        <entry>
-            <title type="html"><![CDATA[Game Over! Continue?]]></title>
-            <link href="https://dynamicmetaflow.github.io/blog/game-over-continue/"/>
-            <id>https://dynamicmetaflow.github.io/blog/game-over-continue/</id>
-            
-                    <author>
-                        <name>Alexander Soto</name>
-                    </author>
-            <published>2019-01-03T00:00:00-05:00</published>
-            <updated>2019-01-03T00:00:00-05:00</updated>
-            
-            
-            <content type="html"><![CDATA[<p>From about 2012 to 2014 I was hospitalized due to my mental health. This period was one of the most painful and challenging times for me in my life: being away from friends, family, and society. I was completely excluded from participating in society both physically and mentally, an outcast. I longed to walk in the city, to see my friends and family, to continue my education and to be involved in a community. Upon my release in 2014, I had to restart my life.</p>
-
-<p>I reconnected with friends and started volunteering in different non-profits in the Boston area. My efforts in volunteering eventually lead me to the opportunity of being an AmeriCorps member for United Way. I along with others focused on providing services to residents in Lynn, MA. In my year of service, I served at a high school: supporting students and teachers, creating an afterschool program, being a positive role model and providing support and services to the community. Around the same period, I found out about Resilient Coders. I decided to volunteer in their afterschool program that teaches youth from communities in the Boston area how to code. Fast forward to the present, and I have worked for two years as a technology teacher at a high school in Boston and was accepted into Northeastern’s Master’s program in computer science.</p>
-
-<p>As a Latino, activist, mental health advocate and technologist, I have learned you must have a systematic understanding of problems and issues that affect organizations, communities, and individuals, to leverage technology as a tool for social change. I am deeply passionate about exploring the use of technology to address the lack of access and inequity in education, health, and unemployment in communities of color.</p>
-]]></content>
-            
-                 
-                    
-                 
-                    
-                 
-                    
-                
-            
-        </entry>
-    
-        
-        <entry>
-            <title type="html"><![CDATA[Humble Beginnings]]></title>
-            <link href="https://dynamicmetaflow.github.io/blog/humble-beginnings/"/>
-            <id>https://dynamicmetaflow.github.io/blog/humble-beginnings/</id>
-            
-                    <author>
-                        <name>Alexander Soto</name>
-                    </author>
-            <published>2019-01-02T00:00:00-05:00</published>
-            <updated>2019-01-02T00:00:00-05:00</updated>
-            
-            
-            <content type="html"><![CDATA[<p>My beginnings with technology start in early childhood. During the weekends I visited my father and spent most of the time with my brother Robinson. Robinson, an electrical engineer from the Dominican Republic, was my mentor and role-model. When I visited during the weekend, I would find my brother taking apart and repairing different devices. I looked forward to spending time with him, and I would ask questions about technology, such as “What is RAM?”, “What are the differences between AMD and Intel?”. As a child, exposure to my brother’s work was a valuable resource that expanded my knowledge, sparked my curiosity and interest in technology. As my skills developed, I later assisted my brother in disassembling computers, running diagnostics, installing and upgrading software.</p>
-
-<p>I then attended Middle School, and a science professor was discarding a computer. I seized this opportunity and asked if I could have it, the professor donated the desktop to me. This was my first computer. I carried the large desktop up a hill and walked several blocks to my house. I troubleshot the desktop and identified the power supply wasn’t working. I swapped the power supply from an abandoned computer, and voila, I became the proud owner of a Pentium II 233 MHz Desktop Computer.</p>
-
-<p>Through this computer and my 56K modem, I had the world’s knowledge at my fingertips. My mind was free to explore my interests unhindered from physical and economic barriers. Having a computer enabled me to excel in my studies compared to my peers who didn’t have access to one. Around the same time, I entered a summer program for Middle School students to take advanced classes and prepare them for high school level work. One of the mentors in the program offered to buy a book from a Barnes and Nobles bookstore. As the years progressed, I learned more about computers, increased my knowledge of technology and about the world.</p>
-
-<p>From my experience, having access to technology or resources, advanced my learning potential. By the time I entered high school, the skills I had gained proved to be invaluable. I credit having access to a computer at a young age and having supportive mentors in shaping my path on being a self-learner. After graduating high school, I entered college to understand the problems that impact my communities, and I majored in Political Science with minors in Philosophy and Latin American Studies.</p>
 ]]></content>
             
                  
@@ -127,21 +65,188 @@ to hold myself accountable.</p>
         
         <entry>
             <title type="html"><![CDATA[Hello World]]></title>
-            <link href="https://dynamicmetaflow.github.io/blog/hello-world/"/>
-            <id>https://dynamicmetaflow.github.io/blog/hello-world/</id>
+            <link href="https://www.alexsoto.dev/blog/hello-world/"/>
+            <id>https://www.alexsoto.dev/blog/hello-world/</id>
             
                     <author>
                         <name>Alexander Soto</name>
                     </author>
-            <published>2019-01-01T00:00:00-05:00</published>
-            <updated>2019-01-01T00:00:00-05:00</updated>
+            <published>2019-10-10T15:12:00-04:00</published>
+            <updated>2019-10-10T15:12:00-04:00</updated>
             
             
             <content type="html"><![CDATA[<p>Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here… a blog in 2019? Bueno, mejor que nada… This post is titled ‘Hello World’, it symbolizes the first step we take to attempt to communicate with someone or something else while being simultaneously born into a new digital world of our creation.</p>
 
-<p>I want you to step into my world and I’ll take you with me on this journey of pursuing my master’s degree in Computer Science. I see Computer Science as attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.</p>
+<p>I want you to step into my world and I’ll take you with me on this
+journey of becoming a software developer. The process of becoming a sof attaining a new ability to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.</p>
 
 <p>This blog, this world that’s being created will serve as a repository about what I’m currently learning. I intend to share what I’ve learned with others by creating content that’s accessible to a wider audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher, and mentor, I seek to bridge technology and social justice. I expect this journey to be filled with moments of joy, tears, and frustration… Pa’lante!</p>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Fundamentals of Web apps]]></title>
+            <link href="https://www.alexsoto.dev/2019-10-10t16.47.19/"/>
+            <id>https://www.alexsoto.dev/2019-10-10t16.47.19/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-10-10T00:00:00-04:00</published>
+            <updated>2019-10-10T00:00:00-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
+
+<ul>
+<li><a href="#what-is-the-1st-rule-of-web-development">What is the 1st rule of web development?</a>:drill:
+
+<ul>
+<li><a href="#notes">Notes</a>:explain:</li>
+</ul></li>
+<li><a href="#what-does-http-get-do">What does HTTP GET do?</a>:drill:
+
+<ul>
+<li><a href="#notes">Notes</a>:explain:</li>
+</ul></li>
+<li><a href="#what-are-http-header-fields">What are HTTP header fields?</a>:drill:
+
+<ul>
+<li><a href="#notes">Notes</a>:explain:</li>
+</ul></li>
+<li><a href="#how-does-the-server-and-web-browser-communicate-with-each-other">How does the server and web browser communicate with each other?</a>:drill:
+
+<ul>
+<li><a href="#notes">Notes</a>:explain:</li>
+</ul></li>
+<li><a href="#related">Related</a></li>
+<li><a href="#references">References</a></li>
+<li><a href="#external-links">External Links</a></li>
+</ul>
+
+<p></div>
+<!--endtoc--></p>
+
+<h2 id="what-is-the-1st-rule-of-web-development">What is the 1st rule of web development?</h2>
+
+<p>The 1st rule of web development is to [always keep the developer console open on your browser, by pressing F12.]</p>
+
+<h3 id="notes">Notes</h3>
+
+<p>Make sure that the <span class="underline">Network tab is open</span>, and check the <span class="underline">Disable cache</span> option</p>
+
+
+
+
+<figure>
+    
+        <img src="https://www.alexsoto.dev/ox-hugo/1e_2019-10-01_11-36-59.png"/> </figure>
+
+
+<h2 id="what-does-http-get-do">What does HTTP GET do?</h2>
+
+<p>[Requests a representation of a specified resource, Requests using GET should only retrieve data]</p>
+
+<h3 id="notes-1">Notes</h3>
+
+
+
+
+<figure>
+    
+        <img src="https://www.alexsoto.dev/ox-hugo/2e_2019-10-01_11-37-32.png"/> </figure>
+
+
+<h2 id="what-are-http-header-fields">What are HTTP header fields?</h2>
+
+<p>HTTP header fields [are components of the header section of request and response messages in HTTP]</p>
+
+<h3 id="notes-2">Notes</h3>
+
+<p>The HTTP headers define the operating parameters of an HTTP transaction</p>
+
+
+
+
+<figure>
+    
+        <img src="https://www.alexsoto.dev/ox-hugo/4e_2019-10-01_11-36-21.png"/> </figure>
+
+
+<h2 id="how-does-the-server-and-web-browser-communicate-with-each-other">How does the server and web browser communicate with each other?</h2>
+
+<p>The server and web browser communicate with each othe rusing the [HTTP protocol]</p>
+
+<h3 id="notes-3">Notes</h3>
+
+<p>The network tab shows how the browser and the server communicate.</p>
+
+<h2 id="related">Related</h2>
+
+<h2 id="references">References</h2>
+
+<h2 id="external-links">External Links</h2>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[Introduction to React]]></title>
+            <link href="https://www.alexsoto.dev/2019-10-10t16.57.57/"/>
+            <id>https://www.alexsoto.dev/2019-10-10t16.57.57/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-10-10T00:00:00-04:00</published>
+            <updated>2019-10-10T00:00:00-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
+
+<ul>
+<li><a href="#related">Related</a></li>
+<li><a href="#references">References</a></li>
+<li><a href="#external-links">External Links</a></li>
+</ul>
+
+<p></div>
+<!--endtoc--></p>
+
+<h2 id="related">Related</h2>
+
+<h2 id="references">References</h2>
+
+<h2 id="external-links">External Links</h2>
 ]]></content>
             
                  
