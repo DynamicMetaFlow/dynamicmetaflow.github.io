@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/blog/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/blog/"/>
-    <updated>2019-10-15T15:28:35-04:00</updated>
+    <updated>2019-10-15T15:31:32-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -33,8 +33,6 @@
 
 <p>The course covers testing, configuration and environment management, and the use of MongoDB for storing the application&rsquo;s data.</p>
 </blockquote>
-
-<p>As I work through this course, I will be documenting my progress by creating blog posts and videos that summarize what I&rsquo;ve learned.</p>
 
 <p>The &ldquo;<a href="https://fullstackopen.com/en">Deep Dive into Modern Web Development</a>&rdquo; course consists of 9 separate parts and  4-5 subparts.</p>
 
@@ -113,6 +111,8 @@
 <li>e: Fragments and subscriptions</li>
 </ul></li>
 </ul>
+
+<p>As I work through this course, I will be documenting my progress by creating blog posts and videos that summarize what I&rsquo;ve learned.</p>
 
 <p>In the blog posts that follow I will go over the learning strategies that I&rsquo;ll be incorporating and a deeper look into my learning plan and tools.</p>
 ]]></content>
