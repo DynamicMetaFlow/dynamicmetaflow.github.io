@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/learning/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/learning/"/>
-    <updated>2019-10-15T17:09:56-04:00</updated>
+    <updated>2019-10-15T17:29:39-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -115,52 +115,6 @@
 <h3 id="notes-3">Notes</h3>
 
 <p>The network tab shows how the browser and the server communicate.</p>
-
-<h2 id="related">Related</h2>
-
-<h2 id="references">References</h2>
-
-<h2 id="external-links">External Links</h2>
-]]></content>
-            
-                 
-                    
-                 
-                    
-                 
-                    
-                
-            
-        </entry>
-    
-        
-        <entry>
-            <title type="html"><![CDATA[Introduction to React]]></title>
-            <link href="https://www.alexsoto.dev/2019-10-10t16.57.57/"/>
-            <id>https://www.alexsoto.dev/2019-10-10t16.57.57/</id>
-            
-                    <author>
-                        <name>Alexander Soto</name>
-                    </author>
-            <published>2019-10-10T00:00:00-04:00</published>
-            <updated>2019-10-10T00:00:00-04:00</updated>
-            
-            
-            <content type="html"><![CDATA[
-
-<div class="ox-hugo-toc toc">
-<div></div>
-
-<div class="heading">Table of Contents</div>
-
-<ul>
-<li><a href="#related">Related</a></li>
-<li><a href="#references">References</a></li>
-<li><a href="#external-links">External Links</a></li>
-</ul>
-
-<p></div>
-<!--endtoc--></p>
 
 <h2 id="related">Related</h2>
 

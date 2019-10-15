@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 17:09:56 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 17:29:39 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -365,49 +365,6 @@ journey of becoming a software developer. The process of becoming a software dev
                     
                 
                 <guid>https://www.alexsoto.dev/2019-10-10t16.47.19/</guid>
-                <pubDate>Thu, 10 Oct 2019 00:00:00 -0400</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Introduction to React</title>
-                <link>https://www.alexsoto.dev/2019-10-10t16.57.57/</link>
-                
-                
-                <description>
-
-&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
-&lt;div&gt;&lt;/div&gt;
-
-&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#related&#34;&gt;Related&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#external-links&#34;&gt;External Links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;!--endtoc--&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-
-&lt;h2 id=&#34;external-links&#34;&gt;External Links&lt;/h2&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/2019-10-10t16.57.57/</guid>
                 <pubDate>Thu, 10 Oct 2019 00:00:00 -0400</pubDate>
             </item>
         
