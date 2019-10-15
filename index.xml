@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 15:34:07 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 15:55:54 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -168,23 +168,25 @@ journey of becoming a software developer. The process of becoming a software dev
 &lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#12-51pm-focus-block&#34;&gt;12:51PM Focus Block&lt;/a&gt;:journal:&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#01-29pm-focus-block&#34;&gt;01:29PM Focus Block&lt;/a&gt;:journal:&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#03-32pm-created-blog-post-deep-dive-into-modern-web-development&#34;&gt;03:32PM - Created blog post Deep Dive into Modern Web Development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-51-pm-focus-block&#34;&gt;12:51 PM Focus Block&lt;/a&gt;:journal:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#01-29-pm-focus-block&#34;&gt;01:29 PM Focus Block&lt;/a&gt;:journal:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#03-32-pm-created-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 03:32 PM - Created blog post&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;!--endtoc--&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;12-51pm-focus-block&#34;&gt;12:51PM Focus Block&lt;/h2&gt;
+&lt;h2 id=&#34;12-51-pm-focus-block&#34;&gt;12:51 PM Focus Block&lt;/h2&gt;
 
 &lt;p&gt;Create blog post, introduction to full-stack open 2019&lt;/p&gt;
 
-&lt;h2 id=&#34;01-29pm-focus-block&#34;&gt;01:29PM Focus Block&lt;/h2&gt;
+&lt;h2 id=&#34;01-29-pm-focus-block&#34;&gt;01:29 PM Focus Block&lt;/h2&gt;
 
 &lt;p&gt;Continuing working on blog post, Deep Dive Into Modern Web Development&lt;/p&gt;
 
-&lt;h2 id=&#34;03-32pm-created-blog-post-deep-dive-into-modern-web-development&#34;&gt;03:32PM - Created blog post Deep Dive into Modern Web Development&lt;/h2&gt;
+&lt;h2 id=&#34;03-32-pm-created-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 03:32 PM - Created blog post&lt;/h2&gt;
+
+&lt;p&gt;Created blog post &amp;ldquo;Deep Dive into Modern Web Development&amp;rdquo;&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
@@ -215,13 +217,13 @@ journey of becoming a software developer. The process of becoming a software dev
 &lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#11-31am-observations-of-using-hyperbole-for-blogging&#34;&gt;11:31AM - Observations of using Hyperbole for blogging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#11-31-am-observations-of-using-hyperbole-for-blogging&#34;&gt;11:31 AM - Observations of using Hyperbole for blogging&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;!--endtoc--&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;11-31am-observations-of-using-hyperbole-for-blogging&#34;&gt;11:31AM - Observations of using Hyperbole for blogging&lt;/h2&gt;
+&lt;h2 id=&#34;11-31-am-observations-of-using-hyperbole-for-blogging&#34;&gt;11:31 AM - Observations of using Hyperbole for blogging&lt;/h2&gt;
 
 &lt;p&gt;Using GNU Hyperbole I&amp;rsquo;ve created global buttons to simply my workflow for blogging. So far I have created global buttons that:&lt;/p&gt;
 

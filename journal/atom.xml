@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/journal/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/journal/"/>
-    <updated>2019-10-15T15:34:07-04:00</updated>
+    <updated>2019-10-15T15:55:54-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -34,23 +34,25 @@
 <div class="heading">Table of Contents</div>
 
 <ul>
-<li><a href="#12-51pm-focus-block">12:51PM Focus Block</a>:journal:</li>
-<li><a href="#01-29pm-focus-block">01:29PM Focus Block</a>:journal:</li>
-<li><a href="#03-32pm-created-blog-post-deep-dive-into-modern-web-development">03:32PM - Created blog post Deep Dive into Modern Web Development</a></li>
+<li><a href="#12-51-pm-focus-block">12:51 PM Focus Block</a>:journal:</li>
+<li><a href="#01-29-pm-focus-block">01:29 PM Focus Block</a>:journal:</li>
+<li><a href="#03-32-pm-created-blog-post"><span class="org-todo done DONE">DONE</span> 03:32 PM - Created blog post</a></li>
 </ul>
 
 <p></div>
 <!--endtoc--></p>
 
-<h2 id="12-51pm-focus-block">12:51PM Focus Block</h2>
+<h2 id="12-51-pm-focus-block">12:51 PM Focus Block</h2>
 
 <p>Create blog post, introduction to full-stack open 2019</p>
 
-<h2 id="01-29pm-focus-block">01:29PM Focus Block</h2>
+<h2 id="01-29-pm-focus-block">01:29 PM Focus Block</h2>
 
 <p>Continuing working on blog post, Deep Dive Into Modern Web Development</p>
 
-<h2 id="03-32pm-created-blog-post-deep-dive-into-modern-web-development">03:32PM - Created blog post Deep Dive into Modern Web Development</h2>
+<h2 id="03-32-pm-created-blog-post"><span class="org-todo done DONE">DONE</span> 03:32 PM - Created blog post</h2>
+
+<p>Created blog post &ldquo;Deep Dive into Modern Web Development&rdquo;</p>
 ]]></content>
             
                  
@@ -84,13 +86,13 @@
 <div class="heading">Table of Contents</div>
 
 <ul>
-<li><a href="#11-31am-observations-of-using-hyperbole-for-blogging">11:31AM - Observations of using Hyperbole for blogging</a></li>
+<li><a href="#11-31-am-observations-of-using-hyperbole-for-blogging">11:31 AM - Observations of using Hyperbole for blogging</a></li>
 </ul>
 
 <p></div>
 <!--endtoc--></p>
 
-<h2 id="11-31am-observations-of-using-hyperbole-for-blogging">11:31AM - Observations of using Hyperbole for blogging</h2>
+<h2 id="11-31-am-observations-of-using-hyperbole-for-blogging">11:31 AM - Observations of using Hyperbole for blogging</h2>
 
 <p>Using GNU Hyperbole I&rsquo;ve created global buttons to simply my workflow for blogging. So far I have created global buttons that:</p>
 
