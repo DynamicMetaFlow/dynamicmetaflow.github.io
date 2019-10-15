@@ -6,13 +6,127 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/blog/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/blog/"/>
-    <updated>2019-10-11T14:13:04-04:00</updated>
+    <updated>2019-10-15T15:28:35-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://www.alexsoto.dev/blog/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Deep Dive Into Modern Web Development]]></title>
+            <link href="https://www.alexsoto.dev/blog/full-stack-open/"/>
+            <id>https://www.alexsoto.dev/blog/full-stack-open/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-10-15T13:45:00-04:00</published>
+            <updated>2019-10-15T13:45:00-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>As part of my learning journey to become a software developer, today I&rsquo;m starting the course &ldquo;<a href="https://fullstackopen.com/en">Deep Dive into Modern Web Development</a>&rdquo;. The course is provided free of charge by the <a href="https://courses.helsinki.fi/en/aytkt21009en/130942194">University of Helsinki</a> as part of their <a href="https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university">Open University</a>.</p>
+
+<blockquote>
+<p>This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.</p>
+
+<p>The course covers testing, configuration and environment management, and the use of MongoDB for storing the application&rsquo;s data.</p>
+</blockquote>
+
+<p>As I work through this course, I will be documenting my progress by creating blog posts and videos that summarize what I&rsquo;ve learned.</p>
+
+<p>The &ldquo;<a href="https://fullstackopen.com/en">Deep Dive into Modern Web Development</a>&rdquo; course consists of 9 separate parts and  4-5 subparts.</p>
+
+<ul>
+<li><a href="https://fullstackopen.com/en/part0">Part 0: Fundamentals of Web Apps</a>
+
+<ul>
+<li>a: General Info</li>
+<li>b: Fundamentals of Web apps</li>
+</ul></li>
+<li><a href="https://fullstackopen.com/en/part1">Part 1: Introduction to React</a>
+
+<ul>
+<li>a: Introduction to React</li>
+<li>b: Javascript</li>
+<li>c: Component state, event handlers</li>
+<li>d: A more complex state, debugging React apps</li>
+</ul></li>
+<li><a href="https://fullstackopen.com/en/part2">Part 2: Communication with server</a>
+
+<ul>
+<li>a: Rendering a collection, modules</li>
+<li>b: Forms</li>
+<li>c: Getting data from server</li>
+<li>d: Altering data in server</li>
+<li>e: Adding styles to React app</li>
+</ul></li>
+<li><a href="https://fullstackopen.com/en/part3">Part 3: Programming a server with NodeJS and Express</a>
+
+<ul>
+<li>a: Node.js and Express</li>
+<li>b: Deploying app to internet</li>
+<li>c: Saving data to MongoDB</li>
+<li>d: Validation and ESLint</li>
+</ul></li>
+<li><a href="https://fullstackopen.com/en/part4">Part 4: Testing Express servers, user administration</a>
+
+<ul>
+<li>a: Structure of backend application, introduction to testing</li>
+<li>b: Testing the backend</li>
+<li>c: User administration</li>
+<li>d: Token authentication</li>
+</ul></li>
+<li><a href="https://fullstackopen.com/en/part5">Part 5: Testing React apps, custom hooks</a>
+
+<ul>
+<li>a: Login in frontend</li>
+<li>b: props.children and proptypes</li>
+<li>c: Testing React apps</li>
+<li>d: Custom hooks</li>
+</ul></li>
+<li><a href="https://fullstackopen.com/en/part6">Part 6: Statement management with Redux</a>
+
+<ul>
+<li>a: Flux-architecture and Redux</li>
+<li>b: Many reducers, connect</li>
+<li>c: Communicating with server in redux application</li>
+</ul></li>
+<li><a href="https://fullstackopen.com/en/part7">Part 7: React router, styling app with CSS and webpack</a>
+
+<ul>
+<li>a: React router</li>
+<li>b: More about styles</li>
+<li>c: Webpack</li>
+<li>d: Class components, E2E-testing</li>
+<li>e: Miscellaneous</li>
+<li>f: Exercises: extending the bloglist</li>
+</ul></li>
+<li><a href="https://fullstackopen.com/en/part8">Part 8: GraphQL</a>
+
+<ul>
+<li>a: GraphQL-server</li>
+<li>b: React and GraphQL</li>
+<li>c: Database and user administration</li>
+<li>d: Login and updating the cache</li>
+<li>e: Fragments and subscriptions</li>
+</ul></li>
+</ul>
+
+<p>In the blog posts that follow I will go over the learning strategies that I&rsquo;ll be incorporating and a deeper look into my learning plan and tools.</p>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Hello World]]></title>
@@ -22,8 +136,8 @@
                     <author>
                         <name>Alexander Soto</name>
                     </author>
-            <published>2019-10-10T15:12:00-04:00</published>
-            <updated>2019-10-10T15:12:00-04:00</updated>
+            <published>2019-10-15T08:00:00-04:00</published>
+            <updated>2019-10-15T08:00:00-04:00</updated>
             
             
             <content type="html"><![CDATA[<p>Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here… a blog in 2019? Bueno, mejor que nada… This post is titled ‘Hello World’, it symbolizes the first step we take to attempt to communicate with someone or something else while being simultaneously born into a new digital world of our creation.</p>
