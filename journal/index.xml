@@ -13,10 +13,57 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 15:31:32 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 15:34:07 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/journal/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>2019-10-15 Tuesday</title>
+                <link>https://www.alexsoto.dev/journal/2019-10-15/</link>
+                
+                
+                <description>
+
+&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
+&lt;div&gt;&lt;/div&gt;
+
+&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#12-51pm-focus-block&#34;&gt;12:51PM Focus Block&lt;/a&gt;:journal:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#01-29pm-focus-block&#34;&gt;01:29PM Focus Block&lt;/a&gt;:journal:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#03-32pm-created-blog-post-deep-dive-into-modern-web-development&#34;&gt;03:32PM - Created blog post Deep Dive into Modern Web Development&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;!--endtoc--&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;12-51pm-focus-block&#34;&gt;12:51PM Focus Block&lt;/h2&gt;
+
+&lt;p&gt;Create blog post, introduction to full-stack open 2019&lt;/p&gt;
+
+&lt;h2 id=&#34;01-29pm-focus-block&#34;&gt;01:29PM Focus Block&lt;/h2&gt;
+
+&lt;p&gt;Continuing working on blog post, Deep Dive Into Modern Web Development&lt;/p&gt;
+
+&lt;h2 id=&#34;03-32pm-created-blog-post-deep-dive-into-modern-web-development&#34;&gt;03:32PM - Created blog post Deep Dive into Modern Web Development&lt;/h2&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://www.alexsoto.dev/journal/2019-10-15/</guid>
+                <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
+            </item>
+        
             
             <item>
                 <title>2019-10-11 Friday</title>

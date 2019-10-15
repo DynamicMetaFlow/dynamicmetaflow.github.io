@@ -6,13 +6,63 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/journal/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/journal/"/>
-    <updated>2019-10-15T15:31:32-04:00</updated>
+    <updated>2019-10-15T15:34:07-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://www.alexsoto.dev/journal/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[2019-10-15 Tuesday]]></title>
+            <link href="https://www.alexsoto.dev/journal/2019-10-15/"/>
+            <id>https://www.alexsoto.dev/journal/2019-10-15/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-10-15T00:00:00-04:00</published>
+            <updated>2019-10-15T00:00:00-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
+
+<ul>
+<li><a href="#12-51pm-focus-block">12:51PM Focus Block</a>:journal:</li>
+<li><a href="#01-29pm-focus-block">01:29PM Focus Block</a>:journal:</li>
+<li><a href="#03-32pm-created-blog-post-deep-dive-into-modern-web-development">03:32PM - Created blog post Deep Dive into Modern Web Development</a></li>
+</ul>
+
+<p></div>
+<!--endtoc--></p>
+
+<h2 id="12-51pm-focus-block">12:51PM Focus Block</h2>
+
+<p>Create blog post, introduction to full-stack open 2019</p>
+
+<h2 id="01-29pm-focus-block">01:29PM Focus Block</h2>
+
+<p>Continuing working on blog post, Deep Dive Into Modern Web Development</p>
+
+<h2 id="03-32pm-created-blog-post-deep-dive-into-modern-web-development">03:32PM - Created blog post Deep Dive into Modern Web Development</h2>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[2019-10-11 Friday]]></title>
