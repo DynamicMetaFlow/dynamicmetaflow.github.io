@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 15:55:54 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 16:52:09 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -21,7 +21,7 @@
                 <link>https://www.alexsoto.dev/blog/full-stack-open/</link>
                 
                 
-                <description>&lt;p&gt;As part of my learning journey to become a software developer, today I&amp;rsquo;m starting the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo;. The course is provided free of charge by the &lt;a href=&#34;https://courses.helsinki.fi/en/aytkt21009en/130942194&#34;&gt;University of Helsinki&lt;/a&gt; as part of their &lt;a href=&#34;https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university&#34;&gt;Open University&lt;/a&gt;.&lt;/p&gt;
+                <description>&lt;p&gt;As part of my learning journey to become a software developer, today I&amp;rsquo;m starting the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo;. The course is provided by the &lt;a href=&#34;https://courses.helsinki.fi/en/aytkt21009en/130942194&#34;&gt;University of Helsinki&lt;/a&gt; as part of their &lt;a href=&#34;https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university&#34;&gt;Open University&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.&lt;/p&gt;
@@ -185,8 +185,6 @@ journey of becoming a software developer. The process of becoming a software dev
 &lt;p&gt;Continuing working on blog post, Deep Dive Into Modern Web Development&lt;/p&gt;
 
 &lt;h2 id=&#34;03-32-pm-created-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 03:32 PM - Created blog post&lt;/h2&gt;
-
-&lt;p&gt;Created blog post &amp;ldquo;Deep Dive into Modern Web Development&amp;rdquo;&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>

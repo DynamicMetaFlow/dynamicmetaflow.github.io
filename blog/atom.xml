@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/blog/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/blog/"/>
-    <updated>2019-10-15T15:55:54-04:00</updated>
+    <updated>2019-10-15T16:52:09-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -26,7 +26,7 @@
             <updated>2019-10-15T13:45:00-04:00</updated>
             
             
-            <content type="html"><![CDATA[<p>As part of my learning journey to become a software developer, today I&rsquo;m starting the course &ldquo;<a href="https://fullstackopen.com/en">Deep Dive into Modern Web Development</a>&rdquo;. The course is provided free of charge by the <a href="https://courses.helsinki.fi/en/aytkt21009en/130942194">University of Helsinki</a> as part of their <a href="https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university">Open University</a>.</p>
+            <content type="html"><![CDATA[<p>As part of my learning journey to become a software developer, today I&rsquo;m starting the course &ldquo;<a href="https://fullstackopen.com/en">Deep Dive into Modern Web Development</a>&rdquo;. The course is provided by the <a href="https://courses.helsinki.fi/en/aytkt21009en/130942194">University of Helsinki</a> as part of their <a href="https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university">Open University</a>.</p>
 
 <blockquote>
 <p>This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.</p>

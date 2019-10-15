@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 15:55:54 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 16:52:09 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/journal/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -48,8 +48,6 @@
 &lt;p&gt;Continuing working on blog post, Deep Dive Into Modern Web Development&lt;/p&gt;
 
 &lt;h2 id=&#34;03-32-pm-created-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 03:32 PM - Created blog post&lt;/h2&gt;
-
-&lt;p&gt;Created blog post &amp;ldquo;Deep Dive into Modern Web Development&amp;rdquo;&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
