@@ -13,10 +13,63 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 21:15:52 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 16 Oct 2019 15:34:00 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/journal/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>2019-10-16 Wednesday</title>
+                <link>https://www.alexsoto.dev/journal/2019-10-16/</link>
+                
+                
+                <description>
+
+&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
+&lt;div&gt;&lt;/div&gt;
+
+&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#8-26-am-focus-block&#34;&gt;8:26 AM - Focus Block&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#10-37-am-recovery-block&#34;&gt;10:37 AM - Recovery Block&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#11-30-am-focus-block&#34;&gt;11:30 AM - Focus Block&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#12-30-pm-recovery-block&#34;&gt;12:30 PM - Recovery Block&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#3-25-pm-completed-blog-post-learning-strategies&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 3:25 PM - Completed blog post &amp;ldquo;Learning Strategies&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;!--endtoc--&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;8-26-am-focus-block&#34;&gt;8:26 AM - Focus Block&lt;/h2&gt;
+
+&lt;p&gt;Create blog post reviewing learning strategies&lt;/p&gt;
+
+&lt;h2 id=&#34;10-37-am-recovery-block&#34;&gt;10:37 AM - Recovery Block&lt;/h2&gt;
+
+&lt;h2 id=&#34;11-30-am-focus-block&#34;&gt;11:30 AM - Focus Block&lt;/h2&gt;
+
+&lt;p&gt;Create blog post reviewing learning strategies&lt;/p&gt;
+
+&lt;h2 id=&#34;12-30-pm-recovery-block&#34;&gt;12:30 PM - Recovery Block&lt;/h2&gt;
+
+&lt;h2 id=&#34;3-25-pm-completed-blog-post-learning-strategies&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 3:25 PM - Completed blog post &amp;ldquo;Learning Strategies&amp;rdquo;&lt;/h2&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://www.alexsoto.dev/journal/2019-10-16/</guid>
+                <pubDate>Wed, 16 Oct 2019 00:00:00 -0400</pubDate>
+            </item>
+        
             
             <item>
                 <title>2019-10-15 Tuesday</title>

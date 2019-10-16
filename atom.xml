@@ -4,13 +4,132 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/"/>
-    <updated>2019-10-15T21:15:52-04:00</updated>
+    <updated>2019-10-16T15:34:01-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://www.alexsoto.dev/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Learning strategies]]></title>
+            <link href="https://www.alexsoto.dev/blog/learning-strategies/"/>
+            <id>https://www.alexsoto.dev/blog/learning-strategies/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-10-16T10:09:00-04:00</published>
+            <updated>2019-10-16T10:09:00-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+
+<p>In my <a href="https://alexsoto.dev/blog/full-stack-open/">previous post</a> I discuss my intention of completing the course &ldquo;<a href="https://fullstackopen.com/en/">Deep Dive Into Modern Web Development</a>&rdquo; with the purpose of starting a progressive journey on becoming a software developer. The primary focus of this post is providing a list of sources and learning strategies that are going to be used.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p>Over the years in my experience as being both a teacher and a student I have come across different sources that are related to the field of learning. The learning strategies that I&rsquo;m adopting have been informed by the following sources:</p>
+
+<ul>
+<li><a href="https://barbaraoakley.com/books/a-mind-for-numbers/">A Mind For Numbers: How to Excel at Math and Science</a></li>
+<li><a href="https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning">Pragmatic Thinking and Learning: Refactor Your Wetware</a></li>
+<li><a href="https://www.petercbrown.com/make%5Fit%5Fstick.php">Make It Stick: The Science of Successful Learning</a></li>
+<li>Articles from <a href="https://betterexplained.com/archives/">Better Explained</a></li>
+</ul>
+
+<p>This is not an exhaustive list by any measure, there are plenty of other discussions about the topic, doing a search on Google yielded over 8 billion possible results.</p>
+
+<p>The list here represents resources that I turn to when I need a refresher and have found works best for me.</p>
+
+<p>The sources above were chosen for the specific strategies, findings, and thoughts that were presented about learning.</p>
+
+<h2 id="strategies">Strategies</h2>
+
+<p>What follows is a list of learning strategies and concepts that were presented in the books and articles listed above.</p>
+
+<ul>
+<li>ADEPT Method</li>
+<li>Chunking</li>
+<li>Generation</li>
+<li>Elaboration</li>
+<li>Retrieval</li>
+<li>Reflection</li>
+<li>Interleaving</li>
+<li>Calibration</li>
+<li>Spacing</li>
+</ul>
+
+<p>In posts to come I will go deeper into each learning strategy and how I&rsquo;m implementing them into an overall learning plan.</p>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
+        
+        <entry>
+            <title type="html"><![CDATA[2019-10-16 Wednesday]]></title>
+            <link href="https://www.alexsoto.dev/journal/2019-10-16/"/>
+            <id>https://www.alexsoto.dev/journal/2019-10-16/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-10-16T00:00:00-04:00</published>
+            <updated>2019-10-16T00:00:00-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
+
+<ul>
+<li><a href="#8-26-am-focus-block">8:26 AM - Focus Block</a></li>
+<li><a href="#10-37-am-recovery-block">10:37 AM - Recovery Block</a></li>
+<li><a href="#11-30-am-focus-block">11:30 AM - Focus Block</a></li>
+<li><a href="#12-30-pm-recovery-block">12:30 PM - Recovery Block</a></li>
+<li><a href="#3-25-pm-completed-blog-post-learning-strategies"><span class="org-todo done DONE">DONE</span> 3:25 PM - Completed blog post &ldquo;Learning Strategies&rdquo;</a></li>
+</ul>
+
+<p></div>
+<!--endtoc--></p>
+
+<h2 id="8-26-am-focus-block">8:26 AM - Focus Block</h2>
+
+<p>Create blog post reviewing learning strategies</p>
+
+<h2 id="10-37-am-recovery-block">10:37 AM - Recovery Block</h2>
+
+<h2 id="11-30-am-focus-block">11:30 AM - Focus Block</h2>
+
+<p>Create blog post reviewing learning strategies</p>
+
+<h2 id="12-30-pm-recovery-block">12:30 PM - Recovery Block</h2>
+
+<h2 id="3-25-pm-completed-blog-post-learning-strategies"><span class="org-todo done DONE">DONE</span> 3:25 PM - Completed blog post &ldquo;Learning Strategies&rdquo;</h2>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Deep Dive Into Modern Web Development]]></title>

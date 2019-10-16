@@ -13,10 +13,70 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 21:15:52 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 16 Oct 2019 15:34:01 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/blog/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Learning strategies</title>
+                <link>https://www.alexsoto.dev/blog/learning-strategies/</link>
+                
+                
+                <description>
+
+&lt;p&gt;In my &lt;a href=&#34;https://alexsoto.dev/blog/full-stack-open/&#34;&gt;previous post&lt;/a&gt; I discuss my intention of completing the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Deep Dive Into Modern Web Development&lt;/a&gt;&amp;rdquo; with the purpose of starting a progressive journey on becoming a software developer. The primary focus of this post is providing a list of sources and learning strategies that are going to be used.&lt;/p&gt;
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;p&gt;Over the years in my experience as being both a teacher and a student I have come across different sources that are related to the field of learning. The learning strategies that I&amp;rsquo;m adopting have been informed by the following sources:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://barbaraoakley.com/books/a-mind-for-numbers/&#34;&gt;A Mind For Numbers: How to Excel at Math and Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning&#34;&gt;Pragmatic Thinking and Learning: Refactor Your Wetware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.petercbrown.com/make%5Fit%5Fstick.php&#34;&gt;Make It Stick: The Science of Successful Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Articles from &lt;a href=&#34;https://betterexplained.com/archives/&#34;&gt;Better Explained&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is not an exhaustive list by any measure, there are plenty of other discussions about the topic, doing a search on Google yielded over 8 billion possible results.&lt;/p&gt;
+
+&lt;p&gt;The list here represents resources that I turn to when I need a refresher and have found works best for me.&lt;/p&gt;
+
+&lt;p&gt;The sources above were chosen for the specific strategies, findings, and thoughts that were presented about learning.&lt;/p&gt;
+
+&lt;h2 id=&#34;strategies&#34;&gt;Strategies&lt;/h2&gt;
+
+&lt;p&gt;What follows is a list of learning strategies and concepts that were presented in the books and articles listed above.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ADEPT Method&lt;/li&gt;
+&lt;li&gt;Chunking&lt;/li&gt;
+&lt;li&gt;Generation&lt;/li&gt;
+&lt;li&gt;Elaboration&lt;/li&gt;
+&lt;li&gt;Retrieval&lt;/li&gt;
+&lt;li&gt;Reflection&lt;/li&gt;
+&lt;li&gt;Interleaving&lt;/li&gt;
+&lt;li&gt;Calibration&lt;/li&gt;
+&lt;li&gt;Spacing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In posts to come I will go deeper into each learning strategy and how I&amp;rsquo;m implementing them into an overall learning plan.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://www.alexsoto.dev/blog/learning-strategies/</guid>
+                <pubDate>Wed, 16 Oct 2019 10:09:00 -0400</pubDate>
+            </item>
+        
             
             <item>
                 <title>Deep Dive Into Modern Web Development</title>

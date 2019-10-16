@@ -6,13 +6,69 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/journal/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/journal/"/>
-    <updated>2019-10-15T21:15:52-04:00</updated>
+    <updated>2019-10-16T15:34:01-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://www.alexsoto.dev/journal/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[2019-10-16 Wednesday]]></title>
+            <link href="https://www.alexsoto.dev/journal/2019-10-16/"/>
+            <id>https://www.alexsoto.dev/journal/2019-10-16/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-10-16T00:00:00-04:00</published>
+            <updated>2019-10-16T00:00:00-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+
+<div class="ox-hugo-toc toc">
+<div></div>
+
+<div class="heading">Table of Contents</div>
+
+<ul>
+<li><a href="#8-26-am-focus-block">8:26 AM - Focus Block</a></li>
+<li><a href="#10-37-am-recovery-block">10:37 AM - Recovery Block</a></li>
+<li><a href="#11-30-am-focus-block">11:30 AM - Focus Block</a></li>
+<li><a href="#12-30-pm-recovery-block">12:30 PM - Recovery Block</a></li>
+<li><a href="#3-25-pm-completed-blog-post-learning-strategies"><span class="org-todo done DONE">DONE</span> 3:25 PM - Completed blog post &ldquo;Learning Strategies&rdquo;</a></li>
+</ul>
+
+<p></div>
+<!--endtoc--></p>
+
+<h2 id="8-26-am-focus-block">8:26 AM - Focus Block</h2>
+
+<p>Create blog post reviewing learning strategies</p>
+
+<h2 id="10-37-am-recovery-block">10:37 AM - Recovery Block</h2>
+
+<h2 id="11-30-am-focus-block">11:30 AM - Focus Block</h2>
+
+<p>Create blog post reviewing learning strategies</p>
+
+<h2 id="12-30-pm-recovery-block">12:30 PM - Recovery Block</h2>
+
+<h2 id="3-25-pm-completed-blog-post-learning-strategies"><span class="org-todo done DONE">DONE</span> 3:25 PM - Completed blog post &ldquo;Learning Strategies&rdquo;</h2>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[2019-10-15 Tuesday]]></title>
