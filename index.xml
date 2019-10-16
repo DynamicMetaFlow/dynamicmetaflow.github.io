@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 17:29:39 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 15 Oct 2019 21:14:36 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -21,7 +21,7 @@
                 <link>https://www.alexsoto.dev/blog/full-stack-open/</link>
                 
                 
-                <description>&lt;p&gt;As part of my learning journey to become a software developer, today I&amp;rsquo;m starting the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo;. The course is provided by the &lt;a href=&#34;https://courses.helsinki.fi/en/aytkt21009en/130942194&#34;&gt;University of Helsinki&lt;/a&gt; as part of their &lt;a href=&#34;https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university&#34;&gt;Open University&lt;/a&gt;.&lt;/p&gt;
+                <description>&lt;p&gt;As part of my learning journey to become a software developer, today I&amp;rsquo;m starting the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo;. The course is provided free of charge by the &lt;a href=&#34;https://courses.helsinki.fi/en/aytkt21009en/130942194&#34;&gt;University of Helsinki&lt;/a&gt; as part of their &lt;a href=&#34;https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university&#34;&gt;Open University&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.&lt;/p&gt;
@@ -29,7 +29,9 @@
 &lt;p&gt;The course covers testing, configuration and environment management, and the use of MongoDB for storing the application&amp;rsquo;s data.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo; course consists of 9 parts.&lt;/p&gt;
+&lt;p&gt;As I work through this course, I will be documenting my progress by creating blog posts and videos that summarize what I&amp;rsquo;ve learned. In the blog posts that follow I will go over the learning strategies that I&amp;rsquo;ll be incorporating and a deeper look into my learning plan and tools.&lt;/p&gt;
+
+&lt;p&gt;The &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo; course consists of 9 separate parts and  4-5 subparts.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part0&#34;&gt;Part 0: Fundamentals of Web Apps&lt;/a&gt;
@@ -106,10 +108,6 @@
 &lt;li&gt;e: Fragments and subscriptions&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;As I work through this course, I will be documenting my progress by creating blog posts and videos that summarize what I&amp;rsquo;ve learned.&lt;/p&gt;
-
-&lt;p&gt;In the blog posts that follow I will go over the learning strategies that I&amp;rsquo;ll be incorporating and a deeper look into my learning plan and tools.&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
