@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Oct 2019 10:55:16 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Oct 2019 10:56:33 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/blog/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -95,7 +95,7 @@
 &lt;p&gt;What follows is a list of learning strategies and concepts that were presented in the books and articles listed above.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Chunking&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alexsoto.dev/blog/chunking/&#34;&gt;Chunking&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Generation&lt;/li&gt;
 &lt;li&gt;Elaboration&lt;/li&gt;
 &lt;li&gt;Retrieval&lt;/li&gt;
