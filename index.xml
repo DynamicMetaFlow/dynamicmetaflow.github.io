@@ -11,10 +11,55 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 16 Oct 2019 15:34:00 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Oct 2019 10:55:16 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/index.xml" rel="self" type="application/rss&#43;xml" />
+            
+            <item>
+                <title>Chunking</title>
+                <link>https://www.alexsoto.dev/blog/chunking/</link>
+                
+                
+                <description>
+
+&lt;h2 id=&#34;analogy&#34;&gt;Analogy&lt;/h2&gt;
+
+&lt;p&gt;Chunking is like working through a jigsaw puzzle. You start with separate pieces, as you work on the puzzle, you create small clusters of pieces or chunks, which contain more meaning and further help you complete the puzzle.&lt;/p&gt;
+
+&lt;h2 id=&#34;diagram-example&#34;&gt;Diagram/Example&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://www.alexsoto.dev/ox-hugo/chunking_2019-10-17_10-47-48.png&#34;/&gt; &lt;/figure&gt;
+
+
+&lt;h2 id=&#34;plain-english&#34;&gt;Plain-English&lt;/h2&gt;
+
+&lt;p&gt;Chunking is the process that allows us to connect smaller pieces of information into bigger chunks to help us remember.&lt;/p&gt;
+
+&lt;h2 id=&#34;technical&#34;&gt;Technical&lt;/h2&gt;
+
+&lt;p&gt;Chunking is a process by which individual pieces of an information set are broken down and then grouped together. A chunk is a collection of basic familiar units that have been grouped together and stored in a person&amp;rsquo;s memory. These chunks are able to be retrieved more easily due to their coherent familiarity.&lt;/p&gt;
+</description>
+                
+                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
+                
+                     
+                        
+                     
+                        
+                     
+                        
+                    
+                
+                <guid>https://www.alexsoto.dev/blog/chunking/</guid>
+                <pubDate>Thu, 17 Oct 2019 10:48:00 -0400</pubDate>
+            </item>
+        
             
             <item>
                 <title>Learning strategies</title>
@@ -23,16 +68,17 @@
                 
                 <description>
 
-&lt;p&gt;In my &lt;a href=&#34;https://alexsoto.dev/blog/full-stack-open/&#34;&gt;previous post&lt;/a&gt; I discuss my intention of completing the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Deep Dive Into Modern Web Development&lt;/a&gt;&amp;rdquo; with the purpose of starting a progressive journey on becoming a software developer. The primary focus of this post is providing a list of sources and learning strategies that are going to be used.&lt;/p&gt;
+&lt;p&gt;In my &lt;a href=&#34;https://alexsoto.dev/blog/full-stack-open/&#34;&gt;previous post&lt;/a&gt; I discuss my intention of completing the &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Deep Dive Into Modern Web Development&lt;/a&gt;&amp;rdquo; course with the purpose of starting a progressive journey on becoming a software developer. The primary focus of this post is providing a list of resources and learning strategies that are going to be used.&lt;/p&gt;
 
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
 
-&lt;p&gt;Over the years in my experience as being both a teacher and a student I have come across different sources that are related to the field of learning. The learning strategies that I&amp;rsquo;m adopting have been informed by the following sources:&lt;/p&gt;
+&lt;p&gt;Over the years in my experience as being both a teacher and a student I have come across different resources that are related to the field of learning. The learning strategies that I&amp;rsquo;m adopting have been informed by the following sources:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://barbaraoakley.com/books/a-mind-for-numbers/&#34;&gt;A Mind For Numbers: How to Excel at Math and Science&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning&#34;&gt;Pragmatic Thinking and Learning: Refactor Your Wetware&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.petercbrown.com/make%5Fit%5Fstick.php&#34;&gt;Make It Stick: The Science of Successful Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://peakthebook.com/index.html&#34;&gt;Peak: Secrets from the New Science of Expertise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning&#34;&gt;Pragmatic Thinking and Learning: Refactor Your Wetware&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Articles from &lt;a href=&#34;https://betterexplained.com/archives/&#34;&gt;Better Explained&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -47,7 +93,6 @@
 &lt;p&gt;What follows is a list of learning strategies and concepts that were presented in the books and articles listed above.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;ADEPT Method&lt;/li&gt;
 &lt;li&gt;Chunking&lt;/li&gt;
 &lt;li&gt;Generation&lt;/li&gt;
 &lt;li&gt;Elaboration&lt;/li&gt;
@@ -56,9 +101,13 @@
 &lt;li&gt;Interleaving&lt;/li&gt;
 &lt;li&gt;Calibration&lt;/li&gt;
 &lt;li&gt;Spacing&lt;/li&gt;
+&lt;li&gt;Deliberate Practice&lt;/li&gt;
+&lt;li&gt;ADEPT Method&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;In posts to come I will go deeper into each learning strategy and how I&amp;rsquo;m implementing them into an overall learning plan.&lt;/p&gt;
+
+&lt;p&gt;This post will be updated periodically with additional resources and strategies.&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
@@ -134,7 +183,7 @@
                 <link>https://www.alexsoto.dev/blog/full-stack-open/</link>
                 
                 
-                <description>&lt;p&gt;As part of my learning journey to become a software developer, today I&amp;rsquo;m starting the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo;. The course is provided free of charge by the &lt;a href=&#34;https://courses.helsinki.fi/en/aytkt21009en/130942194&#34;&gt;University of Helsinki&lt;/a&gt; as part of their &lt;a href=&#34;https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university&#34;&gt;Open University&lt;/a&gt;.&lt;/p&gt;
+                <description>&lt;p&gt;As part of my learning journey to become a software developer, today I&amp;rsquo;m starting the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo;. The course is provided by the &lt;a href=&#34;https://courses.helsinki.fi/en/aytkt21009en/130942194&#34;&gt;University of Helsinki&lt;/a&gt; as part of their &lt;a href=&#34;https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university&#34;&gt;Open University&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.&lt;/p&gt;
