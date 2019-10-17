@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Oct 2019 10:59:01 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Thu, 17 Oct 2019 11:44:40 -0400</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/blog/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -46,6 +46,18 @@
 &lt;h2 id=&#34;technical&#34;&gt;Technical&lt;/h2&gt;
 
 &lt;p&gt;Chunking is a process by which individual pieces of an information set are broken down and then grouped together. A chunk is a collection of basic familiar units that have been grouped together and stored in a person&amp;rsquo;s memory. These chunks are able to be retrieved more easily due to their coherent familiarity.&lt;/p&gt;
+
+&lt;h2 id=&#34;importance&#34;&gt;Importance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;underline&#34;&gt;Short-term memory&lt;/span&gt; is where our brain briefly (20-30 seconds) stores new information, before either forgetting it or committing it to the long-term memory.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span class=&#34;underline&#34;&gt;Long-term memory&lt;/span&gt;, amounts to approximately 7 (+/- 2) slots, newer research suggests that this number is closer to 4 slots.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As we are learning something new, our working memory gets overwhelmed by all the new information and is unable to hold it all in. As a result, we struggle to comprehend.&lt;/p&gt;
+
+&lt;p&gt;As information gets chunked, the same amount of information combined into one chunk occupies only 1 slot in our working and short-term memories, allowing for more information to be held.&lt;/p&gt;
 </description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>

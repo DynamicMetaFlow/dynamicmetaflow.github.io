@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/blog/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/blog/"/>
-    <updated>2019-10-17T10:59:01-04:00</updated>
+    <updated>2019-10-17T11:44:40-04:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -49,6 +49,18 @@
 <h2 id="technical">Technical</h2>
 
 <p>Chunking is a process by which individual pieces of an information set are broken down and then grouped together. A chunk is a collection of basic familiar units that have been grouped together and stored in a person&rsquo;s memory. These chunks are able to be retrieved more easily due to their coherent familiarity.</p>
+
+<h2 id="importance">Importance</h2>
+
+<ul>
+<li><p><span class="underline">Short-term memory</span> is where our brain briefly (20-30 seconds) stores new information, before either forgetting it or committing it to the long-term memory.</p></li>
+
+<li><p><span class="underline">Long-term memory</span>, amounts to approximately 7 (+/- 2) slots, newer research suggests that this number is closer to 4 slots.</p></li>
+</ul>
+
+<p>As we are learning something new, our working memory gets overwhelmed by all the new information and is unable to hold it all in. As a result, we struggle to comprehend.</p>
+
+<p>As information gets chunked, the same amount of information combined into one chunk occupies only 1 slot in our working and short-term memories, allowing for more information to be held.</p>
 ]]></content>
             
                  
