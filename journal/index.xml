@@ -13,7 +13,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Mon, 18 Nov 2019 14:48:06 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Mon, 18 Nov 2019 14:51:40 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/journal/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -44,7 +44,7 @@
 
 &lt;p&gt;For exercise 1.1 from Full Stack Open, I had to refactor code from the App component to three separate components.&lt;/p&gt;
 
-&lt;p&gt;I was able to create the components for Header and Content, I experienced difficlty with the Total component.&lt;/p&gt;
+&lt;p&gt;I was able to create the components for Header and Content, I experienced difficulty with the Total component.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Insight:&lt;/strong&gt;&lt;/p&gt;
 
@@ -54,11 +54,11 @@
 &lt;p&gt;Warning: Received NaN for the `children` attribute. If this is expected, cast the value to a string.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I believe this is related to the const exercises being out of scope, or problems with reading a string and an integer.&lt;/p&gt;
+&lt;p&gt;I believe this is related to the exercises variables being out of scope, or problems with reading a string and an integer.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tomorrow:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;m going to read over this section and look for examples and break down the problem further.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m going to read over this section tomorrow and break down the problem further.&lt;/p&gt;
 
 &lt;h2 id=&#34;code-exercise-1-dot-1&#34;&gt;Code: Exercise 1.1&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;React&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
