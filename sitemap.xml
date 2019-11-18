@@ -3,63 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.alexsoto.dev/blog/wage-theft-application/</loc>
-    <lastmod>2019-10-28T13:35:00-04:00</lastmod>
+    <loc>https://www.alexsoto.dev/journal/2019-11-18-mon/</loc>
+    <lastmod>2019-11-18T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.alexsoto.dev/blog/chunking/</loc>
-    <lastmod>2019-10-17T10:48:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.alexsoto.dev/journal/2019-10-17/</loc>
-    <lastmod>2019-10-17T00:00:00-04:00</lastmod>
+    <lastmod>2019-11-17T10:48:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.alexsoto.dev/blog/learning-strategies/</loc>
-    <lastmod>2019-10-16T10:09:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.alexsoto.dev/journal/2019-10-16/</loc>
-    <lastmod>2019-10-16T00:00:00-04:00</lastmod>
+    <lastmod>2019-11-16T10:09:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.alexsoto.dev/blog/full-stack-open/</loc>
-    <lastmod>2019-10-15T13:45:00-04:00</lastmod>
+    <lastmod>2019-11-15T13:45:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.alexsoto.dev/blog/hello-world/</loc>
-    <lastmod>2019-10-15T08:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.alexsoto.dev/journal/2019-10-15/</loc>
-    <lastmod>2019-10-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.alexsoto.dev/journal/2019-10-11/</loc>
-    <lastmod>2019-10-11T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.alexsoto.dev/2019-10-10t16.47.19/</loc>
-    <lastmod>2019-10-10T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.alexsoto.dev/journal/</loc>
-    <lastmod>2019-01-08T18:02:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.alexsoto.dev/learning/</loc>
-    <lastmod>2019-01-08T18:02:00-05:00</lastmod>
+    <lastmod>2019-11-14T00:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -68,17 +33,23 @@
   
   <url>
     <loc>https://www.alexsoto.dev/</loc>
-    <lastmod>2019-10-28T13:35:00-04:00</lastmod>
+    <lastmod>2019-11-18T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.alexsoto.dev/blog/</loc>
-    <lastmod>2019-10-28T13:35:00-04:00</lastmod>
+    <lastmod>2019-11-17T10:48:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.alexsoto.dev/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.alexsoto.dev/journal/</loc>
+    <lastmod>2019-11-18T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,10 +61,6 @@
   <url>
     <loc>https://www.alexsoto.dev/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.alexsoto.dev/now/</loc>
   </url>
   
 </urlset>

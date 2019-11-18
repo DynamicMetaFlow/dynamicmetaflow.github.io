@@ -11,710 +11,93 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Mon, 28 Oct 2019 13:47:15 -0400</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Mon, 18 Nov 2019 14:46:36 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/index.xml" rel="self" type="application/rss&#43;xml" />
             
             <item>
-                <title>Wage Theft Application</title>
-                <link>https://www.alexsoto.dev/blog/wage-theft-application/</link>
+                <title>Introduction to React: Exercises</title>
+                <link>https://www.alexsoto.dev/journal/2019-11-18-mon/</link>
                 
                 
                 <description>
 
-&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement:&lt;/h2&gt;
+&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
+&lt;div&gt;&lt;/div&gt;
 
-&lt;p&gt;How might we use technology as a tool to increase the capacity of
-community based organizations to address low-wage worker&amp;rsquo;s issues
-surrounding wage theft, health/safety and workplace violations?&lt;/p&gt;
+&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
 
-&lt;h2 id=&#34;partner-organization-justice-at-work&#34;&gt;Partner Organization: &lt;a href=&#34;https://jatwork.org/&#34;&gt;Justice at Work&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#problem-creating-the-total-component&#34;&gt;Problem: Creating the Total component&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#code-exercise-1-dot-1&#34;&gt;Code: Exercise 1.1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;!--endtoc--&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;problem-creating-the-total-component&#34;&gt;Problem: Creating the Total component&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For exercise 1.1 from Full Stack Open, I had to refactor code from the App component to three separate components.&lt;/p&gt;
+
+&lt;p&gt;I was able to create the components for Header and Content, I experienced difficlty with the Total component.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Insight:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Received the following error:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Justice at Work’s mission is to provide strategic legal support for low-wage worker organizations and their members to strengthen organizing. Our staff provide our worker center partners and the people they serve with legal services, training, and legal counsel for collective action.&lt;/p&gt;
+&lt;p&gt;Warning: Received NaN for the `children` attribute. If this is expected, cast the value to a string.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;what-is-wage-theft&#34;&gt;What is wage theft?&lt;/h2&gt;
-
-&lt;p&gt;Wage theft is the failure to pay workers the full wages to which they
-are legally entitled. Examples include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Minimum wage violations:&lt;/strong&gt; Paying workers less than the legal minimum wage.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Overtime violations:&lt;/strong&gt; Failing to pay nonexempt employees time and a half for hours worked in excess of 40 hours per week.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Off-the-clock violations:&lt;/strong&gt; Asking employees to work off the clock before or after their shifts&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Meal break violations:&lt;/strong&gt; Denying workers their legal meal breaks&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Illegal deductions:&lt;/strong&gt; Taking illegal deductions from wages.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipped minimum wage violations:&lt;/strong&gt; Confiscating tips from workers, or failing to pay tipped workers the difference between their tips and the legal minimum wage.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Employee miss-classification violations:&lt;/strong&gt; Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;consequences-of-wage-theft&#34;&gt;Consequences of wage theft&lt;/h2&gt;
-
-&lt;p&gt;According to a report from the Economic Policy Institute, &lt;strong&gt;it&amp;rsquo;s estimated that low-wage workers in the U.S lost more than $50 billion to all forms of wage theft in 2016.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;The Massachusetts group Community Labor United estimates wage theft costs workers in Massachusetts almost $700 million annually. The Attorney General’s Office, tasked with protecting workers in this state, successfully recovers $5.2 million annually.In terms of daily averages, employers steal nearly $2 million of labor each day, and the Attorney General wins back just $14,330 in compensation.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Cooper and Kroeger (2017) find that workers suffering minimum wage violations are cheated out of $64 a week—$3,300 annually for year-round workers. These workers lose almost one-quarter of their earnings, receiving on average only $10,500 in annual wages instead of the $13,800 they should have received.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-
-
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://www.alexsoto.dev/ox-hugo/Wage2_2019-05-14_10-43-58_2019-10-28_13-38-18.jpg&#34;/&gt; &lt;/figure&gt;
-
-
-&lt;p&gt;The disproportionate share of wage theft victims are people of color, women, immigrants, young-people, workers from modest-income households non-unionized workers, and workers who do not have a bachelor&amp;rsquo;s degree.&lt;/p&gt;
-
-&lt;p&gt;References:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.epi.org/publication/two-billion-dollars-in-stolen-wages-were-recovered-for-workers-in-2015-and-2016-and-thats-just-a-drop-in-the-bucket/&#34;&gt;Two billion dollars in stolen wages were recovered&amp;hellip;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.muckrock.com/news/archives/2016/may/23/boston-wage-theft-data/&#34;&gt;The human cost of wage theft in Massachusetts&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-are-worker-centers&#34;&gt;What are worker centers?&lt;/h2&gt;
-
-&lt;p&gt;Worker  centers are community-based mediating institutions that provide support
-to and organize among communities of low-wage workers. Most centers focus their
-work geographically, operating in a particular city or neighborhood.&lt;/p&gt;
-
-&lt;p&gt;Worker centers in general have emerged in response to the decline of
-institutions that historically provided workers with a vehicle for collective
-action. Immigrant worker centers have emerged as a consequence of the explosive
-growth of immigrant communities and the absence of infrastructure to support
-their needs.&lt;/p&gt;
-
-&lt;p&gt;The type of activities that worker centers engage in are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Helping workers to claim unpaid wages.&lt;/li&gt;
-&lt;li&gt;Working with government agencies to improve enforcement.&lt;/li&gt;
-&lt;li&gt;Mounting direct action organizing campaigns against specific employers.&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Engaging in leadership development and popular education activities.&lt;/p&gt;
-
-&lt;p&gt;References:&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.epi.org/publication/books%5Fworker%5Fcenters/&#34;&gt;Worker Centers: Organizing Communities at the Edge of the Dream&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;list-of-worker-centers-in-massachusetts&#34;&gt;List of Worker centers in Massachusetts&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/BrazilianWomensGroup/&#34;&gt;Brazilian Women’s Group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.braziliancenter.org/&#34;&gt;Brazilian Worker Center&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/Brockton-Workers-Alliance-358983187841888/&#34;&gt;Brockton Workers’ Alliance&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cct-newbedford.org/&#34;&gt;Centro Comunitario de Trabajadores&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.chelseacollab.org/&#34;&gt;Chelsea Collaborative&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cpaboston.org/&#34;&gt;Chinese Progressive Association&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fuerza-laboral.org/&#34;&gt;Fuerza Laboral/Power of Workers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://masscosh.org/what-we-do/initiatives/immigrant-worker-center&#34;&gt;MassCOSH Immigrant Worker Center&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mataharijustice.org/&#34;&gt;Matahari Women Workers&amp;rsquo; Center&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pvworkerscenter.org/&#34;&gt;Pioneer Valley Workers&amp;rsquo; Center&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://rocunited.org/staff-and-locals/boston/&#34;&gt;Restaurant Opportunities Center (ROC) Boston&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;References:&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://jatwork.org/resources/resources-for-workers/&#34;&gt;Resources for Workers – Justice at Work&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-s-the-process-of-how-a-worker-center-help-workers-claim-unpaid-wages&#34;&gt;What&amp;rsquo;s the process of how a worker center help workers claim unpaid wages?&lt;/h2&gt;
-
-&lt;p&gt;Each worker center has different strategies and approaches of how to assist a worker. In addition each case is different due to the workers, employer, community organizer, workercenter and context.&lt;/p&gt;
-
-&lt;p&gt;Below is an example of one process.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;0. Initial screen questions:&lt;/strong&gt;
-Gathering information about worker and employer&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;What is the problem you are experiencing?&lt;/li&gt;
-&lt;li&gt;How much do your earn an hour?&lt;/li&gt;
-&lt;li&gt;How many hours do you work?&lt;/li&gt;
-&lt;li&gt;What was the name of company? Do you have the companies address, license plate, the employer&amp;rsquo;s home address, office telephone numbers or cell phone numbers?&lt;/li&gt;
-&lt;li&gt;Are you unionized or not&lt;/li&gt;
-&lt;li&gt;Do you still work there?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Analyzing the case:&lt;/strong&gt;
-What type of case is this?&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wage and hour case&lt;/li&gt;
-&lt;li&gt;Problem with a union&lt;/li&gt;
-&lt;li&gt;unjustly fired&lt;/li&gt;
-&lt;li&gt;general abuse&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Analyze hours:&lt;/strong&gt;
-Generate a timesheet from information provided by worker&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;What are the dates where the worker was not paid?&lt;/li&gt;
-&lt;li&gt;What were the workers&amp;rsquo; hours during these dates?&lt;/li&gt;
-&lt;li&gt;Did the worker work overtime?&lt;/li&gt;
-&lt;li&gt;Worker participates in first phone call with employer.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Research&lt;/strong&gt;
-Researching on the internet for information about the employer and company.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Google&lt;/li&gt;
-&lt;li&gt;Radaris, Intelus, People Search etc&lt;/li&gt;
-&lt;li&gt;Workman&amp;rsquo;s ComDatabase at Division of Industrial Accidents&lt;/li&gt;
-&lt;li&gt;Facebook&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Letter to employer&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Letter is sent by certified mail&lt;/li&gt;
-&lt;li&gt;Using template of organiation&lt;/li&gt;
-&lt;li&gt;Waiting for employer to respond.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Refer case to Attorney General&amp;rsquo;s Office&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;If the employer does not respond to letter&lt;/li&gt;
-&lt;li&gt;If there is no communication between the employer and workercenter&lt;/li&gt;
-&lt;li&gt;Complete form to send case to attorney general&amp;rsquo;s office&lt;/li&gt;
-&lt;li&gt;Follow up with attorney genera&amp;rsquo;s office and worker&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;worker-testimony&#34;&gt;Worker Testimony&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;m originally from Honduras and I came to this country to fight and help my family. I worked at a restaurant in Somerville. I worked for 10 months, 6 days a week, from 11am to 11pm, approximately 72 hours a week. I worked as a dishwasher and preparation and they paid me $ 425 a week.&lt;/p&gt;
-
-&lt;p&gt;After working at this restaurant for some time, I was left with 4 weeks of work that I wasn&amp;rsquo;t paid. When I asked for the money they owed me, they told me they did not have the money to pay me and for me to wait. They told me that they would have it for me next week and that I would continue working. I kept working but they kept saying the same thing &amp;ldquo;for next week&amp;rdquo; every time I asked for my money.&lt;/p&gt;
-
-&lt;p&gt;At the end I got tired of working without being paid payment. I had obligations, I had to pay rent, and other family needs. And this is why I decided to leave this restaurant.&lt;/p&gt;
-
-&lt;p&gt;I decided to go to a worker-center to seek help. I started learning about my rights as a worker. I learned about the minimum wage, I learned that you have to pay me at the designated time, I learned about overtime. And I realized that what the employer paid me was below the minimum wage of Massachusetts law.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;$8.00 per hour&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;wkly. worked hrs&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;OT&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Total $&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Total $ Paid&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Total Unpaid Wages&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;7/12/2010-7/17/2010&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;400&lt;/td&gt;
-&lt;td&gt;$304.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;7/19/2010-7/24/2010&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;400&lt;/td&gt;
-&lt;td&gt;$304.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;400&lt;/td&gt;
-&lt;td&gt;$304.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;400&lt;/td&gt;
-&lt;td&gt;$304.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;400&lt;/td&gt;
-&lt;td&gt;$304.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;400&lt;/td&gt;
-&lt;td&gt;$304.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;400&lt;/td&gt;
-&lt;td&gt;$304.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;425&lt;/td&gt;
-&lt;td&gt;$279.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;7/26/2010-7/31/2010&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;32&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;td&gt;0&lt;/td&gt;
-&lt;td&gt;$704.00&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;TOTAL:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;2,880&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;1,280&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;$28,160.00&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;$15,125.00&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;$13,035.00&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;barriers&#34;&gt;Barriers&lt;/h2&gt;
-
-&lt;h3 id=&#34;lack-of-information&#34;&gt;Lack of information&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;If workers don&amp;rsquo;t know how many hours they worked in a given week, the worker cannot figure out whether they are being paid properly.&lt;/li&gt;
-&lt;li&gt;If a worker cannot testify in court to approximate hours in a given week,they cannot prove liability or damages.&lt;/li&gt;
-&lt;li&gt;Inconsistent or incomplete information about the employer or company plays a large role of whether or not a workers&amp;rsquo; wages can be recuperated.&lt;/li&gt;
-&lt;li&gt;A worker&amp;rsquo;s schedule can vary and contributes to lack of information to hours worked.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;ideas&#34;&gt;Ideas&lt;/h2&gt;
-
-&lt;h3 id=&#34;location-history&#34;&gt;Location History&lt;/h3&gt;
-
-&lt;p&gt;Create a web based tool that worker centers can use to turn cell phone location history into court admissible evidence that summarizes a person&amp;rsquo;s time on the job.&lt;/p&gt;
-
-&lt;p&gt;The location history application can be used in the initial intake process of when a worker visits a worker center.The community organizer at the worker center would ask the initial questions about hours worked, employer information etc.&lt;/p&gt;
-
-&lt;p&gt;In the &amp;ldquo;research&amp;rdquo; phase, the organizer asks the worker permission to load their location data to a website that will then compute the days and times a worker was at a specific given area. This information will then be exported as a spreadsheet that can then later be used by the worker center, lawyer and attorney generals office, or department of labor to be admissible in court&lt;/p&gt;
-
-&lt;p&gt;In addition to location history, it would be beneficial to aggregate text messages, phone logs, or pictures (EXIF data) that can be useful for workers who are not in specific area i.e construction workers and to further strengthen and solidify workers&amp;rsquo; cases.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Process&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Downloads location data from Google.&lt;/li&gt;
-&lt;li&gt;Load location data to website&lt;/li&gt;
-&lt;li&gt;Website plots locations on map&lt;/li&gt;
-&lt;li&gt;Draw box around worksite&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Compute&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Location history is turned on by default and linked to a Google account  rather than a specific phone.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Reasonably accurate&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The tool can be used to corroborate a worker&amp;rsquo;s story&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;worker-center-application&#34;&gt;Worker Center Application&lt;/h3&gt;
-
-&lt;p&gt;Create an application to increase the capacity of community based organizations to address workers&amp;rsquo; issues.&lt;/p&gt;
-
-&lt;p&gt;The worker center application is modeled after a &amp;ldquo;worker center code&amp;rdquo; model, that allows worker centers to join and register with the network. The worker centers are then given a unique code where workers can elect to work with that specific worker center. Rather than creating an application that displaces worker centers and community organizers, this application would strengthen the relationship between worker and worker centers. Worker centers would be able to receive current information from the workers that are registered with them, identify patterns of abusive employers and better be equipped to manage and follow-up with workers&amp;rsquo; cases.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tracks worker hours&lt;/li&gt;
-&lt;li&gt;Track wages&lt;/li&gt;
-&lt;li&gt;Locations&lt;/li&gt;
-&lt;li&gt;Breaks&lt;/li&gt;
-&lt;li&gt;Employer information&lt;/li&gt;
-&lt;li&gt;Company information&lt;/li&gt;
-&lt;li&gt;Generate reports and job logs used for the Department of Labor and Attorney General&amp;rsquo;s Office&lt;/li&gt;
-&lt;li&gt;Share information with other workers and worker centers about non-paying jobs or employers who don&amp;rsquo;t pay their workers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;wage-theft-workshop&#34;&gt;Wage Theft Workshop&lt;/h2&gt;
-
-&lt;p&gt;The focus of this workshop is to show how wage theft occurs in our communities and to provide a social and digital context to understand this process through gamification and using workers&amp;rsquo; stories.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;In a floor or a table a large piece of paper will be the playcenter or the community of focus.&lt;/li&gt;
-&lt;li&gt;3D printed objects representing the physical structures of a community or paper cutouts of community locations will be placed in the large piece of paper to create an &amp;ldquo;imagined community&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Index cards will be labeled with different symbols that represent different forms of communication, places, and workers&amp;rsquo; stories.&lt;/li&gt;
-&lt;li&gt;Each index card will have a piece of a  worker&amp;rsquo;s story, interactions with people, places.&lt;/li&gt;
-&lt;li&gt;Index cards will provide instructions as to placing a token or counter in the playcenter that is a &amp;ldquo;digital footprint&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Example: Worker card
-Antonio received a text message from Maria.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Amor! Espero que estes bien en los estados unidos! Ya enviaste el dinero para pagar los estudios de los muchachos? Te amo mucho!&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;The player would then place a &amp;ldquo;counter&amp;rdquo; or &amp;ldquo;token&amp;rdquo; as an indicator of where the player currently is on the playing field  when they received the text message. Optionally, if the player takes an action as in goes to a location to transfer the money or goes to work a physical token will be placed there too.&lt;/p&gt;
-</description>
+&lt;p&gt;I believe this is related to the const exercises being out of scope, or problems with reading a string and an integer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tomorrow:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to read over this section and look for examples and break down the problem further.&lt;/p&gt;
+
+&lt;h2 id=&#34;code-exercise-1-dot-1&#34;&gt;Code: Exercise 1.1&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;React&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react-dom&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+
+&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Half Stack application development&amp;#39;&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data&amp;#39;&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component&amp;#39;&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
+
+    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
+      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Number&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
+      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+
+&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/h1&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+
+&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
+    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+
+&lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;render&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;, document.getElementById(&amp;#39;root&amp;#39;));&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
                 
                         <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
                 
@@ -726,8 +109,8 @@ Antonio received a text message from Maria.&lt;/p&gt;
                         
                     
                 
-                <guid>https://www.alexsoto.dev/blog/wage-theft-application/</guid>
-                <pubDate>Mon, 28 Oct 2019 13:35:00 -0400</pubDate>
+                <guid>https://www.alexsoto.dev/journal/2019-11-18-mon/</guid>
+                <pubDate>Mon, 18 Nov 2019 00:00:00 -0500</pubDate>
             </item>
         
             
@@ -749,7 +132,7 @@ Antonio received a text message from Maria.&lt;/p&gt;
 
 &lt;figure&gt;
     
-        &lt;img src=&#34;https://www.alexsoto.dev/ox-hugo/chunking_2019-10-17_10-47-48.png&#34;/&gt; &lt;/figure&gt;
+        &lt;img src=&#34;https://www.alexsoto.dev/blog/chunking/notes/data/61/d0c903-f320-48ff-924f-7afd92ed2edf/chunking_2019-10-17_10-47-48.png&#34;/&gt; &lt;/figure&gt;
 
 
 &lt;h2 id=&#34;plain-english&#34;&gt;Plain-English&lt;/h2&gt;
@@ -784,49 +167,7 @@ Antonio received a text message from Maria.&lt;/p&gt;
                     
                 
                 <guid>https://www.alexsoto.dev/blog/chunking/</guid>
-                <pubDate>Thu, 17 Oct 2019 10:48:00 -0400</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>2019-10-17 Thursday</title>
-                <link>https://www.alexsoto.dev/journal/2019-10-17/</link>
-                
-                
-                <description>
-
-&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
-&lt;div&gt;&lt;/div&gt;
-
-&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#10-34-am-focus-block&#34;&gt;10:34 AM - Focus Block&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#10-57-am-completed-blog-post-chunking&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 10:57 AM - Completed blog post &amp;ldquo;Chunking&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;!--endtoc--&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;10-34-am-focus-block&#34;&gt;10:34 AM - Focus Block&lt;/h2&gt;
-
-&lt;p&gt;Create blog post &amp;ldquo;Chunking&amp;rdquo;&lt;/p&gt;
-
-&lt;h2 id=&#34;10-57-am-completed-blog-post-chunking&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 10:57 AM - Completed blog post &amp;ldquo;Chunking&amp;rdquo;&lt;/h2&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/journal/2019-10-17/</guid>
-                <pubDate>Thu, 17 Oct 2019 00:00:00 -0400</pubDate>
+                <pubDate>Sun, 17 Nov 2019 10:48:00 -0500</pubDate>
             </item>
         
             
@@ -890,60 +231,7 @@ Antonio received a text message from Maria.&lt;/p&gt;
                     
                 
                 <guid>https://www.alexsoto.dev/blog/learning-strategies/</guid>
-                <pubDate>Wed, 16 Oct 2019 10:09:00 -0400</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>2019-10-16 Wednesday</title>
-                <link>https://www.alexsoto.dev/journal/2019-10-16/</link>
-                
-                
-                <description>
-
-&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
-&lt;div&gt;&lt;/div&gt;
-
-&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#8-26-am-focus-block&#34;&gt;8:26 AM - Focus Block&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#10-37-am-recovery-block&#34;&gt;10:37 AM - Recovery Block&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#11-30-am-focus-block&#34;&gt;11:30 AM - Focus Block&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#12-30-pm-recovery-block&#34;&gt;12:30 PM - Recovery Block&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#3-25-pm-completed-blog-post-learning-strategies&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 3:25 PM - Completed blog post &amp;ldquo;Learning Strategies&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;!--endtoc--&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;8-26-am-focus-block&#34;&gt;8:26 AM - Focus Block&lt;/h2&gt;
-
-&lt;p&gt;Create blog post reviewing learning strategies&lt;/p&gt;
-
-&lt;h2 id=&#34;10-37-am-recovery-block&#34;&gt;10:37 AM - Recovery Block&lt;/h2&gt;
-
-&lt;h2 id=&#34;11-30-am-focus-block&#34;&gt;11:30 AM - Focus Block&lt;/h2&gt;
-
-&lt;p&gt;Create blog post reviewing learning strategies&lt;/p&gt;
-
-&lt;h2 id=&#34;12-30-pm-recovery-block&#34;&gt;12:30 PM - Recovery Block&lt;/h2&gt;
-
-&lt;h2 id=&#34;3-25-pm-completed-blog-post-learning-strategies&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 3:25 PM - Completed blog post &amp;ldquo;Learning Strategies&amp;rdquo;&lt;/h2&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/journal/2019-10-16/</guid>
-                <pubDate>Wed, 16 Oct 2019 00:00:00 -0400</pubDate>
+                <pubDate>Sat, 16 Nov 2019 10:09:00 -0500</pubDate>
             </item>
         
             
@@ -1054,7 +342,7 @@ Antonio received a text message from Maria.&lt;/p&gt;
                     
                 
                 <guid>https://www.alexsoto.dev/blog/full-stack-open/</guid>
-                <pubDate>Tue, 15 Oct 2019 13:45:00 -0400</pubDate>
+                <pubDate>Fri, 15 Nov 2019 13:45:00 -0500</pubDate>
             </item>
         
             
@@ -1082,221 +370,7 @@ journey of becoming a software developer. The process of becoming a software dev
                     
                 
                 <guid>https://www.alexsoto.dev/blog/hello-world/</guid>
-                <pubDate>Tue, 15 Oct 2019 08:00:00 -0400</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>2019-10-15 Tuesday</title>
-                <link>https://www.alexsoto.dev/journal/2019-10-15/</link>
-                
-                
-                <description>
-
-&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
-&lt;div&gt;&lt;/div&gt;
-
-&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#12-51-pm-focus-block&#34;&gt;12:51 PM Focus Block&lt;/a&gt;:journal:&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#01-29-pm-focus-block&#34;&gt;01:29 PM Focus Block&lt;/a&gt;:journal:&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#03-32-pm-created-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 03:32 PM - Created blog post&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;!--endtoc--&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;12-51-pm-focus-block&#34;&gt;12:51 PM Focus Block&lt;/h2&gt;
-
-&lt;p&gt;Create blog post, introduction to full-stack open 2019&lt;/p&gt;
-
-&lt;h2 id=&#34;01-29-pm-focus-block&#34;&gt;01:29 PM Focus Block&lt;/h2&gt;
-
-&lt;p&gt;Continuing working on blog post, Deep Dive Into Modern Web Development&lt;/p&gt;
-
-&lt;h2 id=&#34;03-32-pm-created-blog-post&#34;&gt;&lt;span class=&#34;org-todo done DONE&#34;&gt;DONE&lt;/span&gt; 03:32 PM - Created blog post&lt;/h2&gt;
-
-&lt;p&gt;Created blog post, &amp;ldquo;Deep Dive into Modern Web Development&amp;rdquo;&lt;/p&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/journal/2019-10-15/</guid>
-                <pubDate>Tue, 15 Oct 2019 00:00:00 -0400</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>2019-10-11 Friday</title>
-                <link>https://www.alexsoto.dev/journal/2019-10-11/</link>
-                
-                
-                <description>
-
-&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
-&lt;div&gt;&lt;/div&gt;
-
-&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#11-31-am-observations-of-using-hyperbole-for-blogging&#34;&gt;11:31 AM - Observations of using Hyperbole for blogging&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;!--endtoc--&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;11-31-am-observations-of-using-hyperbole-for-blogging&#34;&gt;11:31 AM - Observations of using Hyperbole for blogging&lt;/h2&gt;
-
-&lt;p&gt;Using GNU Hyperbole I&amp;rsquo;ve created global buttons to simply my workflow for blogging. So far I have created global buttons that:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Capture a blog post&lt;/li&gt;
-&lt;li&gt;Opens the blog.org file&lt;/li&gt;
-&lt;li&gt;Goes to my Now file&lt;/li&gt;
-&lt;li&gt;Clock-In / Out view clocked history of a task or item I was working on using counsel-org-clock&lt;/li&gt;
-&lt;li&gt;Takes my learning notes and creates a learning post from them&lt;/li&gt;
-&lt;li&gt;Captures my journal entries and allows me to export them&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/journal/2019-10-11/</guid>
-                <pubDate>Fri, 11 Oct 2019 00:00:00 -0400</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Fundamentals of Web apps</title>
-                <link>https://www.alexsoto.dev/2019-10-10t16.47.19/</link>
-                
-                
-                <description>
-
-&lt;div class=&#34;ox-hugo-toc toc&#34;&gt;
-&lt;div&gt;&lt;/div&gt;
-
-&lt;div class=&#34;heading&#34;&gt;Table of Contents&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#what-is-the-1st-rule-of-web-development&#34;&gt;What is the 1st rule of web development?&lt;/a&gt;:drill:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#notes&#34;&gt;Notes&lt;/a&gt;:explain:&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#what-does-http-get-do&#34;&gt;What does HTTP GET do?&lt;/a&gt;:drill:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#notes&#34;&gt;Notes&lt;/a&gt;:explain:&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#what-are-http-header-fields&#34;&gt;What are HTTP header fields?&lt;/a&gt;:drill:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#notes&#34;&gt;Notes&lt;/a&gt;:explain:&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#how-does-the-server-and-web-browser-communicate-with-each-other&#34;&gt;How does the server and web browser communicate with each other?&lt;/a&gt;:drill:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#notes&#34;&gt;Notes&lt;/a&gt;:explain:&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#related&#34;&gt;Related&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#external-links&#34;&gt;External Links&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;!--endtoc--&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-the-1st-rule-of-web-development&#34;&gt;What is the 1st rule of web development?&lt;/h2&gt;
-
-&lt;p&gt;The 1st rule of web development is to [always keep the developer console open on your browser, by pressing F12.]&lt;/p&gt;
-
-&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
-
-&lt;p&gt;Make sure that the &lt;span class=&#34;underline&#34;&gt;Network tab is open&lt;/span&gt;, and check the &lt;span class=&#34;underline&#34;&gt;Disable cache&lt;/span&gt; option&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://www.alexsoto.dev/ox-hugo/1e_2019-10-01_11-36-59.png&#34;/&gt; &lt;/figure&gt;
-
-
-&lt;h2 id=&#34;what-does-http-get-do&#34;&gt;What does HTTP GET do?&lt;/h2&gt;
-
-&lt;p&gt;[Requests a representation of a specified resource, Requests using GET should only retrieve data]&lt;/p&gt;
-
-&lt;h3 id=&#34;notes-1&#34;&gt;Notes&lt;/h3&gt;
-
-
-
-
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://www.alexsoto.dev/ox-hugo/2e_2019-10-01_11-37-32.png&#34;/&gt; &lt;/figure&gt;
-
-
-&lt;h2 id=&#34;what-are-http-header-fields&#34;&gt;What are HTTP header fields?&lt;/h2&gt;
-
-&lt;p&gt;HTTP header fields [are components of the header section of request and response messages in HTTP]&lt;/p&gt;
-
-&lt;h3 id=&#34;notes-2&#34;&gt;Notes&lt;/h3&gt;
-
-&lt;p&gt;The HTTP headers define the operating parameters of an HTTP transaction&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://www.alexsoto.dev/ox-hugo/4e_2019-10-01_11-36-21.png&#34;/&gt; &lt;/figure&gt;
-
-
-&lt;h2 id=&#34;how-does-the-server-and-web-browser-communicate-with-each-other&#34;&gt;How does the server and web browser communicate with each other?&lt;/h2&gt;
-
-&lt;p&gt;The server and web browser communicate with each othe rusing the [HTTP protocol]&lt;/p&gt;
-
-&lt;h3 id=&#34;notes-3&#34;&gt;Notes&lt;/h3&gt;
-
-&lt;p&gt;The network tab shows how the browser and the server communicate.&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-
-&lt;h2 id=&#34;external-links&#34;&gt;External Links&lt;/h2&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/2019-10-10t16.47.19/</guid>
-                <pubDate>Thu, 10 Oct 2019 00:00:00 -0400</pubDate>
+                <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
             </item>
         
     </channel>

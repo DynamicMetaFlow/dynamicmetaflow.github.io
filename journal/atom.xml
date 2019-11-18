@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <title>
-                Journal on
+                Journals on
             
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/journal/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/journal/"/>
-    <updated>2019-10-28T13:47:15-04:00</updated>
+    <updated>2019-11-18T14:46:36-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -15,15 +15,15 @@
     <id>https://www.alexsoto.dev/journal/</id>
         
         <entry>
-            <title type="html"><![CDATA[2019-10-17 Thursday]]></title>
-            <link href="https://www.alexsoto.dev/journal/2019-10-17/"/>
-            <id>https://www.alexsoto.dev/journal/2019-10-17/</id>
+            <title type="html"><![CDATA[Introduction to React: Exercises]]></title>
+            <link href="https://www.alexsoto.dev/journal/2019-11-18-mon/"/>
+            <id>https://www.alexsoto.dev/journal/2019-11-18-mon/</id>
             
                     <author>
                         <name>Alexander Soto</name>
                     </author>
-            <published>2019-10-17T00:00:00-04:00</published>
-            <updated>2019-10-17T00:00:00-04:00</updated>
+            <published>2019-11-18T00:00:00-05:00</published>
+            <updated>2019-11-18T00:00:00-05:00</updated>
             
             
             <content type="html"><![CDATA[
@@ -34,178 +34,75 @@
 <div class="heading">Table of Contents</div>
 
 <ul>
-<li><a href="#10-34-am-focus-block">10:34 AM - Focus Block</a></li>
-<li><a href="#10-57-am-completed-blog-post-chunking"><span class="org-todo done DONE">DONE</span> 10:57 AM - Completed blog post &ldquo;Chunking&rdquo;</a></li>
+<li><a href="#problem-creating-the-total-component">Problem: Creating the Total component</a></li>
+<li><a href="#code-exercise-1-dot-1">Code: Exercise 1.1</a></li>
 </ul>
 
 <p></div>
 <!--endtoc--></p>
 
-<h2 id="10-34-am-focus-block">10:34 AM - Focus Block</h2>
+<h2 id="problem-creating-the-total-component">Problem: Creating the Total component</h2>
 
-<p>Create blog post &ldquo;Chunking&rdquo;</p>
+<p><strong>Problem:</strong></p>
 
-<h2 id="10-57-am-completed-blog-post-chunking"><span class="org-todo done DONE">DONE</span> 10:57 AM - Completed blog post &ldquo;Chunking&rdquo;</h2>
-]]></content>
-            
-                 
-                    
-                 
-                    
-                 
-                    
-                
-            
-        </entry>
-    
-        
-        <entry>
-            <title type="html"><![CDATA[2019-10-16 Wednesday]]></title>
-            <link href="https://www.alexsoto.dev/journal/2019-10-16/"/>
-            <id>https://www.alexsoto.dev/journal/2019-10-16/</id>
-            
-                    <author>
-                        <name>Alexander Soto</name>
-                    </author>
-            <published>2019-10-16T00:00:00-04:00</published>
-            <updated>2019-10-16T00:00:00-04:00</updated>
-            
-            
-            <content type="html"><![CDATA[
+<p>For exercise 1.1 from Full Stack Open, I had to refactor code from the App component to three separate components.</p>
 
-<div class="ox-hugo-toc toc">
-<div></div>
+<p>I was able to create the components for Header and Content, I experienced difficlty with the Total component.</p>
 
-<div class="heading">Table of Contents</div>
+<p><strong>Insight:</strong></p>
 
-<ul>
-<li><a href="#8-26-am-focus-block">8:26 AM - Focus Block</a></li>
-<li><a href="#10-37-am-recovery-block">10:37 AM - Recovery Block</a></li>
-<li><a href="#11-30-am-focus-block">11:30 AM - Focus Block</a></li>
-<li><a href="#12-30-pm-recovery-block">12:30 PM - Recovery Block</a></li>
-<li><a href="#3-25-pm-completed-blog-post-learning-strategies"><span class="org-todo done DONE">DONE</span> 3:25 PM - Completed blog post &ldquo;Learning Strategies&rdquo;</a></li>
-</ul>
+<p>Received the following error:</p>
 
-<p></div>
-<!--endtoc--></p>
+<blockquote>
+<p>Warning: Received NaN for the `children` attribute. If this is expected, cast the value to a string.</p>
+</blockquote>
 
-<h2 id="8-26-am-focus-block">8:26 AM - Focus Block</h2>
+<p>I believe this is related to the const exercises being out of scope, or problems with reading a string and an integer.</p>
 
-<p>Create blog post reviewing learning strategies</p>
+<p><strong>Tomorrow:</strong></p>
 
-<h2 id="10-37-am-recovery-block">10:37 AM - Recovery Block</h2>
+<p>I&rsquo;m going to read over this section and look for examples and break down the problem further.</p>
 
-<h2 id="11-30-am-focus-block">11:30 AM - Focus Block</h2>
+<h2 id="code-exercise-1-dot-1">Code: Exercise 1.1</h2>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">import</span> <span class="nx">React</span> <span class="nx">from</span> <span class="s1">&#39;react&#39;</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ReactDOM</span> <span class="nx">from</span> <span class="s1">&#39;react-dom&#39;</span><span class="p">;</span>
 
-<p>Create blog post reviewing learning strategies</p>
+<span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="k">const</span> <span class="nx">course</span> <span class="o">=</span> <span class="s1">&#39;Half Stack application development&#39;</span>
+    <span class="k">const</span> <span class="nx">part1</span> <span class="o">=</span> <span class="s1">&#39;Fundamentals of React&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="mi">10</span>
+    <span class="k">const</span> <span class="nx">part2</span> <span class="o">=</span> <span class="s1">&#39;Using props to pass data&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="mi">7</span>
+    <span class="k">const</span> <span class="nx">part3</span> <span class="o">=</span> <span class="s1">&#39;State of a component&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="mi">14</span>
 
-<h2 id="12-30-pm-recovery-block">12:30 PM - Recovery Block</h2>
+    <span class="k">return</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Header</span> <span class="nx">course</span> <span class="o">=</span> <span class="p">{</span><span class="nx">course</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part1</span><span class="p">}</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises1</span><span class="p">}</span><span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part2</span><span class="p">}</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises2</span><span class="p">}</span><span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part3</span><span class="p">}</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises3</span><span class="p">}</span><span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="nb">Number</span> <span class="k">of</span> <span class="nx">exercises</span> <span class="p">{</span><span class="nx">exercises1</span> <span class="o">+</span> <span class="nx">exercises2</span> <span class="o">+</span> <span class="nx">exercises3</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="err">/div&gt;</span>
+    <span class="p">)</span>
+<span class="p">}</span>
 
-<h2 id="3-25-pm-completed-blog-post-learning-strategies"><span class="org-todo done DONE">DONE</span> 3:25 PM - Completed blog post &ldquo;Learning Strategies&rdquo;</h2>
-]]></content>
-            
-                 
-                    
-                 
-                    
-                 
-                    
-                
-            
-        </entry>
-    
-        
-        <entry>
-            <title type="html"><![CDATA[2019-10-15 Tuesday]]></title>
-            <link href="https://www.alexsoto.dev/journal/2019-10-15/"/>
-            <id>https://www.alexsoto.dev/journal/2019-10-15/</id>
-            
-                    <author>
-                        <name>Alexander Soto</name>
-                    </author>
-            <published>2019-10-15T00:00:00-04:00</published>
-            <updated>2019-10-15T00:00:00-04:00</updated>
-            
-            
-            <content type="html"><![CDATA[
+<span class="k">const</span> <span class="nx">Header</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="o">&lt;</span><span class="nx">h1</span><span class="o">&gt;</span><span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">course</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/h1&gt;</span>
+<span class="p">}</span>
 
-<div class="ox-hugo-toc toc">
-<div></div>
+<span class="k">const</span> <span class="nx">Content</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>
+    <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part1</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span><span class="p">}</span>
+    <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part2</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span><span class="p">}</span>
+    <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part3</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span>
+    <span class="o">&lt;</span><span class="err">/p&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
 
-<div class="heading">Table of Contents</div>
-
-<ul>
-<li><a href="#12-51-pm-focus-block">12:51 PM Focus Block</a>:journal:</li>
-<li><a href="#01-29-pm-focus-block">01:29 PM Focus Block</a>:journal:</li>
-<li><a href="#03-32-pm-created-blog-post"><span class="org-todo done DONE">DONE</span> 03:32 PM - Created blog post</a></li>
-</ul>
-
-<p></div>
-<!--endtoc--></p>
-
-<h2 id="12-51-pm-focus-block">12:51 PM Focus Block</h2>
-
-<p>Create blog post, introduction to full-stack open 2019</p>
-
-<h2 id="01-29-pm-focus-block">01:29 PM Focus Block</h2>
-
-<p>Continuing working on blog post, Deep Dive Into Modern Web Development</p>
-
-<h2 id="03-32-pm-created-blog-post"><span class="org-todo done DONE">DONE</span> 03:32 PM - Created blog post</h2>
-
-<p>Created blog post, &ldquo;Deep Dive into Modern Web Development&rdquo;</p>
-]]></content>
-            
-                 
-                    
-                 
-                    
-                 
-                    
-                
-            
-        </entry>
-    
-        
-        <entry>
-            <title type="html"><![CDATA[2019-10-11 Friday]]></title>
-            <link href="https://www.alexsoto.dev/journal/2019-10-11/"/>
-            <id>https://www.alexsoto.dev/journal/2019-10-11/</id>
-            
-                    <author>
-                        <name>Alexander Soto</name>
-                    </author>
-            <published>2019-10-11T00:00:00-04:00</published>
-            <updated>2019-10-11T00:00:00-04:00</updated>
-            
-            
-            <content type="html"><![CDATA[
-
-<div class="ox-hugo-toc toc">
-<div></div>
-
-<div class="heading">Table of Contents</div>
-
-<ul>
-<li><a href="#11-31-am-observations-of-using-hyperbole-for-blogging">11:31 AM - Observations of using Hyperbole for blogging</a></li>
-</ul>
-
-<p></div>
-<!--endtoc--></p>
-
-<h2 id="11-31-am-observations-of-using-hyperbole-for-blogging">11:31 AM - Observations of using Hyperbole for blogging</h2>
-
-<p>Using GNU Hyperbole I&rsquo;ve created global buttons to simply my workflow for blogging. So far I have created global buttons that:</p>
-
-<ul>
-<li>Capture a blog post</li>
-<li>Opens the blog.org file</li>
-<li>Goes to my Now file</li>
-<li>Clock-In / Out view clocked history of a task or item I was working on using counsel-org-clock</li>
-<li>Takes my learning notes and creates a learning post from them</li>
-<li>Captures my journal entries and allows me to export them</li>
-</ul>
-]]></content>
+<span class="nx">ReactDOM</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span><span class="o">&lt;</span><span class="nx">App</span> <span class="err">/&gt;, document.getElementById(&#39;root&#39;));</span>
+</code></pre></div>]]></content>
             
                  
                     
