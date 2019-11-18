@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/journal/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/journal/"/>
-    <updated>2019-11-18T14:52:13-05:00</updated>
+    <updated>2019-11-18T18:25:47-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -15,9 +15,9 @@
     <id>https://www.alexsoto.dev/journal/</id>
         
         <entry>
-            <title type="html"><![CDATA[Introduction to React: Exercises]]></title>
-            <link href="https://www.alexsoto.dev/journal/2019-11-18-mon/"/>
-            <id>https://www.alexsoto.dev/journal/2019-11-18-mon/</id>
+            <title type="html"><![CDATA[Introduction to React - Exercises]]></title>
+            <link href="https://www.alexsoto.dev/journal/2019-11-18/"/>
+            <id>https://www.alexsoto.dev/journal/2019-11-18/</id>
             
                     <author>
                         <name>Alexander Soto</name>
@@ -28,24 +28,11 @@
             
             <content type="html"><![CDATA[
 
-<div class="ox-hugo-toc toc">
-<div></div>
-
-<div class="heading">Table of Contents</div>
-
-<ul>
-<li><a href="#problem-creating-the-total-component">Problem: Creating the Total component</a></li>
-<li><a href="#code-exercise-1-dot-1">Code: Exercise 1.1</a></li>
-</ul>
-
-<p></div>
-<!--endtoc--></p>
-
 <h2 id="problem-creating-the-total-component">Problem: Creating the Total component</h2>
 
 <p><strong>Problem:</strong></p>
 
-<p>For exercise 1.1 from Full Stack Open, I had to refactor code from the App component to three separate components.</p>
+<p>For <a href="https://fullstackopen.com/en/part1/introduction%5Fto%5Freact#exercises">exercise 1.1 from Full Stack Open</a>, I had to refactor code from the App component to three separate components.</p>
 
 <p>I was able to create the components for Header and Content, I experienced difficulty with the Total component.</p>
 
