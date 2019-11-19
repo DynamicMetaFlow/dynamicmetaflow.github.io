@@ -6,7 +6,7 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/journal/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/journal/"/>
-    <updated>2019-11-19T12:18:45-05:00</updated>
+    <updated>2019-11-19T12:21:33-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
@@ -261,7 +261,7 @@
 
 <p>The syntax for an object and an array in Javascript are similar to each other causing mistakes in syntax, especially when going from a Object -&gt; Array.</p>
 
-<p>Remember that in the array there is not need for a const, and that the brackets indicate the beginning and end of an element. Other oddities are the usage of the &ldquo;,&rdquo; and &ldquo;[ ]&ldquo;.</p>
+<p>Remember that in the array there is no need for a const, and that the brackets indicate the beginning and end of an element. Other oddities are the usage of the &ldquo;,&rdquo; and &ldquo;[ ]&ldquo;.</p>
 <div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">const</span> <span class="nx">parts</span> <span class="o">=</span> <span class="p">[</span>
     <span class="p">{</span>
       <span class="nx">name</span> <span class="o">:</span> <span class="s1">&#39;Fundamentals of React&#39;</span><span class="p">,</span>

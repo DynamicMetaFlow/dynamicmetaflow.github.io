@@ -11,7 +11,7 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 19 Nov 2019 12:18:45 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 19 Nov 2019 12:21:33 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/index.xml" rel="self" type="application/rss&#43;xml" />
@@ -256,7 +256,7 @@
 
 &lt;p&gt;The syntax for an object and an array in Javascript are similar to each other causing mistakes in syntax, especially when going from a Object -&amp;gt; Array.&lt;/p&gt;
 
-&lt;p&gt;Remember that in the array there is not need for a const, and that the brackets indicate the beginning and end of an element. Other oddities are the usage of the &amp;ldquo;,&amp;rdquo; and &amp;ldquo;[ ]&amp;ldquo;.&lt;/p&gt;
+&lt;p&gt;Remember that in the array there is no need for a const, and that the brackets indicate the beginning and end of an element. Other oddities are the usage of the &amp;ldquo;,&amp;rdquo; and &amp;ldquo;[ ]&amp;ldquo;.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
     &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
       &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
