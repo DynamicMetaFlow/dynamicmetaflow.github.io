@@ -13,13 +13,13 @@
         <language>en-us</language>
         
                 <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 19 Nov 2019 12:17:52 -0500</lastBuildDate>
+                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Tue, 19 Nov 2019 12:18:45 -0500</lastBuildDate>
         <generator>Hugo -- gohugo.io</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
             <atom:link href="https://www.alexsoto.dev/journal/index.xml" rel="self" type="application/rss&#43;xml" />
             
             <item>
-                <title>Introduction to React - Exercises: 1.2, 1.3, 1.4</title>
+                <title>Introduction to React - Exercises: 1.2 - 1.5</title>
                 <link>https://www.alexsoto.dev/journal/2019-11-19/</link>
                 
                 
