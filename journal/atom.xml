@@ -6,13 +6,123 @@
         
         Alexander Soto</title>
         <link href="https://www.alexsoto.dev/journal/atom.xml" rel="self" type="application/atom&#43;xml" /><link href="https://www.alexsoto.dev/journal/"/>
-    <updated>2019-11-18T19:59:20-05:00</updated>
+    <updated>2019-11-19T10:34:57-05:00</updated>
     <author>
             <name>Alexander Soto</name>
             
                 <email>alexander.soto@@gmail.com</email>
             </author>
     <id>https://www.alexsoto.dev/journal/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Introduction to React - Exercise 1.2]]></title>
+            <link href="https://www.alexsoto.dev/journal/2019-11-19/"/>
+            <id>https://www.alexsoto.dev/journal/2019-11-19/</id>
+            
+                    <author>
+                        <name>Alexander Soto</name>
+                    </author>
+            <published>2019-11-19T00:00:00-05:00</published>
+            <updated>2019-11-19T00:00:00-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[
+
+<h2 id="8-15-am-focus-block">8:15 AM: Focus Block</h2>
+
+<p>Complete Exercises 1.2 Introduction to React from Full Stack Open 2019</p>
+
+<h2 id="8-33-am-problem-failed-to-compile">8:33 AM: Problem - Failed to compile</h2>
+
+<p><strong>Problem</strong></p>
+
+<p>index.js, has failed to compile.</p>
+
+<p><strong>Insight:</strong></p>
+
+<p>Errors that I&rsquo;m receiving are related to no-undef, the function not being defined.</p>
+
+<h2 id="9-00-am-completed-exercise-1-dot-2">9:00 AM: Completed exercise 1.2</h2>
+
+<h2 id="9-01-am-code-exercise-1-dot-2">9:01 AM: Code - Exercise 1.2</h2>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">import</span> <span class="nx">React</span> <span class="nx">from</span> <span class="s1">&#39;react&#39;</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ReactDOM</span> <span class="nx">from</span> <span class="s1">&#39;react-dom&#39;</span><span class="p">;</span>
+
+<span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="k">const</span> <span class="nx">course</span> <span class="o">=</span> <span class="s1">&#39;Half Stack application development&#39;</span>
+    <span class="k">const</span> <span class="nx">part1</span> <span class="o">=</span> <span class="s1">&#39;Fundamentals of React&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="mi">10</span>
+    <span class="k">const</span> <span class="nx">part2</span> <span class="o">=</span> <span class="s1">&#39;Using props to pass data&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="mi">7</span>
+    <span class="k">const</span> <span class="nx">part3</span> <span class="o">=</span> <span class="s1">&#39;State of a component&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="mi">14</span>
+
+    <span class="k">return</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Header</span> <span class="nx">course</span> <span class="o">=</span> <span class="p">{</span><span class="nx">course</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part1</span><span class="p">}</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises1</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part2</span><span class="p">}</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises2</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part3</span><span class="p">}</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises3</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="nb">Number</span> <span class="k">of</span> <span class="nx">exercises</span> <span class="p">{</span><span class="nx">exercises1</span> <span class="o">+</span> <span class="nx">exercises2</span> <span class="o">+</span> <span class="nx">exercises3</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="err">/div&gt;</span>
+    <span class="p">)</span>
+<span class="p">}</span>
+
+
+<span class="k">const</span> <span class="nx">Header</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="o">&lt;</span><span class="nx">h1</span><span class="o">&gt;</span><span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">course</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/h1&gt;</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Part</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part1</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part2</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part3</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Content</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part1</span><span class="p">}</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part2</span><span class="p">}</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part3</span><span class="p">}</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span> <span class="err">/&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Total</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span> <span class="o">+</span> <span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span> <span class="o">+</span> <span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+
+  <span class="p">)</span>
+<span class="p">}</span>
+
+
+
+<span class="nx">ReactDOM</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span><span class="o">&lt;</span><span class="nx">App</span> <span class="err">/&gt;, document.getElementById(&#39;root&#39;));</span>
+</code></pre></div>
+<h2 id="10-20-am-reflection">10:20 AM:  Reflection</h2>
+
+<p>The exercises have focused on syntax and using props with components. Before I start reading a new section, I&rsquo;m going to review the exercises first to identify questions and areas to focus on while reading.</p>
+
+<p>I&rsquo;m going to dedicate time to read over the React documentation on props.</p>
+]]></content>
+            
+                 
+                    
+                 
+                    
+                 
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[Introduction to React - Exercise 1.1]]></title>
