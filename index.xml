@@ -1,741 +1,478 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>
-            
-            
-            Alexander Soto</title>
-        <link>https://www.alexsoto.dev/</link>
-        <description>Recent content 
-            on Alexander Soto</description>
-        <language>en-us</language>
-        
-                <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 25 Dec 2019 21:11:05 -0500</lastBuildDate>
-        <generator>Hugo -- gohugo.io</generator>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="https://www.alexsoto.dev/index.xml" rel="self" type="application/rss&#43;xml" />
-            
-            <item>
-                <title>Introduction to React - Exercises: 1.2 - 1.5</title>
-                <link>https://www.alexsoto.dev/journal/2019-11-19/</link>
-                
-                
-                <description>
-
-&lt;h2 id=&#34;8-15-am-focus-block&#34;&gt;8:15 AM: Focus Block&lt;/h2&gt;
-
-&lt;p&gt;Complete Exercises 1.2 Introduction to React from Full Stack Open 2019&lt;/p&gt;
-
-&lt;h2 id=&#34;8-33-am-problem-failed-to-compile&#34;&gt;8:33 AM: Problem - Failed to compile&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;index.js, has failed to compile.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Insight:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Errors that I&amp;rsquo;m receiving are related to no-undef, the function not being defined.&lt;/p&gt;
-
-&lt;h2 id=&#34;9-00-am-completed-exercise-1-dot-2&#34;&gt;9:00 AM: Completed exercise 1.2&lt;/h2&gt;
-
-&lt;h2 id=&#34;9-01-am-code-exercise-1-dot-2&#34;&gt;9:01 AM: Code - Exercise 1.2&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;React&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react-dom&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Half Stack application development&amp;#39;&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data&amp;#39;&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component&amp;#39;&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
-
-    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Number&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Total&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-
-
-&lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;render&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;, document.getElementById(&amp;#39;root&amp;#39;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;10-20-am-reflection&#34;&gt;10:20 AM:  Reflection&lt;/h2&gt;
-
-&lt;p&gt;The exercises have focused on syntax and using props with components. Before I start reading a new section, I&amp;rsquo;m going to review the exercises first to identify questions and areas to focus on while reading.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m going to dedicate time to read over the React documentation on props.&lt;/p&gt;
-
-&lt;h2 id=&#34;10-54-am-focus-block&#34;&gt;10:54 AM: Focus Block&lt;/h2&gt;
-
-&lt;h3 id=&#34;exercise-1-dot-3&#34;&gt;Exercise 1.3&lt;/h3&gt;
-
-&lt;p&gt;Let&amp;rsquo;s move forward to using objects in our application. Modify the variable definitions of the &lt;em&gt;App&lt;/em&gt; component as follows and also refactor the application so that it still works:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Half Stack application development&amp;#39;&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;...&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;11-02-am-emacs&#34;&gt;11:02 AM: Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Create keybindings for commenting and uncommenting a region.&lt;/li&gt;
-&lt;li&gt;Create a keybinding that allows for narrowing to definition, selected region etc&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;11-10-am-code-exercise-1-dot-3&#34;&gt;11:10 AM: Code - Exercise 1.3&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;React&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react-dom&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Half Stack application development&amp;#39;&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;  &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Total&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-
-&lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;render&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;, document.getElementById(&amp;#39;root&amp;#39;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;11-14-am-reflection&#34;&gt;11:14 AM: Reflection&lt;/h2&gt;
-
-&lt;p&gt;Modified variable definitions of of App component to be objects instead, refactored accordingly.&lt;/p&gt;
-
-&lt;h2 id=&#34;11-19-am-exercise-1-dot-4&#34;&gt;11:19 AM: Exercise 1.4&lt;/h2&gt;
-
-&lt;p&gt;And then place the objects into an array. Modify the variable definitions of &lt;em&gt;App&lt;/em&gt; into the following form and modify the other parts of the application accordingly:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Half Stack application development&amp;#39;&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
-
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;...&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt; at this point &lt;em&gt;you can assume that there are always three items&lt;/em&gt;, so there is no need to go through the arrays using loops. We will come back to the topic of rendering components based on items in arrays with a more thorough exploration in the next part of the course.&lt;/p&gt;
-
-&lt;p&gt;However, do not pass different objects as separate props from the &lt;em&gt;App&lt;/em&gt; component to the components &lt;em&gt;Content&lt;/em&gt; and &lt;em&gt;Total&lt;/em&gt;. Instead, pass them directly as an array:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;c1&#34;&gt;// const definitions
-&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{...}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Total&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;11-28-am-objects-and-arrays&#34;&gt;11:28 AM: Objects and Arrays&lt;/h2&gt;
-
-&lt;p&gt;The syntax for an object and an array in Javascript are similar to each other causing mistakes in syntax, especially when going from a Object -&amp;gt; Array.&lt;/p&gt;
-
-&lt;p&gt;Remember that in the array there is no need for a const, and that the brackets indicate the beginning and end of an element. Other oddities are the usage of the &amp;ldquo;,&amp;rdquo; and &amp;ldquo;[ ]&amp;ldquo;.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;  &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;11-34-am-emacs&#34;&gt;11:34 AM: Emacs&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Create keybinding for scratch buffer&lt;/li&gt;
-&lt;li&gt;Set sane defaults for programming modes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;11-47-pm-exercise-1-dot-5&#34;&gt;11:47 PM: Exercise 1.5&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s take the changes one step further. Change the course and its parts into a single Javascript object. Fix everything that breaks.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Half Stack application development&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-        &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-        &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-        &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-        &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-        &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-        &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;p&#34;&gt;...&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;12-10-pm-code-1-dot-4-and-1-dot-5&#34;&gt;12:10 PM: Code - 1.4 and 1.5&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;React&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react-dom&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Half Stack application development&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-    &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React:&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data:&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;  &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;},&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component:&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;
-      &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Total&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;({&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;})&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Part&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Total&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;({&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;})&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;total&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;].&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;].&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;parts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;].&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;nb&#34;&gt;Number&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;total&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;render&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;, document.getElementById(&amp;#39;root&amp;#39;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&#34;12-17-pm-recovery-block&#34;&gt;12:17 PM: Recovery Block&lt;/h2&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/journal/2019-11-19/</guid>
-                <pubDate>Tue, 19 Nov 2019 00:00:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Introduction to React - Exercise 1.1</title>
-                <link>https://www.alexsoto.dev/journal/2019-11-18/</link>
-                
-                
-                <description>
-
-&lt;h2 id=&#34;problem-creating-the-total-component&#34;&gt;Problem: Creating the Total component&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;For &lt;a href=&#34;https://fullstackopen.com/en/part1/introduction%5Fto%5Freact#exercises&#34;&gt;exercise 1.1 from Full Stack Open&lt;/a&gt;, I had to refactor code from the App component to three separate components.&lt;/p&gt;
-
-&lt;p&gt;I was able to create the components for Header and Content, I experienced difficulty with the Total component.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Insight:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Received the following error:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Warning: Received NaN for the `children` attribute. If this is expected, cast the value to a string.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I believe this is related to the exercises variables being out of scope, or problems with reading a string and an integer.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tomorrow:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m going to read over this section tomorrow and break down the problem further.&lt;/p&gt;
-
-&lt;h2 id=&#34;code-exercise-1-dot-1&#34;&gt;Code: Exercise 1.1&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;React&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;span class=&#34;k&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;react-dom&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Half Stack application development&amp;#39;&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Fundamentals of React&amp;#39;&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;Using props to pass data&amp;#39;&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;State of a component&amp;#39;&lt;/span&gt;
-    &lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;14&lt;/span&gt;
-
-    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/&amp;gt;&lt;/span&gt;
-        &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Number&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-      &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/div&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Header&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;course&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Content&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
-  &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-    &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;part3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;props&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;exercises3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-    &lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;/p&amp;gt;&lt;/span&gt;
-  &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
-
-&lt;span class=&#34;nx&#34;&gt;ReactDOM&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;render&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;App&lt;/span&gt; &lt;span class=&#34;err&#34;&gt;/&amp;gt;, document.getElementById(&amp;#39;root&amp;#39;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/journal/2019-11-18/</guid>
-                <pubDate>Mon, 18 Nov 2019 00:00:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Chunking</title>
-                <link>https://www.alexsoto.dev/blog/chunking/</link>
-                
-                
-                <description>
-
-&lt;h2 id=&#34;analogy&#34;&gt;Analogy&lt;/h2&gt;
-
-&lt;p&gt;Chunking is like working through a jigsaw puzzle. You start with separate pieces, as you work on the puzzle, you create small clusters of pieces or chunks, which contain more meaning and further help you complete the puzzle.&lt;/p&gt;
-
-&lt;h2 id=&#34;diagram-example&#34;&gt;Diagram/Example&lt;/h2&gt;
-
-
-
-
-&lt;figure&gt;
+  <channel>
+    <title>Alex&#39;s Notes</title>
+    <link>https://alexsoto.dev/notes/</link>
+    <description>Recent content on Alex&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 -0500</lastBuildDate>
     
-        &lt;img src=&#34;https://www.alexsoto.dev/blog/chunking/notes/data/61/d0c903-f320-48ff-924f-7afd92ed2edf/chunking_2019-10-17_10-47-48.png&#34;/&gt; &lt;/figure&gt;
-
-
-&lt;h2 id=&#34;plain-english&#34;&gt;Plain-English&lt;/h2&gt;
-
-&lt;p&gt;Chunking is the process that allows us to connect smaller pieces of information into bigger chunks to help us remember for later.&lt;/p&gt;
-
-&lt;h2 id=&#34;technical&#34;&gt;Technical&lt;/h2&gt;
-
-&lt;p&gt;Chunking is a process by which individual pieces of an information set are broken down and then grouped together. A chunk is a collection of basic familiar units that have been grouped together and stored in a person&amp;rsquo;s memory. These chunks are able to be retrieved more easily due to their coherent familiarity.&lt;/p&gt;
-
-&lt;h2 id=&#34;importance&#34;&gt;Importance&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;underline&#34;&gt;Short-term memory&lt;/span&gt; is where our brain briefly (20-30 seconds) stores new information, before either forgetting it or committing it to the long-term memory.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;span class=&#34;underline&#34;&gt;Long-term memory&lt;/span&gt;, amounts to approximately 7 (+/- 2) slots, newer research suggests that this number is closer to 4 slots.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As we are learning something new, our working memory gets overwhelmed by all the new information and is unable to hold it all in. As a result, we struggle to comprehend.&lt;/p&gt;
-
-&lt;p&gt;As information gets chunked, the same amount of information combined into one chunk occupies only 1 slot in our working and short-term memories, allowing for more information to be held.&lt;/p&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/blog/chunking/</guid>
-                <pubDate>Sun, 17 Nov 2019 10:48:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Learning strategies</title>
-                <link>https://www.alexsoto.dev/blog/learning-strategies/</link>
-                
-                
-                <description>
-
-&lt;p&gt;In my &lt;a href=&#34;https://alexsoto.dev/blog/full-stack-open/&#34;&gt;previous post&lt;/a&gt; I discuss my intention of completing the &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Deep Dive Into Modern Web Development&lt;/a&gt;&amp;rdquo; course with the purpose of starting a progressive journey on becoming a software developer. The primary focus of this post is providing a list of resources and learning strategies that are going to be used.&lt;/p&gt;
-
-&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
-
-&lt;p&gt;Over the years in my experience as being both a teacher and a student I have come across different resources that are related to the field of learning. The learning strategies that I&amp;rsquo;m adopting have been informed by the following sources:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://barbaraoakley.com/books/a-mind-for-numbers/&#34;&gt;A Mind For Numbers: How to Excel at Math and Science&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.petercbrown.com/make%5Fit%5Fstick.php&#34;&gt;Make It Stick: The Science of Successful Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://peakthebook.com/index.html&#34;&gt;Peak: Secrets from the New Science of Expertise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning&#34;&gt;Pragmatic Thinking and Learning: Refactor Your Wetware&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Articles from &lt;a href=&#34;https://betterexplained.com/archives/&#34;&gt;Better Explained&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is not an exhaustive list by any measure, there are plenty of other discussions about the topic, doing a search on Google yielded over 8 billion possible results.&lt;/p&gt;
-
-&lt;p&gt;The list here represents resources that I turn to when I need a refresher and have found works best for me.&lt;/p&gt;
-
-&lt;p&gt;The sources above were chosen for the specific strategies, findings, and thoughts that were presented about learning.&lt;/p&gt;
-
-&lt;h2 id=&#34;strategies&#34;&gt;Strategies&lt;/h2&gt;
-
-&lt;p&gt;What follows is a list of learning strategies and concepts that were presented in the books and articles listed above.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://alexsoto.dev/blog/chunking/&#34;&gt;Chunking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Generation&lt;/li&gt;
-&lt;li&gt;Elaboration&lt;/li&gt;
-&lt;li&gt;Retrieval&lt;/li&gt;
-&lt;li&gt;Reflection&lt;/li&gt;
-&lt;li&gt;Interleaving&lt;/li&gt;
-&lt;li&gt;Calibration&lt;/li&gt;
-&lt;li&gt;Spacing&lt;/li&gt;
-&lt;li&gt;Deliberate Practice&lt;/li&gt;
-&lt;li&gt;ADEPT Method&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In posts to come I will go deeper into each learning strategy and how I&amp;rsquo;m implementing them into an overall learning plan.&lt;/p&gt;
-
-&lt;p&gt;This post will be updated periodically with additional resources and strategies.&lt;/p&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/blog/learning-strategies/</guid>
-                <pubDate>Sat, 16 Nov 2019 10:09:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Deep Dive Into Modern Web Development</title>
-                <link>https://www.alexsoto.dev/blog/full-stack-open/</link>
-                
-                
-                <description>&lt;p&gt;As part of my learning journey to become a software developer, today I&amp;rsquo;m starting the course &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo;. The course is provided by the &lt;a href=&#34;https://courses.helsinki.fi/en/aytkt21009en/130942194&#34;&gt;University of Helsinki&lt;/a&gt; as part of their &lt;a href=&#34;https://www.helsinki.fi/en/open-university/open-university/what-is-the-open-university&#34;&gt;Open University&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.&lt;/p&gt;
-
-&lt;p&gt;The course covers testing, configuration and environment management, and the use of MongoDB for storing the application&amp;rsquo;s data.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As I work through this course, I will be documenting my progress by creating blog posts and videos that summarize what I&amp;rsquo;ve learned.&lt;/p&gt;
-
-&lt;p&gt;In the blog posts that follow I will go over the learning strategies that I&amp;rsquo;ll be incorporating and a deeper look into my learning plan and tools.&lt;/p&gt;
-
-&lt;p&gt;The &amp;ldquo;&lt;a href=&#34;https://fullstackopen.com/en&#34;&gt;Deep Dive into Modern Web Development&lt;/a&gt;&amp;rdquo; course consists of 9 separate parts and  4-5 subparts.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part0&#34;&gt;Part 0: Fundamentals of Web Apps&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: General Info&lt;/li&gt;
-&lt;li&gt;b: Fundamentals of Web apps&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part1&#34;&gt;Part 1: Introduction to React&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: Introduction to React&lt;/li&gt;
-&lt;li&gt;b: Javascript&lt;/li&gt;
-&lt;li&gt;c: Component state, event handlers&lt;/li&gt;
-&lt;li&gt;d: A more complex state, debugging React apps&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part2&#34;&gt;Part 2: Communication with server&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: Rendering a collection, modules&lt;/li&gt;
-&lt;li&gt;b: Forms&lt;/li&gt;
-&lt;li&gt;c: Getting data from server&lt;/li&gt;
-&lt;li&gt;d: Altering data in server&lt;/li&gt;
-&lt;li&gt;e: Adding styles to React app&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part3&#34;&gt;Part 3: Programming a server with NodeJS and Express&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: Node.js and Express&lt;/li&gt;
-&lt;li&gt;b: Deploying app to internet&lt;/li&gt;
-&lt;li&gt;c: Saving data to MongoDB&lt;/li&gt;
-&lt;li&gt;d: Validation and ESLint&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part4&#34;&gt;Part 4: Testing Express servers, user administration&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: Structure of backend application, introduction to testing&lt;/li&gt;
-&lt;li&gt;b: Testing the backend&lt;/li&gt;
-&lt;li&gt;c: User administration&lt;/li&gt;
-&lt;li&gt;d: Token authentication&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part5&#34;&gt;Part 5: Testing React apps, custom hooks&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: Login in frontend&lt;/li&gt;
-&lt;li&gt;b: props.children and proptypes&lt;/li&gt;
-&lt;li&gt;c: Testing React apps&lt;/li&gt;
-&lt;li&gt;d: Custom hooks&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part6&#34;&gt;Part 6: Statement management with Redux&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: Flux-architecture and Redux&lt;/li&gt;
-&lt;li&gt;b: Many reducers, connect&lt;/li&gt;
-&lt;li&gt;c: Communicating with server in redux application&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part7&#34;&gt;Part 7: React router, styling app with CSS and webpack&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: React router&lt;/li&gt;
-&lt;li&gt;b: More about styles&lt;/li&gt;
-&lt;li&gt;c: Webpack&lt;/li&gt;
-&lt;li&gt;d: Class components, E2E-testing&lt;/li&gt;
-&lt;li&gt;e: Miscellaneous&lt;/li&gt;
-&lt;li&gt;f: Exercises: extending the bloglist&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fullstackopen.com/en/part8&#34;&gt;Part 8: GraphQL&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a: GraphQL-server&lt;/li&gt;
-&lt;li&gt;b: React and GraphQL&lt;/li&gt;
-&lt;li&gt;c: Database and user administration&lt;/li&gt;
-&lt;li&gt;d: Login and updating the cache&lt;/li&gt;
-&lt;li&gt;e: Fragments and subscriptions&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/blog/full-stack-open/</guid>
-                <pubDate>Fri, 15 Nov 2019 13:45:00 -0500</pubDate>
-            </item>
-        
-            
-            <item>
-                <title>Hello World</title>
-                <link>https://www.alexsoto.dev/blog/hello-world/</link>
-                
-                
-                <description>&lt;p&gt;Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here… a blog in 2019? Bueno, mejor que nada… This post is titled ‘Hello World’, it symbolizes the first step we take to attempt to communicate with someone or something else while being simultaneously born into a new digital world of our creation.&lt;/p&gt;
-
-&lt;p&gt;I want you to step into my world and I’ll take you with me on this
-journey of becoming a software developer. The process of becoming a software developer is like attaining a new ability, to be able to see the world through a computational lens, the opportunity to creatively solve problems and to contribute, create and share knowledge with others.&lt;/p&gt;
-
-&lt;p&gt;This blog, this world that’s being created will serve as a repository about what I’m currently learning. I intend to share what I’ve learned with others by creating content that’s accessible to a wider audience. As someone who in the past has been deeply involved with community-building as a former community organizer, teacher, and mentor, I seek to bridge technology and social justice. I expect this journey to be filled with moments of joy, tears, and frustration… Pa’lante!&lt;/p&gt;
-</description>
-                
-                        <author>Alexander.Soto@fakeEmailToMakeValidatorHappy.com (Alexander Soto)</author>
-                
-                     
-                        
-                     
-                        
-                     
-                        
-                    
-                
-                <guid>https://www.alexsoto.dev/blog/hello-world/</guid>
-                <pubDate>Thu, 14 Nov 2019 00:00:00 -0500</pubDate>
-            </item>
-        
-    </channel>
+	<atom:link href="https://alexsoto.dev/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big data lessons from our cybernetic past</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1826-big-data-lessons-from-our-cybernetic-past/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1826-big-data-lessons-from-our-cybernetic-past/</guid>
+      <description> Related External Links  &amp;ldquo;Big Data Lessons from Our Cybernetic Past&amp;rdquo; - Eden Medina (Strata + Hadoop 20&amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>Buttons</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1727-buttons/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1727-buttons/</guid>
+      <description>Buttons and Smart Keys  Each button performs a specific action, linking to a file, executing a shell command.
+ Explicit Buttons accessible from within a single document;
+ Global Buttons accessible anywhere within a user&amp;rsquo;s network of documents;
+ Implicit Buttons buttons created and managed by other programs or embedded within the structure of a document, accessible from within a single document. Hyperbole recognizes implicit buttons by contextual patterns given in their type specifications.</description>
+    </item>
+    
+    <item>
+      <title>Collecting Data</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1737-collecting-data/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1737-collecting-data/</guid>
+      <description> Do you really need to collect that data? The less data you have the less vulnerable you and your customers are especially if database is compromised.
+If you need to collect data, get value from the data results and then dump the data.
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1817-computer-science/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1817-computer-science/</guid>
+      <description> Related External Links  Computer Science - Everything I know Introduction to Theoretical Computer Science: index A Self-Learning, Modern Computer Science Curriculum  </description>
+    </item>
+    
+    <item>
+      <title>Connectivism</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1716-connectivism/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1716-connectivism/</guid>
+      <description>Learning does not simply happen within an individual, but within and across the networks. Connectivism sees knowledge as a network and learning as a process of pattern recognition.
+Related External Links Connectivism - Wikipedia</description>
+    </item>
+    
+    <item>
+      <title>Flow</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1715-flow/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1715-flow/</guid>
+      <description> A good structure enables flow, the state in which you get so completely immersed in your work that you lose track of time and can just keep going as the work becomes effortless.
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>From fragmented notes to structured</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1725-from-fragmented-notes-to-structured/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1725-from-fragmented-notes-to-structured/</guid>
+      <description>I create notes primarily in two ways.
+ Using an org-capture template that captures the note as a subheading and gets refiled to inbox.org which would then get reviewed and may become a note on my system if it has value.
+ I create a new note file skipping going to the inbox.
+  Once a note is created and or converted to a file it exists in my Zettelkasten system.</description>
+    </item>
+    
+    <item>
+      <title>HyControl</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1723-hycontrol/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1723-hycontrol/</guid>
+      <description> An Emacs Window and frame management system. You can interactively adjust layout of windows and frames to the pixel level and also lay out large grids of windows.
+Hycontrol is binded to C-c \
+Related  §2019-12-25-1727 buttons §2019-12-24-1215 hyperbole §2019-12-25-1723 hycontrol  External Links </description>
+    </item>
+    
+    <item>
+      <title>Hyperbole use cases</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1732-hyperbole-use-cases/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1732-hyperbole-use-cases/</guid>
+      <description>Typical Hyperbole applications include:
+Personal Information Management Overlapping link paths provide a variety of views into an information space. A single key press activates buttons regardless of their types, making navigation easy.
+A search facility locates buttons in context and permits quick selection.
+Documentation Browsing Embedding cross-references in a favorite documentation format.
+Addition of a point-and-click interface to existing documentation.
+Linkage of code and design documents. Jumping to the definition of an identifier from its use within code or its reference within documentation.</description>
+    </item>
+    
+    <item>
+      <title>Knowledge</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1941-knowledge/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1941-knowledge/</guid>
+      <description> Related External Links  GitHub - RichardLitt/meta-knowledge: 💡 A list of knowledge repositories  </description>
+    </item>
+    
+    <item>
+      <title>Lisp</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1821-lisp/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1821-lisp/</guid>
+      <description> Related External Links  It is not hard to read Lisp code | Yoo Box GitHub - norvig/paip-lisp: Lisp code for the textbook &amp;ldquo;Paradigms of Artificia&amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>List of workercenters</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1718-list-of-workercenters/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1718-list-of-workercenters/</guid>
+      <description> List of Workercenters in Massachusetts
+Worker Centers
+Brazilian Women’s Group Brazilian Worker Center Brockton Workers’ Alliance Centro Comunitario de Trabajadores Chelsea Collaborative Chinese Progressive Association Fuerza Laboral MassCOSH Immigrant Worker Center Matahari Women’s Worker Center Pioneer Valley Workers’ Center Restaurant Opportunities Center (ROC) Boston
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Not invented here</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1747-not-invented-here/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1747-not-invented-here/</guid>
+      <description>Not invented here (NIH) is a stance adopted by social, corporate, or institutional cultures that avoids using or buying already existing products, research, standards, or knowledge because of their external origins and costs, such as royalties. Research illustrates a strong bias against ideas from the outside.[1]
+The reasons for not wanting to use the work of others are varied, but some can include a desire to support a local economy instead of paying royalties to a foreign license-holder, fear of patent infringement, lack of understanding of the foreign work, an unwillingness to acknowledge or value the work of others, jealousy, belief perseverance, or forming part of a wider turf war.</description>
+    </item>
+    
+    <item>
+      <title>Passwords</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1737-passwords/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1737-passwords/</guid>
+      <description> Passwords below 30 characters long can be broken. Create passwords that are 30 or 40+ characters long. Every additional character increases the magnitude by one. 36 possibilities for each character when taking into consideration the english alphanbet and digits.
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1824-python/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1824-python/</guid>
+      <description> Related External Links  Python Programming Language - GeeksforGeeks  </description>
+    </item>
+    
+    <item>
+      <title>Racket</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1853-racket/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1853-racket/</guid>
+      <description> Related External Links  Ways you can use Racket at work · racket/racket Wiki · GitHub Beautiful Racket: Resources Beautiful Racket: Domain-specific languages Beautiful Racket: Master recipe Beautiful Racket: Why language-oriented programming? Why Racket?  </description>
+    </item>
+    
+    <item>
+      <title>Thoughts on note creation for personal system</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1731-thoughts-on-note-creation-for-personal-system/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1731-thoughts-on-note-creation-for-personal-system/</guid>
+      <description> When notes are created they need to be reviewed, there is no easy way to review a note so I think rather than creating multiple files that may be empty I may initially create the note as a subtree, once it&amp;rsquo;s capture i determine if it&amp;rsquo;s worthwile expanding to when it then becomes a file.
+The file that is created should also add the relationship with org-brain
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Threat Modeling</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1736-threat-modeling/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1736-threat-modeling/</guid>
+      <description>  What data do you have to protect? Identify where we are vulnerable From who do you have to protect data from What harm results if data leaked? What are the steps to take to protect?  Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Wage Theft Workshop</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1720-wage-theft-workshop/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1720-wage-theft-workshop/</guid>
+      <description>The focus of this workshop is to show how wage theft occurs in our communities and to provide a social and digital context to understand this process through gamification and using workers&amp;rsquo; stories.
+ In a floor or a table a large piece of paper will be the playcenter or the community of focus. Index cards will be labeled with different symbols that represent different forms of communication, places, and workers&amp;rsquo; stories.</description>
+    </item>
+    
+    <item>
+      <title>Wage theft application - modularity</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1718-wage-theft-application-modularity/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1718-wage-theft-application-modularity/</guid>
+      <description> The design of the wagetheft application should be design in a way that it allows modules to be created for it, a module for: location, text messages, phone log, etc
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>What are worker centers?</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1738-what-are-worker-centers/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1738-what-are-worker-centers/</guid>
+      <description>Worker centers are community-based mediating institutions that provide support to and organize among communities of low-wage workers. Most centers focus their work geographically, operating in a particular city or neighborhood.
+Worker centers in general have emerged in response to the decline of institutions that historically povided workers with a vehcicle for collective action. Immigrant worker centers have emerged as a consequence of the explosive growth of immigrant communities and the absence of infrastucture to support their needs.</description>
+    </item>
+    
+    <item>
+      <title>emacs-lisp</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1851-emacs-lisp/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1851-emacs-lisp/</guid>
+      <description> Related External Links  elisp-guide/README.md at master · chrisdone/elisp-guide · GitHub  </description>
+    </item>
+    
+    <item>
+      <title>Anderson v. Mt Clemens Pottery</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2005-anderson-v-mt-clemens-pottery/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2005-anderson-v-mt-clemens-pottery/</guid>
+      <description>In 1946 - U.S Supreme Court Case - Anderson Vs. Mt.Clemens Pottery, enabled workers themselves to be the source of reliable evidence in wage cases.
+Testimony must be reasonable for workers to testify about hours worked and pay received. Workers testimony is not sufficient due to faulty memory and inconsistencies.
+Mt. Clemens Pottery, &amp;ldquo;sufficient evidence to show the amount and text of [damages] as a matter of just and reasonable inference.</description>
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2017-attention/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2017-attention/</guid>
+      <description> Attention is the process of selectively concentrating on a discrete aspect of information, while ignoring other information. The process of paying attention to something takes away its power.
+Areas of research are:
+ determining what signals or cues generate attention the effect of sensory cues and signals on sensory neurons how it&amp;rsquo;s related to other cognitive processes like working memory.  Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Building a second brain</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2008-building-a-second-brain/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2008-building-a-second-brain/</guid>
+      <description>  GTD: Capture, track, and spread tasks across projects Progressive Summarizing: Make past research easy to pick up and add value to in small chunks over time P.A.R.A (Projects, Areas, Reference, Archive): Store notes over the long term, in simple categories designed to surface them when most actionable Just-In-Time Project Management: Create the conditions for rapidly executing and delivering projects using existing assets.  Related  §2019-12-24-1216 org-mode §2019-12-24-1216 zettelkasten §2019-12-24-1916 information-management  External Links </description>
+    </item>
+    
+    <item>
+      <title>Cognition</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1944-cognition/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1944-cognition/</guid>
+      <description> Cognition is embodied and situated. We use our bodies to directly interact with the environment. We offload our cognitive processing onto our environment. Associating information to be memorized with specific locations.
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Criteria for Zettelkasten</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2024-criteria-for-zettelkasten/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2024-criteria-for-zettelkasten/</guid>
+      <description> Note retrieval: how fast and easy is full-text search? Note creation: does it take many clicks or keystrokes to create a new Zettel note? Note connections: which mechanisms does the app support to create connections? Data export: how does the application manage to get everything out without losing information? How does it manage to get stuff in?
+Related  §2019-12-24-1216 zettelkasten  External Links </description>
+    </item>
+    
+    <item>
+      <title>Design of wage theft application</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2034-design-of-wage-theft-application/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2034-design-of-wage-theft-application/</guid>
+      <description>The application consists of two parts:
+Worker inputting current information  hours worked employer information working with workercenter alert messages  Retrieval of past information/history  phone logs location pictures videos  The first part focuses on the worker registering with a workercenter and maintaining and developing a relationship with them.
+The second part focuses on building a log / timeline that can be used in court to to corroborate a workers story.</description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1216-emacs/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1216-emacs/</guid>
+      <description>Related  §2019-12-24-1215 hyperbole §2019-12-24-1216 org-mode  External Links  Read Lisp, Tweak Emacs: How to read Emacs Lisp so that you can customize Emacs UOMF: Advanced Usage of Dependencies Between Tasks Using Org Mode GitHub - Silex/elmacro: Package to display keyboard macros or latest interact&amp;hellip; Debugging Emacs or: How I Learned to Stop Worrying and Love DTrace « null pro&amp;hellip; Problem Solving with Algorithms and Data Structures using Python — Problem So&amp;hellip; http://runestoneinteractive.</description>
+    </item>
+    
+    <item>
+      <title>Happiness</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2019-happiness/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2019-happiness/</guid>
+      <description> The default state of the human mind is happiness, 80% of happiness is just paying attention.
+Every single thing you add merely obscures what is already there.
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Hyperbole</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1215-hyperbole/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1215-hyperbole/</guid>
+      <description>Hyperbole Hyperbole is an efficient, programmable hypertextual information management system.
+Hyperbole does not enforce any specific information management model rather allows you to organize information how you see fit.
+Includes:
+ Hypertextual buttons Hierarchical, record based contact maanger rapid window and frame control system multi-level auto-numbered outliner Hypertext buttons can be embedded within files and other types. Offers Keyboard and mouse-based control of information with multiple windows Has point and click access to URLS, manuals archives etc  Hyperbole consists of five parts:</description>
+    </item>
+    
+    <item>
+      <title>Information Management</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1916-information-management/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1916-information-management/</guid>
+      <description> Related  §2019-12-24-1216 zettelkasten §2019-12-24-1215 hyperbole  External Links </description>
+    </item>
+    
+    <item>
+      <title>Information in the court system</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2007-information-in-the-court-system/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2007-information-in-the-court-system/</guid>
+      <description>  What location related information must an advocate disclose? How to introduce location records? Whom should an advocate bring into the case to support introducing the evidence. How can we use technology as a tool to increase the capacity of community based organizations to address low-wage worker&amp;rsquo;s issues surrounding wage theft, health/safety and workplace violations?  Related  §2019-12-24-2002 location-history-analyzer §2019-12-24-2005 anderson-v-mt-clemens-pottery  External Links </description>
+    </item>
+    
+    <item>
+      <title>Inmates and communication</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2030-inmates-and-communication/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2030-inmates-and-communication/</guid>
+      <description> Background: People who are detained want to call to call home, friends or family but the prices of the phone call is prohibitive, due to corporations.
+Problem Statement: How might we create an application or a way for inmates to call to the outside without having to pay the high fees?
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Jornalera</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2014-jornalera/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2014-jornalera/</guid>
+      <description>Journaler@ is a data collection and organizing tool to combat and prevent wage theft and workplace violations.
+The project&amp;rsquo;s long term goal is to enable stakeholders to increase the capacity of community based organizations to address low-wage workers&amp;rsquo; issues.
+The development of the Jornaler@ app began with the work of social practice artist Sol Aramendi and workers and leaders at the New Immigrant Community Empowerment (NICE), affiliate of NDLON.</description>
+    </item>
+    
+    <item>
+      <title>Location History Analyzer</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2002-location-history-analyzer/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2002-location-history-analyzer/</guid>
+      <description>The Location History Analyzer uses an android smartphone to turn location history into usable evidence
+The community legal services of Philidelphia, with Hack4Impact, created a web based tool to turn cell phone location history into evidence.
+Transform raw data to an exhibit that summarizes a person&amp;rsquo;s time on the job.
+A worker&amp;rsquo;s schedule can vary and contributes to lack of information to hours worked.
+A Cell phone is effectively a tracking device that you have decided to wear.</description>
+    </item>
+    
+    <item>
+      <title>Org Mode</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1216-org-mode/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1216-org-mode/</guid>
+      <description> Related  §2019-12-24-1216 emacs  External Links </description>
+    </item>
+    
+    <item>
+      <title>Rapid Response Application</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2026-rapid-response-application/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2026-rapid-response-application/</guid>
+      <description> Problem statement: How might we better create an application where when a member of the community needs help other people are pinged
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Smart Working Environments</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2038-smart-working-environments/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2038-smart-working-environments/</guid>
+      <description> Studies on highly successful people have proven again and again that success is not the result of strong willpower and the ability to overcome resistance but start working environments that avoid resistance.
+Related  §2019-12-24-1945 stigmergy  External Links </description>
+    </item>
+    
+    <item>
+      <title>Stigmergy</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1945-stigmergy/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1945-stigmergy/</guid>
+      <description>Stigmergy is a form of self-organization, a mechanism of indirect coordination, through the environment between agents or actions. The main idea is that an action leaves a trace in the environment and it stimulates a next action to occur by a different agent that when occurring subsequently seems like a systematic activity.
+One of the benefits of stigmergy is that it produces what appears to be intelligent structures without planning, control or communication between agents and promotes efficient collaboration between agents who lack memory, intelligence or awareness of each other.</description>
+    </item>
+    
+    <item>
+      <title>Wage Theft - Consequences</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2021-wage-theft-consequences/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2021-wage-theft-consequences/</guid>
+      <description> According to a report from the Economic Policy Institute, it&amp;rsquo;s estimated that low-wage workers in the U.S lost more than $50 billion to all forms of wage theft in 2016. The disproportionate share of wage theft victims are people of color, women, immigrants, young-people, workers from modest-income households non-unionized workers, and workers who do not have a bachelor&amp;rsquo;s degree.
+Related  §2019-12-24-2007 information-in-the-court-system §2019-12-24-2005 anderson-v-mt-clemens-pottery §2019-12-24-2014 jornalera §2019-12-24-2011 what-is-wage-theft  External Links </description>
+    </item>
+    
+    <item>
+      <title>Wage theft and lack of information</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2022-wage-theft-and-lack-of-information/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2022-wage-theft-and-lack-of-information/</guid>
+      <description>One of the major sources of problem is: lack of information. If workers do not not know how many hours they worked in a given week, the worker cannot figure out whether they are being paid properly.
+If a worker cannot testify in court to approximate hours in a given week, they cannot prove liability or damages. A worker&amp;rsquo;s schedule can vary and contributes to lack of information to hours worked.</description>
+    </item>
+    
+    <item>
+      <title>What is wage theft?</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2011-what-is-wage-theft/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2011-what-is-wage-theft/</guid>
+      <description> Wage theft is the failure to pay workers the full wages to which they are legally entitled. Examples include:
+ Minimum wage violations: Paying workers less than the legal minimum wage Overtime violations: Failing to pay nonexempt employees time and a half for hours worked in excess of 40 hours per week Off-the-clock violations: Asking employees to work off the clock before or after their shifts Meal break violations: Denying workers their legal meal breaks Illegal deductions: Taking illegal deductions from wages Tipped minimum wage violations: Confiscating tips from workers, or failing to pay tipped workers the difference between their tips and the legal minimum wage Employee misclassification violations: Misclassifying employees as independent contractors to pay a wage lower than the legal minimum or avoid paying overtime  Related  §2019-12-24-2014 jornalera §2019-12-24-2002 location-history-analyzer §2019-12-24-2007 information-in-the-court-system §2019-12-24-2005 anderson-v-mt-clemens-pottery  External Links </description>
+    </item>
+    
+    <item>
+      <title>Worker Timeline</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2034-worker-timeline/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2034-worker-timeline/</guid>
+      <description> There exist different sources of information that can be collected from a phone in order to build/illustrate that narrative that&amp;rsquo;s being created.
+ Location history Images Videos  Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Zettelkasten</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1216-zettelkasten/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1216-zettelkasten/</guid>
+      <description>Zettelkasten is a system, that is a toolkit and an application of a method.
+The Zettelkasten method consists of:
+ Collect Process Cross-Reference and Use.  There are three parts to a Zettelkasten:
+ Inbox: fleeting notes Archive: the trusted place to look for information Reference Database: interface to the outside world  When you are using the Zettelkasten tookit, you are creating a communication system, an external intelligence, between you and the Zettelkasten.</description>
+    </item>
+    
+  </channel>
 </rss>
-
-

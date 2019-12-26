@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyperbole on Alex&#39;s Notes</title>
+    <link>https://alexsoto.dev/notes/tags/hyperbole/</link>
+    <description>Recent content in Hyperbole on Alex&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://alexsoto.dev/notes/tags/hyperbole/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Buttons</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1727-buttons/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1727-buttons/</guid>
+      <description>Buttons and Smart Keys  Each button performs a specific action, linking to a file, executing a shell command.
+ Explicit Buttons accessible from within a single document;
+ Global Buttons accessible anywhere within a user&amp;rsquo;s network of documents;
+ Implicit Buttons buttons created and managed by other programs or embedded within the structure of a document, accessible from within a single document. Hyperbole recognizes implicit buttons by contextual patterns given in their type specifications.</description>
+    </item>
+    
+    <item>
+      <title>HyControl</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1723-hycontrol/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1723-hycontrol/</guid>
+      <description> An Emacs Window and frame management system. You can interactively adjust layout of windows and frames to the pixel level and also lay out large grids of windows.
+Hycontrol is binded to C-c \
+Related  §2019-12-25-1727 buttons §2019-12-24-1215 hyperbole §2019-12-25-1723 hycontrol  External Links </description>
+    </item>
+    
+    <item>
+      <title>Hyperbole use cases</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1732-hyperbole-use-cases/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1732-hyperbole-use-cases/</guid>
+      <description>Typical Hyperbole applications include:
+Personal Information Management Overlapping link paths provide a variety of views into an information space. A single key press activates buttons regardless of their types, making navigation easy.
+A search facility locates buttons in context and permits quick selection.
+Documentation Browsing Embedding cross-references in a favorite documentation format.
+Addition of a point-and-click interface to existing documentation.
+Linkage of code and design documents. Jumping to the definition of an identifier from its use within code or its reference within documentation.</description>
+    </item>
+    
+    <item>
+      <title>Hyperbole</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1215-hyperbole/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1215-hyperbole/</guid>
+      <description>Hyperbole Hyperbole is an efficient, programmable hypertextual information management system.
+Hyperbole does not enforce any specific information management model rather allows you to organize information how you see fit.
+Includes:
+ Hypertextual buttons Hierarchical, record based contact maanger rapid window and frame control system multi-level auto-numbered outliner Hypertext buttons can be embedded within files and other types. Offers Keyboard and mouse-based control of information with multiple windows Has point and click access to URLS, manuals archives etc  Hyperbole consists of five parts:</description>
+    </item>
+    
+    <item>
+      <title>Hyperbole</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-1215-hyperbole/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-1215-hyperbole/</guid>
+      <description>Hyperbole Hyperbole is an efficient, programmable hypertextual information management system.
+Hyperbole does not enforce any specific information management model rather allows you to organize information how you see fit.
+Includes:
+ Hypertextual buttons Hierarchical, record based contact maanger rapid window and frame control system multi-level auto-numbered outliner Hypertext buttons can be embedded within files and other types. Offers Keyboard and mouse-based control of information with multiple windows Has point and click access to URLS, manuals archives etc  Hyperbole consists of five parts:</description>
+    </item>
+    
+  </channel>
+</rss>
