@@ -1,669 +1,634 @@
-<!doctype html>
-<html lang="en">
-<head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta content='text/html; charset=utf-8' http-equiv='content-type' />
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
 
-  <title>Alex&#39;s Notes</title>
-  <meta content='Alex&#39;s Notes' property='title' />
-  <meta content='Alex&#39;s Notes' property='og:title' />
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+    
+    
+    
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
+
+    
+    <meta name="referrer" content="no-referrer">
+
+    <title>
+        
+            Alexander Soto
+        
+    </title>
+
+    
+    
 
 
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://alexsoto.dev/notes/" />
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+    <style>
+     
+     
+     :root {
+         --theme-color: #6a9fb5;
+         --theme-color-light: rgba(106, 159, 181, 0.2);
+     }
+     
+     html {
+         line-height: 1.5;
+     }
+    </style>
+
+    
+    
+
+    
+    
+    
+    
+    <link rel="stylesheet" href="/css/refined.min.f4a9113662b2dc0d367fedff7b2b7205d12bae8c4d4dee27b635d7993414b129.css">
+    
+    <link rel="preload" href="/css/refined.min.f4a9113662b2dc0d367fedff7b2b7205d12bae8c4d4dee27b635d7993414b129.css" as="style">
+
+    
 
 
-<meta property="og:updated_time" content="2019-12-25T00:00:00-05:00"/>
 
+    
+        <style>
+         
+         /* Background */ .chroma { background-color: #ffffff }
+/* Error */ .chroma .err { color: #a61717; background-color: #e3d2d2 }
+/* LineTableTD */ .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+/* LineTable */ .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
+/* LineHighlight */ .chroma .hl { display: block; width: 100%;background-color: #ffffcc }
+/* LineNumbersTable */ .chroma .lnt { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+/* LineNumbers */ .chroma .ln { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+/* Keyword */ .chroma .k { color: #000000; font-weight: bold }
+/* KeywordConstant */ .chroma .kc { color: #000000; font-weight: bold }
+/* KeywordDeclaration */ .chroma .kd { color: #000000; font-weight: bold }
+/* KeywordNamespace */ .chroma .kn { color: #000000; font-weight: bold }
+/* KeywordPseudo */ .chroma .kp { color: #000000; font-weight: bold }
+/* KeywordReserved */ .chroma .kr { color: #000000; font-weight: bold }
+/* KeywordType */ .chroma .kt { color: #445588; font-weight: bold }
+/* NameAttribute */ .chroma .na { color: #008080 }
+/* NameBuiltin */ .chroma .nb { color: #0086b3 }
+/* NameBuiltinPseudo */ .chroma .bp { color: #999999 }
+/* NameClass */ .chroma .nc { color: #445588; font-weight: bold }
+/* NameConstant */ .chroma .no { color: #008080 }
+/* NameDecorator */ .chroma .nd { color: #3c5d5d; font-weight: bold }
+/* NameEntity */ .chroma .ni { color: #800080 }
+/* NameException */ .chroma .ne { color: #990000; font-weight: bold }
+/* NameFunction */ .chroma .nf { color: #990000; font-weight: bold }
+/* NameLabel */ .chroma .nl { color: #990000; font-weight: bold }
+/* NameNamespace */ .chroma .nn { color: #555555 }
+/* NameTag */ .chroma .nt { color: #000080 }
+/* NameVariable */ .chroma .nv { color: #008080 }
+/* NameVariableClass */ .chroma .vc { color: #008080 }
+/* NameVariableGlobal */ .chroma .vg { color: #008080 }
+/* NameVariableInstance */ .chroma .vi { color: #008080 }
+/* LiteralString */ .chroma .s { color: #dd1144 }
+/* LiteralStringAffix */ .chroma .sa { color: #dd1144 }
+/* LiteralStringBacktick */ .chroma .sb { color: #dd1144 }
+/* LiteralStringChar */ .chroma .sc { color: #dd1144 }
+/* LiteralStringDelimiter */ .chroma .dl { color: #dd1144 }
+/* LiteralStringDoc */ .chroma .sd { color: #dd1144 }
+/* LiteralStringDouble */ .chroma .s2 { color: #dd1144 }
+/* LiteralStringEscape */ .chroma .se { color: #dd1144 }
+/* LiteralStringHeredoc */ .chroma .sh { color: #dd1144 }
+/* LiteralStringInterpol */ .chroma .si { color: #dd1144 }
+/* LiteralStringOther */ .chroma .sx { color: #dd1144 }
+/* LiteralStringRegex */ .chroma .sr { color: #009926 }
+/* LiteralStringSingle */ .chroma .s1 { color: #dd1144 }
+/* LiteralStringSymbol */ .chroma .ss { color: #990073 }
+/* LiteralNumber */ .chroma .m { color: #009999 }
+/* LiteralNumberBin */ .chroma .mb { color: #009999 }
+/* LiteralNumberFloat */ .chroma .mf { color: #009999 }
+/* LiteralNumberHex */ .chroma .mh { color: #009999 }
+/* LiteralNumberInteger */ .chroma .mi { color: #009999 }
+/* LiteralNumberIntegerLong */ .chroma .il { color: #009999 }
+/* LiteralNumberOct */ .chroma .mo { color: #009999 }
+/* Operator */ .chroma .o { color: #000000; font-weight: bold }
+/* OperatorWord */ .chroma .ow { color: #000000; font-weight: bold }
+/* Comment */ .chroma .c { color: #999988; font-style: italic }
+/* CommentHashbang */ .chroma .ch { color: #999988; font-style: italic }
+/* CommentMultiline */ .chroma .cm { color: #999988; font-style: italic }
+/* CommentSingle */ .chroma .c1 { color: #999988; font-style: italic }
+/* CommentSpecial */ .chroma .cs { color: #999999; font-weight: bold; font-style: italic }
+/* CommentPreproc */ .chroma .cp { color: #999999; font-weight: bold; font-style: italic }
+/* CommentPreprocFile */ .chroma .cpf { color: #999999; font-weight: bold; font-style: italic }
+/* GenericDeleted */ .chroma .gd { color: #000000; background-color: #ffdddd }
+/* GenericEmph */ .chroma .ge { color: #000000; font-style: italic }
+/* GenericError */ .chroma .gr { color: #aa0000 }
+/* GenericHeading */ .chroma .gh { color: #999999 }
+/* GenericInserted */ .chroma .gi { color: #000000; background-color: #ddffdd }
+/* GenericOutput */ .chroma .go { color: #888888 }
+/* GenericPrompt */ .chroma .gp { color: #555555 }
+/* GenericStrong */ .chroma .gs { font-weight: bold }
+/* GenericSubheading */ .chroma .gu { color: #aaaaaa }
+/* GenericTraceback */ .chroma .gt { color: #aa0000 }
+/* GenericUnderline */ .chroma .gl { text-decoration: underline }
+/* TextWhitespace */ .chroma .w { color: #bbbbbb }
 
-
-
-
-
-
-<meta name="generator" content="Hugo 0.54.0" />
-
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet">
-<style type="text/css">/*https://coolors.co/afd5aa-f0f2ef-a69f98-3d3d3d-8c6057*/
-:root {
-  --main-color: #6A9FB5; 
-  --secondary-color: #AFD5AA;
-  --logo-text-color: #fff;
-  --body-text-color: #3d3d3d;
-  --heading-text-color: #383838;
-  --background-color: #fff;
+         
+         /* Overrides on top of the theme and Chroma CSS */
+/* Chroma-based lines highlighting in code blocks */
+.chroma .hl {
+    background-color: #e8e8e8;
+    /* Extend highlight up to 100 characters (assuming that the code blocks never have more than 100 characters in a line) */
+    min-width: 100ch;
 }
-</style>
-<link href='/notes/css/tachyons.min.css' rel="stylesheet">
-<link href='/notes/css/styles.css' rel="stylesheet">
+/* GenericHeading */ .chroma .gh { color: #999999; font-weight: bold }
+/* GenericSubheading */ .chroma .gu { color: #aaaaaa; font-weight: bold }
+
+         
+        </style>
+    
+
+    
+
+    
+    
+    
+
+    
+    <script src="/js/responsive-nav-orig.min.355eebd835ac8071d56b337f68ffbbddc0f6487625599895e3e0b0461e791ebb.js"></script>
+    
+    <link rel="preload" href="/js/responsive-nav-orig.min.355eebd835ac8071d56b337f68ffbbddc0f6487625599895e3e0b0461e791ebb.js" as="script">
+
+    
+    
+    <script defer src="/js/libs/fa/fontawesome-all.min.78bd3583027f40ce4330d39e1f1df56bda5f4af819aac2d0214ba529918c9e95.js"></script>
+    
+    <link rel="preload" href="/js/libs/fa/fontawesome-all.min.78bd3583027f40ce4330d39e1f1df56bda5f4af819aac2d0214ba529918c9e95.js" as="script">
+
+    
+
+    
+    
+    
+
+    
+    
+<!-- rel="me" links for IndieAuth -->
+
+<link href="https://github.com/dynamicmetaflow/" rel="me">
 
 
-<link rel="icon" 
+    
+    
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth" data-proofer-ignore>
+    
+    
+    <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+
+
+
+
+    
  
-  href='/notes/favicon.ico'
+<meta property="og:title" content="Alexander Soto" />
+<meta property="og:description"
+      content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.alexsoto.dev/" />
 
-type="image/x-icon"/>
 
-<link href='/notes/feed.xml' rel="alternate" type="application/atom+xml" title="Alex&#39;s Notes" />
+    
+        <meta property="og:updated_time" content="2019-11-19T00:00:00-05:00"/>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Alexander Soto"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@dynamicmetaflow"/>
+    <meta name="twitter:creator" content="@dynamicmetaflow"/>
+
+
+    
+    
+    <link rel="alternate" type="application/rss+xml" href="https://www.alexsoto.dev/index.xml" title="RSS for Alexander Soto" />
+    <link rel="alternate" type="application/atom+xml" href="https://www.alexsoto.dev/atom.xml" title="Atom for Alexander Soto" />
+    <link rel="alternate" type="application/jf2feed+json" href="https://www.alexsoto.dev/jf2feed.json" title="Jf2feed for Alexander Soto" />
+    
+     
+
+
+     
+
+
+
+
+     
+        
+        <meta name="DC.Creator" content="Alexander Soto"/>
+    
+
+
+
+    
+    
+    
+    <meta name="hugo-build-date" content="2019-06-04T19:16:36Z"/>
+    <meta name="hugo-commit-hash" content=""/>
+    <meta name="generator" content="Hugo 0.54.0" />
 </head>
-<body class="global-font">
-  <nav class=" justify-between border-box pa3 pl3-l pr2-l mt1 mt0-ns" id="navbar">
-  <div class="flex">
-    <a class="f4 fw6 ttu no-underline dim bg-main-color pv1 ph2 br2" id="site-title" href='/notes/' title="Home">Alex&#39;s Notes</a>
-  </div>
-  
+
+
+    <body lang="en">
+
+        
+        <div class="border" id="home"></div>
+
+        <div class="wrapper">   
+            
+<nav id="nav" class="nav-collapse opened" aria-hidden="false">
+    <ul class="navbar">
+        <li><a class="active" href="/">Home</a></li>
+        
+            
+                <li><a class="" href="https://www.alexsoto.dev/blog/">Blog</a></li>
+            
+        
+            
+                <li><a class="" href="https://www.alexsoto.dev/journal/">Journal</a></li>
+            
+        
+            
+                <li><a class="" href="https://www.alexsoto.dev/about/">About</a></li>
+            
+        
+        
+    </ul>
 </nav>
-  
-<main class="center mv4 content-width ph3">
-  <p class="i"></p>
-  <hr/>
-  <ul class="list pa0">
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1826-big-data-lessons-from-our-cybernetic-past/">Big data lessons from our cybernetic past</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1727-buttons/">Buttons</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/hyperbole' class="link silver">hyperbole</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1737-collecting-data/">Collecting Data</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1817-computer-science/">Computer Science</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1716-connectivism/">Connectivism</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/learning' class="link silver">learning</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1715-flow/">Flow</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1725-from-fragmented-notes-to-structured/">From fragmented notes to structured</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/pkm' class="link silver">pkm</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1723-hycontrol/">HyControl</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/hyperbole' class="link silver">hyperbole</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1732-hyperbole-use-cases/">Hyperbole use cases</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/hyperbole' class="link silver">hyperbole</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1941-knowledge/">Knowledge</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/knowledge' class="link silver">knowledge</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1821-lisp/">Lisp</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1718-list-of-workercenters/">List of workercenters</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1747-not-invented-here/">Not invented here</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1737-passwords/">Passwords</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1824-python/">Python</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1853-racket/">Racket</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1731-thoughts-on-note-creation-for-personal-system/">Thoughts on note creation for personal system</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/pkm' class="link silver">pkm</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1736-threat-modeling/">Threat Modeling</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/privacy' class="link silver">privacy</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1720-wage-theft-workshop/">Wage Theft Workshop</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1718-wage-theft-application-modularity/">Wage theft application - modularity</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1738-what-are-worker-centers/">What are worker centers?</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-25-1851-emacs-lisp/">emacs-lisp</a>
-      <span class="f5 mt1 silver">
-        <time>25 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2005-anderson-v-mt-clemens-pottery/">Anderson v. Mt Clemens Pottery</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2017-attention/">Attention</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/attention' class="link silver">attention</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2008-building-a-second-brain/">Building a second brain</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/pkm' class="link silver">pkm</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-1944-cognition/">Cognition</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/cognition' class="link silver">cognition</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2024-criteria-for-zettelkasten/">Criteria for Zettelkasten</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/zettelkasten' class="link silver">zettelkasten</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2034-design-of-wage-theft-application/">Design of wage theft application</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-1216-emacs/">Emacs</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/emacs' class="link silver">emacs</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2019-happiness/">Happiness</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/happiness' class="link silver">Happiness</a> <a href='/notes/tags/wage' class="link silver">Wage</a> <a href='/notes/tags/theft' class="link silver">theft:</a> <a href='/notes/tags/consequences' class="link silver">Consequences</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-1215-hyperbole/">Hyperbole</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/hyperbole' class="link silver">hyperbole</a> <a href='/notes/tags/hyperbole' class="link silver">hyperbole</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-1916-information-management/">Information Management</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2007-information-in-the-court-system/">Information in the court system</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2030-inmates-and-communication/">Inmates and communication</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/idea' class="link silver">idea</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2014-jornalera/">Jornalera</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-        
-        
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2002-location-history-analyzer/">Location History Analyzer</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-1216-org-mode/">Org Mode</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/org-mode' class="link silver">org-mode</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2026-rapid-response-application/">Rapid Response Application</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/idea' class="link silver">idea</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2038-smart-working-environments/">Smart Working Environments</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/environment' class="link silver">environment</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-1945-stigmergy/">Stigmergy</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/organization' class="link silver">organization</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2021-wage-theft-consequences/">Wage Theft - Consequences</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2022-wage-theft-and-lack-of-information/">Wage theft and lack of information</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2011-what-is-wage-theft/">What is wage theft?</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-2034-worker-timeline/">Worker Timeline</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/wagetheft' class="link silver">wagetheft</a>  ]
-        
-      </span>
-    </li>
-    
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://alexsoto.dev/notes/posts/2019-12-24-1216-zettelkasten/">Zettelkasten</a>
-      <span class="f5 mt1 silver">
-        <time>24 Dec 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/notes/tags/zettelkasten' class="link silver">zettelkasten</a>  ]
-        
-      </span>
-    </li>
-    
-  </ul>
-</main>
+
+            <div class="container">
+                <header class="masthead">
+                    <div class="masthead-title no-text-decoration">
+                        <a href="/">Alexander Soto</a>
+                    </div>
+                    <div class="masthead-tagline">
+                        Bridging Technology and Social Justice
+                    </div>
+                </header>
+
+                
+
+<div class="posts h-feed">
+    <header>
+        
+        <data class="u-url" value="https://www.alexsoto.dev/"></data>
+         
 
 
-<div class="dn tr fixed right-2" id="tag-cloud">
-    tags <br>
+     
+
+
+
+
     
-    <a class="silver no-underline" href="/notes/tags/wagetheft">wagetheft</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/hyperbole">hyperbole</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/pkm">pkm</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/idea">idea</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/zettelkasten">zettelkasten</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/attention">attention</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/cognition">cognition</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/consequences">consequences</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/emacs">emacs</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/environment">environment</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/happiness">happiness</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/knowledge">knowledge</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/learning">learning</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/org-mode">org-mode</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/organization">organization</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/privacy">privacy</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/theft">theft</a></li>
-  
-    <a class="silver no-underline" href="/notes/tags/wage">wage</a></li>
-  
+        
+        <span class="hide">
+            &mdash; <a href="https://www.alexsoto.dev/" class="u-author">Alexander Soto</a>
+        </span>
+    
+
+
+        <data class="p-name" value="Alexander Soto"></data>
+    </header>
+    
+    
+    
+        <article class="summary h-entry blog">
+    <header>
+        <h2 class="post-title p-name no-text-decoration"><a class="u-url" href='https://www.alexsoto.dev/blog/chunking/'> Chunking</a> </h2>
+        
+    <div class="taxo no-text-decoration">
+         
+            
+         
+            
+         
+            
+        
+    </div>
+
+
+        
+
+
+    
+    
+    <div class="post-date">
+        
+        <time datetime="2019-11-17T10:48:00-0500" class="dt-published">Sun Nov 17, 2019</time>
+        
+        
+    </div>
+
+
+    </header>
+
+    <div class="post p-summary" >
+        <p>Analogy Chunking is like working through a jigsaw puzzle. You start with separate pieces, as you work on the puzzle, you create small clusters of pieces or chunks, which contain more meaning and further help you complete the puzzle.
+Diagram/Example   Plain-English Chunking is the process that allows us to connect smaller pieces of information into bigger chunks to help us remember for later.
+Technical Chunking is a process by which individual pieces of an information set are broken down and then grouped together.</p>
+
+    </div>
+
+    
+    
+    
+        <div class="readmore no-text-decoration">
+            <a href='https://www.alexsoto.dev/blog/chunking/'
+               title="Read more about Chunking">
+                read <span class="more"> more</span>
+                <span class="screen-readers-only" > about Chunking</span>
+            </a>
+        </div>
+    
+</article>
+      
+    
+        <article class="summary h-entry blog">
+    <header>
+        <h2 class="post-title p-name no-text-decoration"><a class="u-url" href='https://www.alexsoto.dev/blog/learning-strategies/'> Learning strategies</a> </h2>
+        
+    <div class="taxo no-text-decoration">
+         
+            
+         
+            
+         
+            
+        
+    </div>
+
+
+        
+
+
+    
+    
+    <div class="post-date">
+        
+        <time datetime="2019-11-16T10:09:00-0500" class="dt-published">Sat Nov 16, 2019</time>
+        
+        
+    </div>
+
+
+    </header>
+
+    <div class="post p-summary" >
+        <p>In my previous post I discuss my intention of completing the &ldquo;Deep Dive Into Modern Web Development&rdquo; course with the purpose of starting a progressive journey on becoming a software developer. The primary focus of this post is providing a list of resources and learning strategies that are going to be used.
+Resources Over the years in my experience as being both a teacher and a student I have come across different resources that are related to the field of learning.</p>
+
+    </div>
+
+    
+    
+    
+        <div class="readmore no-text-decoration">
+            <a href='https://www.alexsoto.dev/blog/learning-strategies/'
+               title="Read more about Learning strategies">
+                read <span class="more"> more</span>
+                <span class="screen-readers-only" > about Learning strategies</span>
+            </a>
+        </div>
+    
+</article>
+      
+    
+        <article class="summary h-entry blog">
+    <header>
+        <h2 class="post-title p-name no-text-decoration"><a class="u-url" href='https://www.alexsoto.dev/blog/full-stack-open/'> Deep Dive Into Modern Web Development</a> </h2>
+        
+    <div class="taxo no-text-decoration">
+         
+            
+         
+            
+         
+            
+        
+    </div>
+
+
+        
+
+
+    
+    
+    <div class="post-date">
+        
+        <time datetime="2019-11-15T13:45:00-0500" class="dt-published">Fri Nov 15, 2019</time>
+        
+        
+    </div>
+
+
+    </header>
+
+    <div class="post p-summary" >
+        <p>As part of my learning journey to become a software developer, today I&rsquo;m starting the course &ldquo;Deep Dive into Modern Web Development&rdquo;. The course is provided by the University of Helsinki as part of their Open University.
+ This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs.</p>
+
+    </div>
+
+    
+    
+    
+        <div class="readmore no-text-decoration">
+            <a href='https://www.alexsoto.dev/blog/full-stack-open/'
+               title="Read more about Deep Dive Into Modern Web Development">
+                read <span class="more"> more</span>
+                <span class="screen-readers-only" > about Deep Dive Into Modern Web Development</span>
+            </a>
+        </div>
+    
+</article>
+      
+    
+        <article class="summary h-entry blog">
+    <header>
+        <h2 class="post-title p-name no-text-decoration"><a class="u-url" href='https://www.alexsoto.dev/blog/hello-world/'> Hello World</a> </h2>
+        
+    <div class="taxo no-text-decoration">
+         
+            
+         
+            
+         
+            
+        
+    </div>
+
+
+        
+
+
+    
+    
+    <div class="post-date">
+        
+        <time datetime="2019-11-14T00:00:00-0500" class="dt-published">Thu Nov 14, 2019</time>
+        
+        
+    </div>
+
+
+    </header>
+
+    <div class="post p-summary" >
+        <p>Over the years after many conversations with friends about niche topics, staying up late at night pondering life on the verge of an existential crisis, we have arrived here… a blog in 2019? Bueno, mejor que nada… This post is titled ‘Hello World’, it symbolizes the first step we take to attempt to communicate with someone or something else while being simultaneously born into a new digital world of our creation.</p>
+
+    </div>
+
+    
+    
+    
+        <div class="readmore no-text-decoration">
+            <a href='https://www.alexsoto.dev/blog/hello-world/'
+               title="Read more about Hello World">
+                read <span class="more"> more</span>
+                <span class="screen-readers-only" > about Hello World</span>
+            </a>
+        </div>
+    
+</article>
+      
+    
 </div>
 
 
-  
+                
+                <footer>
+                    
+
+<div class="pagination no-text-decoration">
+    
+        <span class="pagination-item newer">Newer</span>
+    
+    
+        <span class="pagination-item older">Older</span>
+    
+</div>
+
+
+    
+    
+
+
+                       
+
+
+
+
+                    <ul class="no-bullets feed right inline">
+    
+        
+        
+            <li class="inline no-text-decoration">
+                <a href="https://www.alexsoto.dev/index.xml">RSS</a>
+            </li>
+        
+    
+        
+        
+            <li class="inline no-text-decoration">
+                <a href="https://www.alexsoto.dev/atom.xml">ATOM</a>
+            </li>
+        
+    
+        
+        
+    
+</ul>
+<div class="clear-float"></div>
+
+                </footer>
+                <hr />
+            </div>               
+
+            <footer> 
+                
+
+
+<ul class="social no-text-decoration">
+    
+        <li>
+            <a href="https://github.com/dynamicmetaflow/" title="Github">
+                
+                
+                    
+                    
+                    
+                    <i class="fab fa-2x fa-github"></i>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="https://twitter.com/dynamicmetaflow/" title="Twitter">
+                
+                
+                    
+                    
+                    
+                    <i class="fab fa-2x fa-twitter"></i>
+                
+            </a>
+        </li>
+    
+</ul>
 
 
 
 
 
 
-<script type="text/javascript">
-var prevScrollpos = window.pageYOffset;
-window.onscroll = function() {
-  var currentScrollPos = window.pageYOffset;
-
-  
-  if (document.getElementById("tag-cloud") !== null) { 
-    if (prevScrollpos > currentScrollPos) { 
-      document.getElementById("tag-cloud").style.visibility = "visible";
-      document.getElementById("tag-cloud").style.opacity = "1";
-    } else {
-      document.getElementById("tag-cloud").style.visibility = "hidden";
-      document.getElementById("tag-cloud").style.opacity = "0";
-    }
-  }
-  
-
-  
-  if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
-      document.getElementById("scroll-to-top").style.display = "inline";
-      document.getElementById("scroll-to-top").style.visibility = "visible";
-      document.getElementById("scroll-to-top").style.opacity = "1";
-  } else {
-      document.getElementById("scroll-to-top").style.visibility = "hidden";
-      document.getElementById("scroll-to-top").style.opacity = "0";
-  }
-  
-  prevScrollpos = currentScrollPos;
-}
-
-
-function topFunction() {
-  document.body.scrollTop = 0; 
-  document.documentElement.scrollTop = 0; 
-}
+    
+    
+    
+        
+    
+    
+        
+            
+        
+        
+    
+    
+    
+    
 
 
 
@@ -671,167 +636,55 @@ function topFunction() {
 
 
 
-</script>
+
+
+<p>
+    
+</p>
 
 
 
 
-<style type="text/css">/* PrismJS 1.15.0
-https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript&plugins=autoloader */
-/**
- * prism.js default theme for JavaScript, CSS and HTML
- * Based on dabblet (http://dabblet.com)
- * @author Lea Verou
- */
 
-code[class*="language-"],
-pre[class*="language-"] {
-	color: black;
-	background: none;
-	text-shadow: 0 1px white;
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	word-wrap: normal;
-	line-height: 1.5;
+<div class="badges no-text-decoration">
+    
+    
 
-	-moz-tab-size: 4;
-	-o-tab-size: 4;
-	tab-size: 4;
-
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-}
-
-pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
-code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
-	text-shadow: none;
-	background: #b3d4fc;
-}
-
-pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
-code[class*="language-"]::selection, code[class*="language-"] ::selection {
-	text-shadow: none;
-	background: #b3d4fc;
-}
-
-@media print {
-	code[class*="language-"],
-	pre[class*="language-"] {
-		text-shadow: none;
-	}
-}
-
-/* Code blocks */
-pre[class*="language-"] {
-	padding: 1em;
-	margin: .5em 0;
-	overflow: auto;
-}
-
-:not(pre) > code[class*="language-"],
-pre[class*="language-"] {
-	background: #f5f2f0;
-}
-
-/* Inline code */
-:not(pre) > code[class*="language-"] {
-	padding: .1em;
-	border-radius: .3em;
-	white-space: normal;
-}
-
-.token.comment,
-.token.prolog,
-.token.doctype,
-.token.cdata {
-	color: slategray;
-}
-
-.token.punctuation {
-	color: #999;
-}
-
-.namespace {
-	opacity: .7;
-}
-
-.token.property,
-.token.tag,
-.token.boolean,
-.token.number,
-.token.constant,
-.token.symbol,
-.token.deleted {
-	color: #905;
-}
-
-.token.selector,
-.token.attr-name,
-.token.string,
-.token.char,
-.token.builtin,
-.token.inserted {
-	color: #690;
-}
-
-.token.operator,
-.token.entity,
-.token.url,
-.language-css .token.string,
-.style .token.string {
-	color: #9a6e3a;
-	background: hsla(0, 0%, 100%, .5);
-}
-
-.token.atrule,
-.token.attr-value,
-.token.keyword {
-	color: #07a;
-}
-
-.token.function,
-.token.class-name {
-	color: #DD4A68;
-}
-
-.token.regex,
-.token.important,
-.token.variable {
-	color: #e90;
-}
-
-.token.important,
-.token.bold {
-	font-weight: bold;
-}
-.token.italic {
-	font-style: italic;
-}
-
-.token.entity {
-	cursor: help;
-}
-
-</style>
-<script type="text/javascript">
- 
-
- var _self="undefined"!=typeof window?window:"undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?self:{},Prism=function(){var e=/\blang(?:uage)?-([\w-]+)\b/i,t=0,n=_self.Prism={manual:_self.Prism&&_self.Prism.manual,disableWorkerMessageHandler:_self.Prism&&_self.Prism.disableWorkerMessageHandler,util:{encode:function(e){return e instanceof a?new a(e.type,n.util.encode(e.content),e.alias):"Array"===n.util.type(e)?e.map(n.util.encode):e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/\u00a0/g," ")},type:function(e){return Object.prototype.toString.call(e).slice(8,-1)},objId:function(e){return e.__id||Object.defineProperty(e,"__id",{value:++t}),e.__id},clone:function(e,t){var a=n.util.type(e);switch(t=t||{},a){case"Object":if(t[n.util.objId(e)])return t[n.util.objId(e)];var r={};t[n.util.objId(e)]=r;for(var l in e)e.hasOwnProperty(l)&&(r[l]=n.util.clone(e[l],t));return r;case"Array":if(t[n.util.objId(e)])return t[n.util.objId(e)];var r=[];return t[n.util.objId(e)]=r,e.forEach(function(e,a){r[a]=n.util.clone(e,t)}),r}return e}},languages:{extend:function(e,t){var a=n.util.clone(n.languages[e]);for(var r in t)a[r]=t[r];return a},insertBefore:function(e,t,a,r){r=r||n.languages;var l=r[e],i={};for(var o in l)if(l.hasOwnProperty(o)){if(o==t)for(var s in a)a.hasOwnProperty(s)&&(i[s]=a[s]);a.hasOwnProperty(o)||(i[o]=l[o])}var u=r[e];return r[e]=i,n.languages.DFS(n.languages,function(t,n){n===u&&t!=e&&(this[t]=i)}),i},DFS:function(e,t,a,r){r=r||{};for(var l in e)e.hasOwnProperty(l)&&(t.call(e,l,e[l],a||l),"Object"!==n.util.type(e[l])||r[n.util.objId(e[l])]?"Array"!==n.util.type(e[l])||r[n.util.objId(e[l])]||(r[n.util.objId(e[l])]=!0,n.languages.DFS(e[l],t,l,r)):(r[n.util.objId(e[l])]=!0,n.languages.DFS(e[l],t,null,r)))}},plugins:{},highlightAll:function(e,t){n.highlightAllUnder(document,e,t)},highlightAllUnder:function(e,t,a){var r={callback:a,selector:'code[class*="language-"], [class*="language-"] code, code[class*="lang-"], [class*="lang-"] code'};n.hooks.run("before-highlightall",r);for(var l,i=r.elements||e.querySelectorAll(r.selector),o=0;l=i[o++];)n.highlightElement(l,t===!0,r.callback)},highlightElement:function(t,a,r){for(var l,i,o=t;o&&!e.test(o.className);)o=o.parentNode;o&&(l=(o.className.match(e)||[,""])[1].toLowerCase(),i=n.languages[l]),t.className=t.className.replace(e,"").replace(/\s+/g," ")+" language-"+l,t.parentNode&&(o=t.parentNode,/pre/i.test(o.nodeName)&&(o.className=o.className.replace(e,"").replace(/\s+/g," ")+" language-"+l));var s=t.textContent,u={element:t,language:l,grammar:i,code:s};if(n.hooks.run("before-sanity-check",u),!u.code||!u.grammar)return u.code&&(n.hooks.run("before-highlight",u),u.element.textContent=u.code,n.hooks.run("after-highlight",u)),n.hooks.run("complete",u),void 0;if(n.hooks.run("before-highlight",u),a&&_self.Worker){var g=new Worker(n.filename);g.onmessage=function(e){u.highlightedCode=e.data,n.hooks.run("before-insert",u),u.element.innerHTML=u.highlightedCode,n.hooks.run("after-highlight",u),n.hooks.run("complete",u),r&&r.call(u.element)},g.postMessage(JSON.stringify({language:u.language,code:u.code,immediateClose:!0}))}else u.highlightedCode=n.highlight(u.code,u.grammar,u.language),n.hooks.run("before-insert",u),u.element.innerHTML=u.highlightedCode,n.hooks.run("after-highlight",u),n.hooks.run("complete",u),r&&r.call(t)},highlight:function(e,t,r){var l={code:e,grammar:t,language:r};return n.hooks.run("before-tokenize",l),l.tokens=n.tokenize(l.code,l.grammar),n.hooks.run("after-tokenize",l),a.stringify(n.util.encode(l.tokens),l.language)},matchGrammar:function(e,t,a,r,l,i,o){var s=n.Token;for(var u in a)if(a.hasOwnProperty(u)&&a[u]){if(u==o)return;var g=a[u];g="Array"===n.util.type(g)?g:[g];for(var c=0;c<g.length;++c){var h=g[c],f=h.inside,d=!!h.lookbehind,m=!!h.greedy,p=0,y=h.alias;if(m&&!h.pattern.global){var v=h.pattern.toString().match(/[imuy]*$/)[0];h.pattern=RegExp(h.pattern.source,v+"g")}h=h.pattern||h;for(var b=r,k=l;b<t.length;k+=t[b].length,++b){var w=t[b];if(t.length>e.length)return;if(!(w instanceof s)){if(m&&b!=t.length-1){h.lastIndex=k;var _=h.exec(e);if(!_)break;for(var j=_.index+(d?_[1].length:0),P=_.index+_[0].length,A=b,x=k,O=t.length;O>A&&(P>x||!t[A].type&&!t[A-1].greedy);++A)x+=t[A].length,j>=x&&(++b,k=x);if(t[b]instanceof s)continue;I=A-b,w=e.slice(k,x),_.index-=k}else{h.lastIndex=0;var _=h.exec(w),I=1}if(_){d&&(p=_[1]?_[1].length:0);var j=_.index+p,_=_[0].slice(p),P=j+_.length,N=w.slice(0,j),S=w.slice(P),C=[b,I];N&&(++b,k+=N.length,C.push(N));var E=new s(u,f?n.tokenize(_,f):_,y,_,m);if(C.push(E),S&&C.push(S),Array.prototype.splice.apply(t,C),1!=I&&n.matchGrammar(e,t,a,b,k,!0,u),i)break}else if(i)break}}}}},tokenize:function(e,t){var a=[e],r=t.rest;if(r){for(var l in r)t[l]=r[l];delete t.rest}return n.matchGrammar(e,a,t,0,0,!1),a},hooks:{all:{},add:function(e,t){var a=n.hooks.all;a[e]=a[e]||[],a[e].push(t)},run:function(e,t){var a=n.hooks.all[e];if(a&&a.length)for(var r,l=0;r=a[l++];)r(t)}}},a=n.Token=function(e,t,n,a,r){this.type=e,this.content=t,this.alias=n,this.length=0|(a||"").length,this.greedy=!!r};if(a.stringify=function(e,t,r){if("string"==typeof e)return e;if("Array"===n.util.type(e))return e.map(function(n){return a.stringify(n,t,e)}).join("");var l={type:e.type,content:a.stringify(e.content,t,r),tag:"span",classes:["token",e.type],attributes:{},language:t,parent:r};if(e.alias){var i="Array"===n.util.type(e.alias)?e.alias:[e.alias];Array.prototype.push.apply(l.classes,i)}n.hooks.run("wrap",l);var o=Object.keys(l.attributes).map(function(e){return e+'="'+(l.attributes[e]||"").replace(/"/g,"&quot;")+'"'}).join(" ");return"<"+l.tag+' class="'+l.classes.join(" ")+'"'+(o?" "+o:"")+">"+l.content+"</"+l.tag+">"},!_self.document)return _self.addEventListener?(n.disableWorkerMessageHandler||_self.addEventListener("message",function(e){var t=JSON.parse(e.data),a=t.language,r=t.code,l=t.immediateClose;_self.postMessage(n.highlight(r,n.languages[a],a)),l&&_self.close()},!1),_self.Prism):_self.Prism;var r=document.currentScript||[].slice.call(document.getElementsByTagName("script")).pop();return r&&(n.filename=r.src,n.manual||r.hasAttribute("data-manual")||("loading"!==document.readyState?window.requestAnimationFrame?window.requestAnimationFrame(n.highlightAll):window.setTimeout(n.highlightAll,16):document.addEventListener("DOMContentLoaded",n.highlightAll))),_self.Prism}();"undefined"!=typeof module&&module.exports&&(module.exports=Prism),"undefined"!=typeof global&&(global.Prism=Prism);
- Prism.languages.markup={comment:/<!--[\s\S]*?-->/,prolog:/<\?[\s\S]+?\?>/,doctype:/<!DOCTYPE[\s\S]+?>/i,cdata:/<!\[CDATA\[[\s\S]*?]]>/i,tag:{pattern:/<\/?(?!\d)[^\s>\/=$<%]+(?:\s+[^\s>\/=]+(?:=(?:("|')(?:\\[\s\S]|(?!\1)[^\\])*\1|[^\s'">=]+))?)*\s*\/?>/i,greedy:!0,inside:{tag:{pattern:/^<\/?[^\s>\/]+/i,inside:{punctuation:/^<\/?/,namespace:/^[^\s>\/:]+:/}},"attr-value":{pattern:/=(?:("|')(?:\\[\s\S]|(?!\1)[^\\])*\1|[^\s'">=]+)/i,inside:{punctuation:[/^=/,{pattern:/(^|[^\\])["']/,lookbehind:!0}]}},punctuation:/\/?>/,"attr-name":{pattern:/[^\s>\/]+/,inside:{namespace:/^[^\s>\/:]+:/}}}},entity:/&#?[\da-z]{1,8};/i},Prism.languages.markup.tag.inside["attr-value"].inside.entity=Prism.languages.markup.entity,Prism.hooks.add("wrap",function(a){"entity"===a.type&&(a.attributes.title=a.content.replace(/&amp;/,"&"))}),Prism.languages.xml=Prism.languages.markup,Prism.languages.html=Prism.languages.markup,Prism.languages.mathml=Prism.languages.markup,Prism.languages.svg=Prism.languages.markup;
- Prism.languages.css={comment:/\/\*[\s\S]*?\*\//,atrule:{pattern:/@[\w-]+?.*?(?:;|(?=\s*\{))/i,inside:{rule:/@[\w-]+/}},url:/url\((?:(["'])(?:\\(?:\r\n|[\s\S])|(?!\1)[^\\\r\n])*\1|.*?)\)/i,selector:/[^{}\s][^{};]*?(?=\s*\{)/,string:{pattern:/("|')(?:\\(?:\r\n|[\s\S])|(?!\1)[^\\\r\n])*\1/,greedy:!0},property:/[-_a-z\xA0-\uFFFF][-\w\xA0-\uFFFF]*(?=\s*:)/i,important:/!important\b/i,"function":/[-a-z0-9]+(?=\()/i,punctuation:/[(){};:,]/},Prism.languages.css.atrule.inside.rest=Prism.languages.css,Prism.languages.markup&&(Prism.languages.insertBefore("markup","tag",{style:{pattern:/(<style[\s\S]*?>)[\s\S]*?(?=<\/style>)/i,lookbehind:!0,inside:Prism.languages.css,alias:"language-css",greedy:!0}}),Prism.languages.insertBefore("inside","attr-value",{"style-attr":{pattern:/\s*style=("|')(?:\\[\s\S]|(?!\1)[^\\])*\1/i,inside:{"attr-name":{pattern:/^\s*style/i,inside:Prism.languages.markup.tag.inside},punctuation:/^\s*=\s*['"]|['"]\s*$/,"attr-value":{pattern:/.+/i,inside:Prism.languages.css}},alias:"language-css"}},Prism.languages.markup.tag));
- Prism.languages.clike={comment:[{pattern:/(^|[^\\])\/\*[\s\S]*?(?:\*\/|$)/,lookbehind:!0},{pattern:/(^|[^\\:])\/\/.*/,lookbehind:!0,greedy:!0}],string:{pattern:/(["'])(?:\\(?:\r\n|[\s\S])|(?!\1)[^\\\r\n])*\1/,greedy:!0},"class-name":{pattern:/((?:\b(?:class|interface|extends|implements|trait|instanceof|new)\s+)|(?:catch\s+\())[\w.\\]+/i,lookbehind:!0,inside:{punctuation:/[.\\]/}},keyword:/\b(?:if|else|while|do|for|return|in|instanceof|function|new|try|throw|catch|finally|null|break|continue)\b/,"boolean":/\b(?:true|false)\b/,"function":/\w+(?=\()/,number:/\b0x[\da-f]+\b|(?:\b\d+\.?\d*|\B\.\d+)(?:e[+-]?\d+)?/i,operator:/--?|\+\+?|!=?=?|<=?|>=?|==?=?|&&?|\|\|?|\?|\*|\/|~|\^|%/,punctuation:/[{}[\];(),.:]/};
- Prism.languages.javascript=Prism.languages.extend("clike",{"class-name":[Prism.languages.clike["class-name"],{pattern:/(^|[^$\w\xA0-\uFFFF])[_$A-Z\xA0-\uFFFF][$\w\xA0-\uFFFF]*(?=\.(?:prototype|constructor))/,lookbehind:!0}],keyword:[{pattern:/((?:^|})\s*)(?:catch|finally)\b/,lookbehind:!0},/\b(?:as|async|await|break|case|class|const|continue|debugger|default|delete|do|else|enum|export|extends|for|from|function|get|if|implements|import|in|instanceof|interface|let|new|null|of|package|private|protected|public|return|set|static|super|switch|this|throw|try|typeof|var|void|while|with|yield)\b/],number:/\b(?:(?:0[xX][\dA-Fa-f]+|0[bB][01]+|0[oO][0-7]+)n?|\d+n|NaN|Infinity)\b|(?:\b\d+\.?\d*|\B\.\d+)(?:[Ee][+-]?\d+)?/,"function":/[_$a-zA-Z\xA0-\uFFFF][$\w\xA0-\uFFFF]*(?=\s*\(|\.(?:apply|bind|call)\()/,operator:/-[-=]?|\+[+=]?|!=?=?|<<?=?|>>?>?=?|=(?:==?|>)?|&[&=]?|\|[|=]?|\*\*?=?|\/=?|~|\^=?|%=?|\?|\.{3}/}),Prism.languages.javascript["class-name"][0].pattern=/(\b(?:class|interface|extends|implements|instanceof|new)\s+)[\w.\\]+/,Prism.languages.insertBefore("javascript","keyword",{regex:{pattern:/((?:^|[^$\w\xA0-\uFFFF."'\])\s])\s*)\/(\[(?:[^\]\\\r\n]|\\.)*]|\\.|[^\/\\\[\r\n])+\/[gimyu]{0,5}(?=\s*($|[\r\n,.;})\]]))/,lookbehind:!0,greedy:!0},"function-variable":{pattern:/[_$a-z\xA0-\uFFFF][$\w\xA0-\uFFFF]*(?=\s*[=:]\s*(?:async\s*)?(?:\bfunction\b|(?:\([^()]*\)|[_$a-z\xA0-\uFFFF][$\w\xA0-\uFFFF]*)\s*=>))/i,alias:"function"},parameter:[{pattern:/(function(?:\s+[_$a-z\xA0-\uFFFF][$\w\xA0-\uFFFF]*)?\s*\(\s*)[^\s()][^()]*?(?=\s*\))/,lookbehind:!0,inside:Prism.languages.javascript},{pattern:/[_$a-z\xA0-\uFFFF][$\w\xA0-\uFFFF]*(?=\s*=>)/,inside:Prism.languages.javascript},{pattern:/(\(\s*)[^\s()][^()]*?(?=\s*\)\s*=>)/,lookbehind:!0,inside:Prism.languages.javascript},{pattern:/((?:\b|\s|^)(?!(?:as|async|await|break|case|catch|class|const|continue|debugger|default|delete|do|else|enum|export|extends|finally|for|from|function|get|if|implements|import|in|instanceof|interface|let|new|null|of|package|private|protected|public|return|set|static|super|switch|this|throw|try|typeof|var|void|while|with|yield)(?![$\w\xA0-\uFFFF]))(?:[_$a-z\xA0-\uFFFF][$\w\xA0-\uFFFF]*\s*)\(\s*)[^\s()][^()]*?(?=\s*\)\s*\{)/,lookbehind:!0,inside:Prism.languages.javascript}],constant:/\b[A-Z][A-Z\d_]*\b/}),Prism.languages.insertBefore("javascript","string",{"template-string":{pattern:/`(?:\\[\s\S]|\${[^}]+}|[^\\`])*`/,greedy:!0,inside:{interpolation:{pattern:/\${[^}]+}/,inside:{"interpolation-punctuation":{pattern:/^\${|}$/,alias:"punctuation"},rest:Prism.languages.javascript}},string:/[\s\S]+/}}}),Prism.languages.markup&&Prism.languages.insertBefore("markup","tag",{script:{pattern:/(<script[\s\S]*?>)[\s\S]*?(?=<\/script>)/i,lookbehind:!0,inside:Prism.languages.javascript,alias:"language-javascript",greedy:!0}}),Prism.languages.js=Prism.languages.javascript;
- !function(){if("undefined"!=typeof self&&self.Prism&&self.document&&document.createElement){var e={javascript:"clike",actionscript:"javascript",arduino:"cpp",aspnet:["markup","csharp"],bison:"c",c:"clike",csharp:"clike",cpp:"c",coffeescript:"javascript",crystal:"ruby","css-extras":"css",d:"clike",dart:"clike",django:"markup",erb:["ruby","markup-templating"],fsharp:"clike",flow:"javascript",glsl:"clike",gml:"clike",go:"clike",groovy:"clike",haml:"ruby",handlebars:"markup-templating",haxe:"clike",java:"clike",jolie:"clike",kotlin:"clike",less:"css",markdown:"markup","markup-templating":"markup",n4js:"javascript",nginx:"clike",objectivec:"c",opencl:"cpp",parser:"markup",php:["clike","markup-templating"],"php-extras":"php",plsql:"sql",processing:"clike",protobuf:"clike",pug:"javascript",qore:"clike",jsx:["markup","javascript"],tsx:["jsx","typescript"],reason:"clike",ruby:"clike",sass:"css",scss:"css",scala:"java",smarty:"markup-templating",soy:"markup-templating",swift:"clike",tap:"yaml",textile:"markup",tt2:["clike","markup-templating"],twig:"markup",typescript:"javascript",vbnet:"basic",velocity:"markup",wiki:"markup",xeora:"markup",xquery:"markup"},a={},c="none",t=document.getElementsByTagName("script");t=t[t.length-1];var r="components/";if(t.hasAttribute("data-autoloader-path")){var s=t.getAttribute("data-autoloader-path").trim();s.length>0&&!/^[a-z]+:\/\//i.test(t.src)&&(r=s.replace(/\/?$/,"/"))}else/[\w-]+\.js$/.test(t.src)&&(r=t.src.replace(/[\w-]+\.js$/,"components/"));var i=Prism.plugins.autoloader={languages_path:r,use_minified:!0},n=function(e,a,c){var t=document.createElement("script");t.src=e,t.async=!0,t.onload=function(){document.body.removeChild(t),a&&a()},t.onerror=function(){document.body.removeChild(t),c&&c()},document.body.appendChild(t)},l=function(e){return i.languages_path+"prism-"+e+(i.use_minified?".min":"")+".js"},o=function(e,c){var t=a[e];t||(t=a[e]={});var r=c.getAttribute("data-dependencies");!r&&c.parentNode&&"pre"===c.parentNode.tagName.toLowerCase()&&(r=c.parentNode.getAttribute("data-dependencies")),r=r?r.split(/\s*,\s*/g):[],p(r,function(){u(e,function(){Prism.highlightElement(c)})})},p=function(e,a,c){"string"==typeof e&&(e=[e]);var t=0,r=e.length,s=function(){r>t?u(e[t],function(){t++,s()},function(){c&&c(e[t])}):t===r&&a&&a(e)};s()},u=function(c,t,r){var s=function(){var e=!1;c.indexOf("!")>=0&&(e=!0,c=c.replace("!",""));var s=a[c];if(s||(s=a[c]={}),t&&(s.success_callbacks||(s.success_callbacks=[]),s.success_callbacks.push(t)),r&&(s.error_callbacks||(s.error_callbacks=[]),s.error_callbacks.push(r)),!e&&Prism.languages[c])m(c);else if(!e&&s.error)k(c);else if(e||!s.loading){s.loading=!0;var i=l(c);n(i,function(){s.loading=!1,m(c)},function(){s.loading=!1,s.error=!0,k(c)})}},i=e[c];i&&i.length?p(i,s):s()},m=function(e){a[e]&&a[e].success_callbacks&&a[e].success_callbacks.length&&a[e].success_callbacks.forEach(function(a){a(e)})},k=function(e){a[e]&&a[e].error_callbacks&&a[e].error_callbacks.length&&a[e].error_callbacks.forEach(function(a){a(e)})};Prism.hooks.add("complete",function(e){e.element&&e.language&&!e.grammar&&e.language!==c&&o(e.language,e.element)})}}();
-</script>
-<script type="text/javascript">
- Prism.plugins.autoloader.languages_path = 'https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/components/';
-</script>
+    
+</div>
 
 
-</body>
+
+
+<script type="application/javascript">var nav=responsiveNav("#nav");</script>
+
+
+
+
+<script defer src="/js/libs/fragmentions/wrapper.min.4c511209cd3786314b251d891c8da528b47a972669aa4eea416b64d4be01eee2.js"></script>
+
+
+
+
+
+
+
+
+    <div class="h-card">
+        
+        
+        <a class="p-name u-url" href="https://www.alexsoto.dev/">Alexander Soto</a>
+        
+            <p>
+                <a class="u-email" href="mailto:alexander.soto@@gmail.com" rel="me">alexander.soto@@gmail.com</a>
+            </p>
+        
+        
+    </div>
+
+
+
+            </footer>
+        </div> 
+    </body>
 </html>
