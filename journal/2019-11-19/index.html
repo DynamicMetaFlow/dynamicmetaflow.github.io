@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+    
+    
+    
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
+
+    
+    <meta name="referrer" content="no-referrer">
+
+    <title>
+        
+            Introduction to React - Exercises: 1.2 - 1.5
+        
+    </title>
+
+    
+    
+
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+    <style>
+     
+     
+     :root {
+         --theme-color: #6a9fb5;
+         --theme-color-light: rgba(106, 159, 181, 0.2);
+     }
+     
+     html {
+         line-height: 1.5;
+     }
+    </style>
+
+    
+    
+
+    
+    
+    
+    
+    <link rel="stylesheet" href="/css/refined.min.f4a9113662b2dc0d367fedff7b2b7205d12bae8c4d4dee27b635d7993414b129.css">
+    
+    <link rel="preload" href="/css/refined.min.f4a9113662b2dc0d367fedff7b2b7205d12bae8c4d4dee27b635d7993414b129.css" as="style">
+
+    
+
+
+
+    
+        <style>
+         
+         /* Background */ .chroma { background-color: #ffffff }
+/* Error */ .chroma .err { color: #a61717; background-color: #e3d2d2 }
+/* LineTableTD */ .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+/* LineTable */ .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
+/* LineHighlight */ .chroma .hl { display: block; width: 100%;background-color: #ffffcc }
+/* LineNumbersTable */ .chroma .lnt { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+/* LineNumbers */ .chroma .ln { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+/* Keyword */ .chroma .k { color: #000000; font-weight: bold }
+/* KeywordConstant */ .chroma .kc { color: #000000; font-weight: bold }
+/* KeywordDeclaration */ .chroma .kd { color: #000000; font-weight: bold }
+/* KeywordNamespace */ .chroma .kn { color: #000000; font-weight: bold }
+/* KeywordPseudo */ .chroma .kp { color: #000000; font-weight: bold }
+/* KeywordReserved */ .chroma .kr { color: #000000; font-weight: bold }
+/* KeywordType */ .chroma .kt { color: #445588; font-weight: bold }
+/* NameAttribute */ .chroma .na { color: #008080 }
+/* NameBuiltin */ .chroma .nb { color: #0086b3 }
+/* NameBuiltinPseudo */ .chroma .bp { color: #999999 }
+/* NameClass */ .chroma .nc { color: #445588; font-weight: bold }
+/* NameConstant */ .chroma .no { color: #008080 }
+/* NameDecorator */ .chroma .nd { color: #3c5d5d; font-weight: bold }
+/* NameEntity */ .chroma .ni { color: #800080 }
+/* NameException */ .chroma .ne { color: #990000; font-weight: bold }
+/* NameFunction */ .chroma .nf { color: #990000; font-weight: bold }
+/* NameLabel */ .chroma .nl { color: #990000; font-weight: bold }
+/* NameNamespace */ .chroma .nn { color: #555555 }
+/* NameTag */ .chroma .nt { color: #000080 }
+/* NameVariable */ .chroma .nv { color: #008080 }
+/* NameVariableClass */ .chroma .vc { color: #008080 }
+/* NameVariableGlobal */ .chroma .vg { color: #008080 }
+/* NameVariableInstance */ .chroma .vi { color: #008080 }
+/* LiteralString */ .chroma .s { color: #dd1144 }
+/* LiteralStringAffix */ .chroma .sa { color: #dd1144 }
+/* LiteralStringBacktick */ .chroma .sb { color: #dd1144 }
+/* LiteralStringChar */ .chroma .sc { color: #dd1144 }
+/* LiteralStringDelimiter */ .chroma .dl { color: #dd1144 }
+/* LiteralStringDoc */ .chroma .sd { color: #dd1144 }
+/* LiteralStringDouble */ .chroma .s2 { color: #dd1144 }
+/* LiteralStringEscape */ .chroma .se { color: #dd1144 }
+/* LiteralStringHeredoc */ .chroma .sh { color: #dd1144 }
+/* LiteralStringInterpol */ .chroma .si { color: #dd1144 }
+/* LiteralStringOther */ .chroma .sx { color: #dd1144 }
+/* LiteralStringRegex */ .chroma .sr { color: #009926 }
+/* LiteralStringSingle */ .chroma .s1 { color: #dd1144 }
+/* LiteralStringSymbol */ .chroma .ss { color: #990073 }
+/* LiteralNumber */ .chroma .m { color: #009999 }
+/* LiteralNumberBin */ .chroma .mb { color: #009999 }
+/* LiteralNumberFloat */ .chroma .mf { color: #009999 }
+/* LiteralNumberHex */ .chroma .mh { color: #009999 }
+/* LiteralNumberInteger */ .chroma .mi { color: #009999 }
+/* LiteralNumberIntegerLong */ .chroma .il { color: #009999 }
+/* LiteralNumberOct */ .chroma .mo { color: #009999 }
+/* Operator */ .chroma .o { color: #000000; font-weight: bold }
+/* OperatorWord */ .chroma .ow { color: #000000; font-weight: bold }
+/* Comment */ .chroma .c { color: #999988; font-style: italic }
+/* CommentHashbang */ .chroma .ch { color: #999988; font-style: italic }
+/* CommentMultiline */ .chroma .cm { color: #999988; font-style: italic }
+/* CommentSingle */ .chroma .c1 { color: #999988; font-style: italic }
+/* CommentSpecial */ .chroma .cs { color: #999999; font-weight: bold; font-style: italic }
+/* CommentPreproc */ .chroma .cp { color: #999999; font-weight: bold; font-style: italic }
+/* CommentPreprocFile */ .chroma .cpf { color: #999999; font-weight: bold; font-style: italic }
+/* GenericDeleted */ .chroma .gd { color: #000000; background-color: #ffdddd }
+/* GenericEmph */ .chroma .ge { color: #000000; font-style: italic }
+/* GenericError */ .chroma .gr { color: #aa0000 }
+/* GenericHeading */ .chroma .gh { color: #999999 }
+/* GenericInserted */ .chroma .gi { color: #000000; background-color: #ddffdd }
+/* GenericOutput */ .chroma .go { color: #888888 }
+/* GenericPrompt */ .chroma .gp { color: #555555 }
+/* GenericStrong */ .chroma .gs { font-weight: bold }
+/* GenericSubheading */ .chroma .gu { color: #aaaaaa }
+/* GenericTraceback */ .chroma .gt { color: #aa0000 }
+/* GenericUnderline */ .chroma .gl { text-decoration: underline }
+/* TextWhitespace */ .chroma .w { color: #bbbbbb }
+
+         
+         /* Overrides on top of the theme and Chroma CSS */
+/* Chroma-based lines highlighting in code blocks */
+.chroma .hl {
+    background-color: #e8e8e8;
+    /* Extend highlight up to 100 characters (assuming that the code blocks never have more than 100 characters in a line) */
+    min-width: 100ch;
+}
+/* GenericHeading */ .chroma .gh { color: #999999; font-weight: bold }
+/* GenericSubheading */ .chroma .gu { color: #aaaaaa; font-weight: bold }
+
+         
+        </style>
+    
+
+    
+
+    
+    
+    
+
+    
+    <script src="/js/responsive-nav-orig.min.355eebd835ac8071d56b337f68ffbbddc0f6487625599895e3e0b0461e791ebb.js"></script>
+    
+    <link rel="preload" href="/js/responsive-nav-orig.min.355eebd835ac8071d56b337f68ffbbddc0f6487625599895e3e0b0461e791ebb.js" as="script">
+
+    
+    
+    <script defer src="/js/libs/fa/fontawesome-all.min.78bd3583027f40ce4330d39e1f1df56bda5f4af819aac2d0214ba529918c9e95.js"></script>
+    
+    <link rel="preload" href="/js/libs/fa/fontawesome-all.min.78bd3583027f40ce4330d39e1f1df56bda5f4af819aac2d0214ba529918c9e95.js" as="script">
+
+    
+
+    
+    
+    
+
+    
+    
+<!-- rel="me" links for IndieAuth -->
+
+<link href="https://github.com/dynamicmetaflow/" rel="me">
+
+
+    
+    
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth" data-proofer-ignore>
+    
+    
+    <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+
+
+
+
+    
+ 
+<meta property="og:title" content="Introduction to React - Exercises: 1.2 - 1.5" />
+<meta property="og:description"
+      content="8:15 AM: Focus Block Complete Exercises 1.2 Introduction to React from Full Stack Open 2019
+8:33 AM: Problem - Failed to compile Problem
+index.js, has failed to compile.
+Insight:
+Errors that I&amp;rsquo;m receiving are related to no-undef, the function not being defined.
+9:00 AM: Completed exercise 1.2 9:01 AM: Code - Exercise 1.2 import React from &amp;#39;react&amp;#39;; import ReactDOM from &amp;#39;react-dom&amp;#39;; const App = () =&amp;gt; { const course = &amp;#39;Half Stack application development&amp;#39; const part1 = &amp;#39;Fundamentals of React&amp;#39; const exercises1 = 10 const part2 = &amp;#39;Using props to pass data&amp;#39; const exercises2 = 7 const part3 = &amp;#39;State of a component&amp;#39; const exercises3 = 14 return ( &amp;lt;div&amp;gt; &amp;lt;Header course = {course} /&amp;gt; &amp;lt;Content part1 = {part1} exercises1 = {exercises1} /&amp;gt; &amp;lt;Content part2 = {part2} exercises2 = {exercises2} /&amp;gt; &amp;lt;Content part3 = {part3} exercises3 = {exercises3} /&amp;gt; &amp;lt;p&amp;gt;Number of exercises {exercises1 &#43; exercises2 &#43; exercises3}&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; ) } const Header = (props) =&amp;gt; { return &amp;lt;h1&amp;gt;{props." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.alexsoto.dev/journal/2019-11-19/" />
+
+
+    
+        <meta property="article:published_time" content="2019-11-19T00:00:00-05:00"/>
+    
+    
+        <meta property="article:modified_time" content="2019-11-19T00:00:00-05:00"/>
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+     <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Introduction to React - Exercises: 1.2 - 1.5"/>
+<meta name="twitter:description" content="8:15 AM: Focus Block Complete Exercises 1.2 Introduction to React from Full Stack Open 2019
+8:33 AM: Problem - Failed to compile Problem
+index.js, has failed to compile.
+Insight:
+Errors that I&amp;rsquo;m receiving are related to no-undef, the function not being defined.
+9:00 AM: Completed exercise 1.2 9:01 AM: Code - Exercise 1.2 import React from &amp;#39;react&amp;#39;; import ReactDOM from &amp;#39;react-dom&amp;#39;; const App = () =&amp;gt; { const course = &amp;#39;Half Stack application development&amp;#39; const part1 = &amp;#39;Fundamentals of React&amp;#39; const exercises1 = 10 const part2 = &amp;#39;Using props to pass data&amp;#39; const exercises2 = 7 const part3 = &amp;#39;State of a component&amp;#39; const exercises3 = 14 return ( &amp;lt;div&amp;gt; &amp;lt;Header course = {course} /&amp;gt; &amp;lt;Content part1 = {part1} exercises1 = {exercises1} /&amp;gt; &amp;lt;Content part2 = {part2} exercises2 = {exercises2} /&amp;gt; &amp;lt;Content part3 = {part3} exercises3 = {exercises3} /&amp;gt; &amp;lt;p&amp;gt;Number of exercises {exercises1 &#43; exercises2 &#43; exercises3}&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; ) } const Header = (props) =&amp;gt; { return &amp;lt;h1&amp;gt;{props."/>
+<meta name="twitter:site" content="@dynamicmetaflow"/>
+    <meta name="twitter:creator" content="@dynamicmetaflow"/>
+
+
+    
+    
+    <link rel="alternate" type="application/jf2post+json" href="https://www.alexsoto.dev/journal/2019-11-19/jf2post.json" title="Jf2post for Alexander Soto" />
+    
+     
+
+
+     
+
+
+
+    
+    
+    
+        
+    
+
+
+     
+        
+        <meta name="DC.Creator" content="Alexander Soto"/>
+    
+
+
+
+    
+    
+    
+    <meta name="hugo-build-date" content="2019-06-04T19:16:36Z"/>
+    <meta name="hugo-commit-hash" content=""/>
+    <meta name="generator" content="Hugo 0.54.0" />
+</head>
+
+
+    <body lang="en">
+
+        
+        <div class="border" id="home"></div>
+
+        <div class="wrapper">   
+            
+<nav id="nav" class="nav-collapse opened" aria-hidden="false">
+    <ul class="navbar">
+        <li><a class="" href="/">Home</a></li>
+        
+            
+                <li><a class="" href="https://www.alexsoto.dev/blog/">Blog</a></li>
+            
+        
+            
+                <li><a class="" href="https://www.alexsoto.dev/journal/">Journal</a></li>
+            
+        
+            
+                <li><a class="" href="https://www.alexsoto.dev/about/">About</a></li>
+            
+        
+        
+    </ul>
+</nav>
+
+            <div class="container">
+                <header class="masthead">
+                    <div class="masthead-title no-text-decoration">
+                        <a href="/">Alexander Soto</a>
+                    </div>
+                    <div class="masthead-tagline">
+                        Bridging Technology and Social Justice
+                    </div>
+                </header>
+
+                
+
+
+
+
+
+
+
+
+<article class="post h-entry journal">
+    <header>
+        <div class="center">
+    <div class="taxo no-text-decoration">
+         
+            
+         
+            
+         
+            
+        
+    </div>
+
+</div>
+
+        <h1 class="post-title p-name">Introduction to React - Exercises: 1.2 - 1.5</h1>
+
+        
+        <data class="u-url" value="https://www.alexsoto.dev/journal/2019-11-19/"></data>
+
+        <div class="date-syndication">
+            
+
+
+    
+    
+    <div class="post-date">
+        
+        <time datetime="2019-11-19T00:00:00-0500" class="dt-published">Tue Nov 19, 2019</time>
+        
+        
+    </div>
+
+
+            
+
+
+
+
+        </div>
+         
+
+
+     
+
+
+
+    
+    
+    
+        
+    
+
+
+    
+        
+        <span class="hide">
+            &mdash; <a href="https://www.alexsoto.dev/" class="u-author">Alexander Soto</a>
+        </span>
+    
+
+
+    </header>
+
+    <div class="content">
+        
+
+
+        
+
+
+
+
+
+                       
+
+
+        <div class="e-content">
+            
+
+
+
+
+
+
+<h2 id="8-15-am-focus-block">8:15 AM: Focus Block&nbsp;<a class="headline-hash no-text-decoration" href="#8-15-am-focus-block">#</a> </h2>
+
+<p>Complete Exercises 1.2 Introduction to React from Full Stack Open 2019</p>
+
+<h2 id="8-33-am-problem-failed-to-compile">8:33 AM: Problem - Failed to compile&nbsp;<a class="headline-hash no-text-decoration" href="#8-33-am-problem-failed-to-compile">#</a> </h2>
+
+<p><strong>Problem</strong></p>
+
+<p>index.js, has failed to compile.</p>
+
+<p><strong>Insight:</strong></p>
+
+<p>Errors that I&rsquo;m receiving are related to no-undef, the function not being defined.</p>
+
+<h2 id="9-00-am-completed-exercise-1-dot-2">9:00 AM: Completed exercise 1.2&nbsp;<a class="headline-hash no-text-decoration" href="#9-00-am-completed-exercise-1-dot-2">#</a> </h2>
+
+<h2 id="9-01-am-code-exercise-1-dot-2">9:01 AM: Code - Exercise 1.2&nbsp;<a class="headline-hash no-text-decoration" href="#9-01-am-code-exercise-1-dot-2">#</a> </h2>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">import</span> <span class="nx">React</span> <span class="nx">from</span> <span class="s1">&#39;react&#39;</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ReactDOM</span> <span class="nx">from</span> <span class="s1">&#39;react-dom&#39;</span><span class="p">;</span>
+
+<span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+    <span class="k">const</span> <span class="nx">course</span> <span class="o">=</span> <span class="s1">&#39;Half Stack application development&#39;</span>
+    <span class="k">const</span> <span class="nx">part1</span> <span class="o">=</span> <span class="s1">&#39;Fundamentals of React&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="mi">10</span>
+    <span class="k">const</span> <span class="nx">part2</span> <span class="o">=</span> <span class="s1">&#39;Using props to pass data&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="mi">7</span>
+    <span class="k">const</span> <span class="nx">part3</span> <span class="o">=</span> <span class="s1">&#39;State of a component&#39;</span>
+    <span class="k">const</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="mi">14</span>
+
+    <span class="k">return</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Header</span> <span class="nx">course</span> <span class="o">=</span> <span class="p">{</span><span class="nx">course</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part1</span><span class="p">}</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises1</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part2</span><span class="p">}</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises2</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part3</span><span class="p">}</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">exercises3</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="nb">Number</span> <span class="k">of</span> <span class="nx">exercises</span> <span class="p">{</span><span class="nx">exercises1</span> <span class="o">+</span> <span class="nx">exercises2</span> <span class="o">+</span> <span class="nx">exercises3</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="err">/div&gt;</span>
+    <span class="p">)</span>
+<span class="p">}</span>
+
+
+<span class="k">const</span> <span class="nx">Header</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="o">&lt;</span><span class="nx">h1</span><span class="o">&gt;</span><span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">course</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/h1&gt;</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Part</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part1</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part2</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part3</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Content</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part1</span><span class="p">}</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part2</span><span class="p">}</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part3</span><span class="p">}</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span> <span class="err">/&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Total</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span> <span class="o">+</span> <span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span> <span class="o">+</span> <span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+
+  <span class="p">)</span>
+<span class="p">}</span>
+
+
+
+<span class="nx">ReactDOM</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span><span class="o">&lt;</span><span class="nx">App</span> <span class="err">/&gt;, document.getElementById(&#39;root&#39;));</span>
+</code></pre></div>
+<h2 id="10-20-am-reflection">10:20 AM:  Reflection&nbsp;<a class="headline-hash no-text-decoration" href="#10-20-am-reflection">#</a> </h2>
+
+<p>The exercises have focused on syntax and using props with components. Before I start reading a new section, I&rsquo;m going to review the exercises first to identify questions and areas to focus on while reading.</p>
+
+<p>I&rsquo;m going to dedicate time to read over the React documentation on props.</p>
+
+<h2 id="10-54-am-focus-block">10:54 AM: Focus Block&nbsp;<a class="headline-hash no-text-decoration" href="#10-54-am-focus-block">#</a> </h2>
+
+<h3 id="exercise-1-dot-3">Exercise 1.3&nbsp;<a class="headline-hash no-text-decoration" href="#exercise-1-dot-3">#</a> </h3>
+
+<p>Let&rsquo;s move forward to using objects in our application. Modify the variable definitions of the <em>App</em> component as follows and also refactor the application so that it still works:</p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">const</span> <span class="nx">course</span> <span class="o">=</span> <span class="s1">&#39;Half Stack application development&#39;</span>
+  <span class="k">const</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Fundamentals of React&#39;</span><span class="p">,</span>
+    <span class="nx">exercises</span><span class="o">:</span> <span class="mi">10</span>
+  <span class="p">}</span>
+  <span class="k">const</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Using props to pass data&#39;</span><span class="p">,</span>
+    <span class="nx">exercises</span><span class="o">:</span> <span class="mi">7</span>
+  <span class="p">}</span>
+  <span class="k">const</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;State of a component&#39;</span><span class="p">,</span>
+    <span class="nx">exercises</span><span class="o">:</span> <span class="mi">14</span>
+  <span class="p">}</span>
+
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="p">...</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div>
+<h2 id="11-02-am-emacs">11:02 AM: Emacs&nbsp;<a class="headline-hash no-text-decoration" href="#11-02-am-emacs">#</a> </h2>
+
+<ul>
+<li>Create keybindings for commenting and uncommenting a region.</li>
+<li>Create a keybinding that allows for narrowing to definition, selected region etc</li>
+</ul>
+
+<h2 id="11-10-am-code-exercise-1-dot-3">11:10 AM: Code - Exercise 1.3&nbsp;<a class="headline-hash no-text-decoration" href="#11-10-am-code-exercise-1-dot-3">#</a> </h2>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">import</span> <span class="nx">React</span> <span class="nx">from</span> <span class="s1">&#39;react&#39;</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ReactDOM</span> <span class="nx">from</span> <span class="s1">&#39;react-dom&#39;</span><span class="p">;</span>
+
+<span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">const</span> <span class="nx">course</span> <span class="o">=</span> <span class="s1">&#39;Half Stack application development&#39;</span>
+  <span class="k">const</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span> <span class="o">:</span> <span class="s1">&#39;Fundamentals of React&#39;</span><span class="p">,</span>
+    <span class="nx">exercises</span><span class="o">:</span> <span class="mi">10</span>
+  <span class="p">}</span>
+  <span class="k">const</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Using props to pass data&#39;</span><span class="p">,</span>
+    <span class="nx">exercises</span><span class="o">:</span>  <span class="mi">7</span>
+  <span class="p">}</span>
+  <span class="k">const</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;State of a component&#39;</span><span class="p">,</span>
+    <span class="nx">exercises</span><span class="o">:</span> <span class="mi">14</span>
+  <span class="p">}</span>
+    <span class="k">return</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Header</span> <span class="nx">course</span> <span class="o">=</span> <span class="p">{</span><span class="nx">course</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part1</span><span class="p">.</span><span class="nx">name</span><span class="p">}</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part1</span><span class="p">.</span><span class="nx">exercises</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part2</span><span class="p">.</span><span class="nx">name</span><span class="p">}</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part2</span><span class="p">.</span><span class="nx">exercises</span><span class="p">}</span> <span class="err">/&gt;</span>
+        <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part3</span><span class="p">.</span><span class="nx">name</span><span class="p">}</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">part3</span><span class="p">.</span><span class="nx">exercises</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="err">/div&gt;</span>
+    <span class="p">)</span>
+<span class="p">}</span>
+
+
+<span class="k">const</span> <span class="nx">Header</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="o">&lt;</span><span class="nx">h1</span><span class="o">&gt;</span><span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">course</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/h1&gt;</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Part</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part1</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part2</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part3</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Content</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part1</span><span class="p">}</span> <span class="nx">exercises1</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part2</span><span class="p">}</span> <span class="nx">exercises2</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part3</span><span class="p">}</span> <span class="nx">exercises3</span> <span class="o">=</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span> <span class="err">/&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Total</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">exercises1</span> <span class="o">+</span> <span class="nx">props</span><span class="p">.</span><span class="nx">exercises2</span> <span class="o">+</span> <span class="nx">props</span><span class="p">.</span><span class="nx">exercises3</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+
+  <span class="p">)</span>
+<span class="p">}</span>
+
+
+<span class="nx">ReactDOM</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span><span class="o">&lt;</span><span class="nx">App</span> <span class="err">/&gt;, document.getElementById(&#39;root&#39;));</span>
+</code></pre></div>
+<h2 id="11-14-am-reflection">11:14 AM: Reflection&nbsp;<a class="headline-hash no-text-decoration" href="#11-14-am-reflection">#</a> </h2>
+
+<p>Modified variable definitions of of App component to be objects instead, refactored accordingly.</p>
+
+<h2 id="11-19-am-exercise-1-dot-4">11:19 AM: Exercise 1.4&nbsp;<a class="headline-hash no-text-decoration" href="#11-19-am-exercise-1-dot-4">#</a> </h2>
+
+<p>And then place the objects into an array. Modify the variable definitions of <em>App</em> into the following form and modify the other parts of the application accordingly:</p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">const</span> <span class="nx">course</span> <span class="o">=</span> <span class="s1">&#39;Half Stack application development&#39;</span>
+  <span class="k">const</span> <span class="nx">parts</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="p">{</span>
+      <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Fundamentals of React&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span> <span class="mi">10</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Using props to pass data&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span> <span class="mi">7</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;State of a component&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span> <span class="mi">14</span>
+    <span class="p">}</span>
+  <span class="p">]</span>
+
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="p">...</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div>
+<p><strong>NB</strong> at this point <em>you can assume that there are always three items</em>, so there is no need to go through the arrays using loops. We will come back to the topic of rendering components based on items in arrays with a more thorough exploration in the next part of the course.</p>
+
+<p>However, do not pass different objects as separate props from the <em>App</em> component to the components <em>Content</em> and <em>Total</em>. Instead, pass them directly as an array:</p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="c1">// const definitions
+</span><span class="c1"></span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Header</span> <span class="nx">course</span><span class="o">=</span><span class="p">{...}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">parts</span><span class="o">=</span><span class="p">{</span><span class="nx">parts</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Total</span> <span class="nx">parts</span><span class="o">=</span><span class="p">{</span><span class="nx">parts</span><span class="p">}</span> <span class="err">/&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div>
+<h2 id="11-28-am-objects-and-arrays">11:28 AM: Objects and Arrays&nbsp;<a class="headline-hash no-text-decoration" href="#11-28-am-objects-and-arrays">#</a> </h2>
+
+<p>The syntax for an object and an array in Javascript are similar to each other causing mistakes in syntax, especially when going from a Object -&gt; Array.</p>
+
+<p>Remember that in the array there is no need for a const, and that the brackets indicate the beginning and end of an element. Other oddities are the usage of the &ldquo;,&rdquo; and &ldquo;[ ]&ldquo;.</p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">const</span> <span class="nx">parts</span> <span class="o">=</span> <span class="p">[</span>
+    <span class="p">{</span>
+      <span class="nx">name</span> <span class="o">:</span> <span class="s1">&#39;Fundamentals of React&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span> <span class="mi">10</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Using props to pass data&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span>  <span class="mi">7</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;State of a component&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span> <span class="mi">14</span>
+    <span class="p">}</span>
+  <span class="p">]</span>
+</code></pre></div>
+<h2 id="11-34-am-emacs">11:34 AM: Emacs&nbsp;<a class="headline-hash no-text-decoration" href="#11-34-am-emacs">#</a> </h2>
+
+<ul>
+<li>Create keybinding for scratch buffer</li>
+<li>Set sane defaults for programming modes</li>
+</ul>
+
+<h2 id="11-47-pm-exercise-1-dot-5">11:47 PM: Exercise 1.5&nbsp;<a class="headline-hash no-text-decoration" href="#11-47-pm-exercise-1-dot-5">#</a> </h2>
+
+<p>Let&rsquo;s take the changes one step further. Change the course and its parts into a single Javascript object. Fix everything that breaks.</p>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">const</span> <span class="nx">course</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Half Stack application development&#39;</span><span class="p">,</span>
+    <span class="nx">parts</span><span class="o">:</span> <span class="p">[</span>
+      <span class="p">{</span>
+        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Fundamentals of React&#39;</span><span class="p">,</span>
+        <span class="nx">exercises</span><span class="o">:</span> <span class="mi">10</span>
+      <span class="p">},</span>
+      <span class="p">{</span>
+        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Using props to pass data&#39;</span><span class="p">,</span>
+        <span class="nx">exercises</span><span class="o">:</span> <span class="mi">7</span>
+      <span class="p">},</span>
+      <span class="p">{</span>
+        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;State of a component&#39;</span><span class="p">,</span>
+        <span class="nx">exercises</span><span class="o">:</span> <span class="mi">14</span>
+      <span class="p">}</span>
+    <span class="p">]</span>
+  <span class="p">}</span>
+
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="p">...</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div>
+<h2 id="12-10-pm-code-1-dot-4-and-1-dot-5">12:10 PM: Code - 1.4 and 1.5&nbsp;<a class="headline-hash no-text-decoration" href="#12-10-pm-code-1-dot-4-and-1-dot-5">#</a> </h2>
+<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="k">import</span> <span class="nx">React</span> <span class="nx">from</span> <span class="s1">&#39;react&#39;</span><span class="p">;</span>
+<span class="k">import</span> <span class="nx">ReactDOM</span> <span class="nx">from</span> <span class="s1">&#39;react-dom&#39;</span><span class="p">;</span>
+
+<span class="k">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">const</span> <span class="nx">course</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Half Stack application development&#39;</span><span class="p">,</span>
+    <span class="nx">parts</span><span class="o">:</span> <span class="p">[</span>
+    <span class="p">{</span>
+      <span class="nx">name</span> <span class="o">:</span> <span class="s1">&#39;Fundamentals of React:&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span> <span class="mi">10</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Using props to pass data:&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span>  <span class="mi">7</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+      <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;State of a component:&#39;</span><span class="p">,</span>
+      <span class="nx">exercises</span><span class="o">:</span> <span class="mi">14</span>
+    <span class="p">}</span>
+  <span class="p">]</span>
+<span class="p">}</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Header</span> <span class="nx">course</span> <span class="o">=</span> <span class="p">{</span><span class="nx">course</span><span class="p">.</span><span class="nx">name</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Content</span> <span class="nx">parts</span> <span class="o">=</span> <span class="p">{</span><span class="nx">course</span><span class="p">.</span><span class="nx">parts</span><span class="p">}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Total</span> <span class="nx">parts</span> <span class="o">=</span> <span class="p">{</span><span class="nx">course</span><span class="p">.</span><span class="nx">parts</span><span class="p">}</span> <span class="err">/&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Header</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="o">&lt;</span><span class="nx">h1</span><span class="o">&gt;</span><span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">course</span><span class="p">}</span><span class="o">&lt;</span><span class="err">/h1&gt;</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Part</span> <span class="o">=</span> <span class="p">(</span><span class="nx">props</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part</span><span class="p">.</span><span class="nx">name</span><span class="p">}</span> <span class="p">{</span><span class="nx">props</span><span class="p">.</span><span class="nx">part</span><span class="p">.</span><span class="nx">exercises</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Content</span> <span class="o">=</span> <span class="p">({</span><span class="nx">parts</span><span class="p">})</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part</span> <span class="o">=</span> <span class="p">{</span><span class="nx">parts</span><span class="p">[</span><span class="mi">0</span><span class="p">]}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part</span> <span class="o">=</span> <span class="p">{</span><span class="nx">parts</span><span class="p">[</span><span class="mi">1</span><span class="p">]}</span> <span class="err">/&gt;</span>
+      <span class="o">&lt;</span><span class="nx">Part</span> <span class="nx">part</span> <span class="o">=</span> <span class="p">{</span><span class="nx">parts</span><span class="p">[</span><span class="mi">2</span><span class="p">]}</span> <span class="err">/&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="k">const</span> <span class="nx">Total</span> <span class="o">=</span> <span class="p">({</span><span class="nx">parts</span><span class="p">})</span> <span class="p">=&gt;</span> <span class="p">{</span>
+  <span class="kd">let</span> <span class="nx">total</span> <span class="o">=</span> <span class="nx">parts</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">exercises</span> <span class="o">+</span> <span class="nx">parts</span><span class="p">[</span><span class="mi">1</span><span class="p">].</span><span class="nx">exercises</span> <span class="o">+</span> <span class="nx">parts</span><span class="p">[</span><span class="mi">2</span><span class="p">].</span><span class="nx">exercises</span><span class="p">;</span>
+  <span class="k">return</span> <span class="p">(</span>
+    <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+      <span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span> <span class="nb">Number</span> <span class="k">of</span> <span class="nx">exercises</span><span class="o">:</span> <span class="p">{</span><span class="nx">total</span><span class="p">}</span> <span class="o">&lt;</span><span class="err">/p&gt;</span>
+    <span class="o">&lt;</span><span class="err">/div&gt;</span>
+
+  <span class="p">)</span>
+<span class="p">}</span>
+
+<span class="nx">ReactDOM</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span><span class="o">&lt;</span><span class="nx">App</span> <span class="err">/&gt;, document.getElementById(&#39;root&#39;));</span>
+</code></pre></div>
+<h2 id="12-17-pm-recovery-block">12:17 PM: Recovery Block&nbsp;<a class="headline-hash no-text-decoration" href="#12-17-pm-recovery-block">#</a> </h2>
+
+
+        </div>
+    </div>
+</article>
+
+
+                
+                <footer>
+                    
+
+
+
+
+<div class="no-text-decoration">
+    <div class="jump top"><a href="#" title="Top of this page">⮉</a></div>
+    <div class="jump bottom"><a href="#bottom" title="Bottom of this page">⮋</a></div>
+</div>
+
+
+ 
+    
+        <div class="hugotoc no-text-decoration">
+            <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#8-15-am-focus-block">8:15 AM: Focus Block</a></li>
+<li><a href="#8-33-am-problem-failed-to-compile">8:33 AM: Problem - Failed to compile</a></li>
+<li><a href="#9-00-am-completed-exercise-1-dot-2">9:00 AM: Completed exercise 1.2</a></li>
+<li><a href="#9-01-am-code-exercise-1-dot-2">9:01 AM: Code - Exercise 1.2</a></li>
+<li><a href="#10-20-am-reflection">10:20 AM:  Reflection</a></li>
+<li><a href="#10-54-am-focus-block">10:54 AM: Focus Block</a>
+<ul>
+<li><a href="#exercise-1-dot-3">Exercise 1.3</a></li>
+</ul></li>
+<li><a href="#11-02-am-emacs">11:02 AM: Emacs</a></li>
+<li><a href="#11-10-am-code-exercise-1-dot-3">11:10 AM: Code - Exercise 1.3</a></li>
+<li><a href="#11-14-am-reflection">11:14 AM: Reflection</a></li>
+<li><a href="#11-19-am-exercise-1-dot-4">11:19 AM: Exercise 1.4</a></li>
+<li><a href="#11-28-am-objects-and-arrays">11:28 AM: Objects and Arrays</a></li>
+<li><a href="#11-34-am-emacs">11:34 AM: Emacs</a></li>
+<li><a href="#11-47-pm-exercise-1-dot-5">11:47 PM: Exercise 1.5</a></li>
+<li><a href="#12-10-pm-code-1-dot-4-and-1-dot-5">12:10 PM: Code - 1.4 and 1.5</a></li>
+<li><a href="#12-17-pm-recovery-block">12:17 PM: Recovery Block</a></li>
+</ul></li>
+</ul>
+</nav>
+            <a href="#" class="back-to-top">Back to top</a>
+        </div>
+    
+    
+<script src="/js/libs/jquery/3.3.1/jquery.slim.min.min.528a9ce56371729e50605653bf72b1e933574cdb97519529bf8fab01b63f9703.js"></script>
+
+<link rel="preload" href="/js/libs/jquery/3.3.1/jquery.slim.min.min.528a9ce56371729e50605653bf72b1e933574cdb97519529bf8fab01b63f9703.js" as="script">
+
+<script type="application/javascript">(function() {
+     var $window = $(window);
+     if ($window.width() >= 1400) { 
+         var $toc = $('#TableOfContents');
+         if ($toc.length > 0) {
+             function onScroll(){
+                 var currentScroll = $window.scrollTop();
+                 var h = $('.content h1, .content h2, .content h3, .content h4, .content h5, .content h6, .h-feed h2');
+                 var id = "";
+                 h.each(function (i, e) {
+                     e = $(e);
+                     if (e.offset().top - 10 <= currentScroll) {
+                         id = e.attr('id');
+                     }
+                 });
+                 var current = $toc.find('a.current');
+                 if (current.length == 1 && current.eq(0).attr('href') == '#' + id) return true;
+
+                 current.each(function (i, e) {
+                     $(e).removeClass('current').siblings('ul').hide();
+                 });
+                 $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+                     $(e).children('a').addClass('current').siblings('ul').show();
+                 });
+             }
+             $window.on('scroll', onScroll);
+             $(document).ready(function() {
+                 $toc.find('a').parent('li').find('ul').hide();
+                 onScroll();
+                 document.getElementsByClassName('hugotoc')[0].style.display = '';
+             });}}})();</script>
+
+
+
+
+
+
+
+
+<div class="backtotop center no-text-decoration">
+    <a href="#">back to <span class="top">top</span></a>
+</div>
+
+
+<div class="right">
+    <div class="taxo no-text-decoration">
+         
+            
+         
+            
+         
+            
+        
+    </div>
+
+</div>
+<div class="clear-float"></div>
+
+
+
+<div class="prev-next-navigator clear-float">
+    
+    
+        <span class="next-post right no-text-decoration">
+            <a href="https://www.alexsoto.dev/journal/2019-11-18/" class="nobr">Introduction to React - Exercise 1.1 »</a>
+        </span>
+    
+</div>
+
+
+<a id="bottom"></a>
+
+
+
+
+
+
+
+
+
+                       
+
+
+
+
+
+
+
+                    <ul class="no-bullets feed right inline">
+    
+        
+        
+    
+</ul>
+<div class="clear-float"></div>
+
+                </footer>
+                <hr />
+            </div>               
+
+            <footer> 
+                
+
+
+<ul class="social no-text-decoration">
+    
+        <li>
+            <a href="https://github.com/dynamicmetaflow/" title="Github">
+                
+                
+                    
+                    
+                    
+                    <i class="fab fa-2x fa-github"></i>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="https://twitter.com/dynamicmetaflow/" title="Twitter">
+                
+                
+                    
+                    
+                    
+                    <i class="fab fa-2x fa-twitter"></i>
+                
+            </a>
+        </li>
+    
+</ul>
+
+
+
+
+
+
+    
+    
+    
+        
+    
+    
+        
+            
+        
+        
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+<p>
+    
+</p>
+
+
+
+
+
+<div class="badges no-text-decoration">
+    
+    
+
+    
+</div>
+
+
+
+
+<script type="application/javascript">var nav=responsiveNav("#nav");</script>
+
+
+
+
+<script defer src="/js/libs/fragmentions/wrapper.min.4c511209cd3786314b251d891c8da528b47a972669aa4eea416b64d4be01eee2.js"></script>
+
+
+
+
+
+
+
+
+    <div class="h-card">
+        
+        
+        <a class="p-name u-url" href="https://www.alexsoto.dev/">Alexander Soto</a>
+        
+            <p>
+                <a class="u-email" href="mailto:alexander.soto@@gmail.com" rel="me">alexander.soto@@gmail.com</a>
+            </p>
+        
+        
+    </div>
+
+
+
+            </footer>
+        </div> 
+    </body>
+</html>
