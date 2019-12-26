@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea on Alex&#39;s wiki</title>
+    <link>https://alexsoto.dev/notes/tags/idea/</link>
+    <description>Recent content in Idea on Alex&#39;s wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://alexsoto.dev/notes/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inmates and communication</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2030-inmates-and-communication/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2030-inmates-and-communication/</guid>
+      <description> Background: People who are detained want to call to call home, friends or family but the prices of the phone call is prohibitive, due to corporations.
+Problem Statement: How might we create an application or a way for inmates to call to the outside without having to pay the high fees?
+Related External Links </description>
+    </item>
+    
+    <item>
+      <title>Rapid Response Application</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-24-2026-rapid-response-application/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-24-2026-rapid-response-application/</guid>
+      <description> Problem statement: How might we better create an application where when a member of the community needs help other people are pinged
+Related External Links </description>
+    </item>
+    
+  </channel>
+</rss>
