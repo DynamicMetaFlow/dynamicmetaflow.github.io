@@ -1,23 +1,177 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>
-            
-                    Tags on
-                
-            
-            Alexander Soto</title>
-        <link>https://www.alexsoto.dev/tags/</link>
-        <description>Recent content  in Tags
-            on Alexander Soto</description>
-        <language>en-us</language>
-        
-                <managingEditor>alexander.soto@@gmail.com (Alexander Soto)</managingEditor>
-                <webMaster>alexander.soto@@gmail.com (Alexander Soto)</webMaster><lastBuildDate>Wed, 25 Dec 2019 21:03:51 -0500</lastBuildDate>
-        <generator>Hugo -- gohugo.io</generator>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-            <atom:link href="https://www.alexsoto.dev/tags/index.xml" rel="self" type="application/rss&#43;xml" />
-    </channel>
+  <channel>
+    <title>Tags on Alex&#39;s Notes</title>
+    <link>https://alexsoto.dev/notes/tags/</link>
+    <description>Recent content in Tags on Alex&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://alexsoto.dev/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attention</title>
+      <link>https://alexsoto.dev/notes/tags/attention/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognition</title>
+      <link>https://alexsoto.dev/notes/tags/cognition/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consequences</title>
+      <link>https://alexsoto.dev/notes/tags/consequences/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/consequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://alexsoto.dev/notes/tags/emacs/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment</title>
+      <link>https://alexsoto.dev/notes/tags/environment/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Happiness</title>
+      <link>https://alexsoto.dev/notes/tags/happiness/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/happiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperbole</title>
+      <link>https://alexsoto.dev/notes/tags/hyperbole/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/hyperbole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Idea</title>
+      <link>https://alexsoto.dev/notes/tags/idea/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge</title>
+      <link>https://alexsoto.dev/notes/tags/knowledge/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://alexsoto.dev/notes/tags/learning/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Org Mode</title>
+      <link>https://alexsoto.dev/notes/tags/org-mode/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/org-mode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organization</title>
+      <link>https://alexsoto.dev/notes/tags/organization/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pkm</title>
+      <link>https://alexsoto.dev/notes/tags/pkm/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/pkm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://alexsoto.dev/notes/tags/privacy/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theft</title>
+      <link>https://alexsoto.dev/notes/tags/theft/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/theft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wage</title>
+      <link>https://alexsoto.dev/notes/tags/wage/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/wage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wagetheft</title>
+      <link>https://alexsoto.dev/notes/tags/wagetheft/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/wagetheft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zettelkasten</title>
+      <link>https://alexsoto.dev/notes/tags/zettelkasten/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/tags/zettelkasten/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
-
-
