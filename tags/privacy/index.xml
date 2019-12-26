@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on Alex&#39;s Notes</title>
+    <link>https://alexsoto.dev/notes/tags/privacy/</link>
+    <description>Recent content in Privacy on Alex&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://alexsoto.dev/notes/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Threat Modeling</title>
+      <link>https://alexsoto.dev/notes/posts/2019-12-25-1736-threat-modeling/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://alexsoto.dev/notes/posts/2019-12-25-1736-threat-modeling/</guid>
+      <description>  What data do you have to protect? Identify where we are vulnerable From who do you have to protect data from What harm results if data leaked? What are the steps to take to protect?  Related External Links </description>
+    </item>
+    
+  </channel>
+</rss>
